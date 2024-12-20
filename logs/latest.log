@@ -1,1291 +1,256 @@
-[12:51:17] [ServerMain/INFO]: [bootstrap] Running Java 23 (Java HotSpot(TM) 64-Bit Server VM 23.0.1+11-39; Oracle Corporation null) on Windows 11 10.0 (amd64)
-[12:51:17] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-131-ver/1.21.1@84281ce (2024-10-31T17:43:44Z) for Minecraft 1.21.1
-[12:51:21] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[12:51:23] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[12:51:23] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+[14:06:48] [ServerMain/INFO]: [bootstrap] Running Java 23 (Java HotSpot(TM) 64-Bit Server VM 23.0.1+11-39; Oracle Corporation null) on Windows 11 10.0 (amd64)
+[14:06:48] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-131-ver/1.21.1@84281ce (2024-10-31T17:43:44Z) for Minecraft 1.21.1
+[14:06:51] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[14:06:51] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[14:06:51] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
  - voicechat (2.5.26)
-[12:51:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[12:51:33] [ServerMain/INFO]: Loaded 1290 recipes
-[12:51:34] [ServerMain/INFO]: Loaded 1399 advancements
-[12:51:34] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[12:51:34] [Server thread/INFO]: Loading properties
-[12:51:35] [Server thread/INFO]: This server is running Paper version 1.21.1-131-ver/1.21.1@84281ce (2024-10-31T17:43:44Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[12:51:36] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[12:51:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[12:51:36] [Server thread/INFO]: Using 4 threads for Netty based IO
-[12:51:39] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[12:51:41] [Server thread/INFO]: Default game type: SURVIVAL
-[12:51:41] [Server thread/INFO]: Generating keypair
-[12:51:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:51:43] [Server thread/INFO]: Using default channel type
-[12:51:43] [Server thread/INFO]: Paper: Using Java compression from Velocity.
-[12:51:43] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[12:51:44] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
-[12:51:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[12:51:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:51:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:51:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:51:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:51:44] [Server thread/INFO]: Preparing level "world"
-[12:51:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:51:51] [Server thread/INFO]: Time elapsed: 5018 ms
-[12:51:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[12:51:51] [Server thread/INFO]: Time elapsed: 514 ms
-[12:51:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[12:51:52] [Server thread/INFO]: Time elapsed: 313 ms
-[12:51:52] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
-[12:51:52] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.21.1-R0.1
-[12:51:52] [Server thread/INFO]: [voicechat] Compatibility version 18
-[12:51:52] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[12:51:52] [Server thread/INFO]: [spark] Starting background profiler...
-[12:51:52] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
-[12:51:52] [Server thread/INFO]: Done preparing level "world" (8.702s)
-[12:51:52] [Server thread/INFO]: Running delayed init tasks
-[12:51:52] [Server thread/INFO]: Done (39.466s)! For help, type "help"
-[12:51:52] [Server thread/INFO]: Timings Reset
-[12:51:53] [Server thread/INFO]: [voicechat] Loading plugins
-[12:51:53] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[12:51:53] [Server thread/INFO]: [voicechat] Initializing plugins
-[12:51:53] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[12:51:53] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[12:51:53] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'that-harold.gl.at.ply.gg'
-[12:51:53] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 2582
-[12:53:56] [User Authenticator #0/INFO]: UUID of player Abian is 0f59eef6-4866-389f-b76c-7471a3258d2f
-[12:53:59] [Server thread/INFO]: Abian joined the game
-[12:54:00] [Server thread/INFO]: Abian[/127.97.25.202:49701] logged in with entity id 16 at ([world]-104.30000001192093, 64.5625, -152.6223698018065)
-[12:54:01] [Server thread/INFO]: [voicechat] Received secret request of Abian (18)
-[12:54:01] [Server thread/INFO]: [voicechat] Sent secret to Abian
-[12:54:01] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: f20a13c3-2c8b-4281-a5cc-615a85bd4006, mapped to Bat['Bat'/21, uuid='f20a13c3-2c8b-4281-a5cc-615a85bd4006', l='ServerLevel[world]', x=-142.56, y=41.10, z=-154.35, cpos=[-9, -10], tl=185, v=true], can't add Bat['Bat'/30, uuid='f20a13c3-2c8b-4281-a5cc-615a85bd4006', l='ServerLevel[world]', x=-144.74, y=43.10, z=-160.69, cpos=[-10, -11], tl=248, v=false]
-[12:54:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 0f59eef6-4866-389f-b76c-7471a3258d2f
-[12:54:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0f59eef6-4866-389f-b76c-7471a3258d2f
-[12:54:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Abian (0f59eef6-4866-389f-b76c-7471a3258d2f) successfully connected to voice chat
-[12:54:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2840ms or 56 ticks behind
-[12:56:04] [Server thread/INFO]: [Not Secure] [Server] ma lag? or nah?
-[12:56:07] [Async Chat Thread - #1/INFO]: [Not Secure] <Abian> nahh
-[12:56:48] [Server thread/INFO]: [Not Secure] [Server] <3
-[12:57:10] [Async Chat Thread - #1/INFO]: [Not Secure] <Abian> (===3
-[13:02:18] [VoiceChatPacketProcessingThread/ERROR]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
-[13:02:19] [VoiceChatPacketProcessingThread/ERROR]: [voicechat] Packet queue has 67 packets
-[13:02:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3186ms or 63 ticks behind
-[13:04:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3037ms or 60 ticks behind
-[13:12:09] [Server thread/WARN]: Abian moved too quickly! -8.136001958677431,-0.02442408821369213,5.909514579888054
-[13:12:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2524ms or 50 ticks behind
-[13:12:32] [Server thread/WARN]: Abian moved too quickly! 8.920185426592468,-3.083077817806469,33.36107620536576
-[13:12:36] [VoiceChatPacketProcessingThread/ERROR]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
-[13:12:36] [VoiceChatPacketProcessingThread/ERROR]: [voicechat] Packet queue has 61 packets
-[13:12:36] [Server thread/WARN]: Abian moved too quickly! 0.9471356903431101,-0.001335979112141672,10.834019944908718
-[13:12:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22549ms or 450 ticks behind
-[13:13:07] [spark-java-sampler-0-0/WARN]: [spark] Timed out waiting for world statistics
-[13:13:13] [Server thread/WARN]: Abian moved too quickly! -28.051360265685986,-1.0,14.819243322051776
-[13:13:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 0f59eef6-4866-389f-b76c-7471a3258d2f timed out
-[13:13:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Abian
-[13:13:41] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.1-131-84281ce (MC: 1.21.1) ---
-[13:13:43] [Server thread/INFO]: Abian lost connection: Disconnected
-[13:13:43] [Paper Watchdog Thread/ERROR]: The server has not responded for 11 seconds! Creating thread dump
-[13:13:43] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:13:43] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[13:13:47] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:13:47] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[13:13:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Abian
-[13:13:56] [Paper Watchdog Thread/ERROR]: 	PID: 41 | Suspended: false | Native: false | State: RUNNABLE
-[13:13:56] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:13:56] [Server thread/INFO]: [voicechat] Disconnecting client Abian
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.Unsafe.allocateInstance(Native Method)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.invoke.DirectMethodHandle.allocateInstance(DirectMethodHandle.java:500)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.invoke.DirectMethodHandle$Holder.newInvokeSpecial(DirectMethodHandle$Holder)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.invoke.Invokers$Holder.linkToTargetMethod(Invokers$Holder)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.RecordBuilder$AbstractUniversalBuilder.add(RecordBuilder.java:147)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.RecordBuilder.add(RecordBuilder.java:35)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.codecs.FieldEncoder.encode(FieldEncoder.java:24)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.MapCodec$2.encode(MapCodec.java:82)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.codecs.KeyDispatchCodec.encode(KeyDispatchCodec.java:74)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:163)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.codecs.EitherCodec.lambda$encode$3(EitherCodec.java:34)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.codecs.EitherCodec$$Lambda/0x000002833b400a40.apply(Unknown Source)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.datafixers.util.Either$Left.map(Either.java:38)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.codecs.EitherCodec.encode(EitherCodec.java:33)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.codecs.EitherCodec.encode(EitherCodec.java:11)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.Encoder$1.encode(Encoder.java:25)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.Codec$2.encode(Codec.java:80)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.Encoder$1.encode(Encoder.java:25)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.Codec$2.encode(Codec.java:80)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.Encoder.encodeStart(Encoder.java:14)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.codecs.OptionalFieldCodec.encode(OptionalFieldCodec.java:44)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.codecs.OptionalFieldCodec.encode(OptionalFieldCodec.java:17)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.codecs.RecordCodecBuilder$Instance$6.encode(RecordCodecBuilder.java:295)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.codecs.RecordCodecBuilder$2.encode(RecordCodecBuilder.java:112)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.codecs.RecordCodecBuilder$Instance$6.encode(RecordCodecBuilder.java:297)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.codecs.RecordCodecBuilder$2.encode(RecordCodecBuilder.java:112)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.MapCodec$MapCodecCodec.encode(MapCodec.java:163)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.chat.ComponentSerialization$3.encode(ComponentSerialization.java:174)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.chat.ComponentSerialization$3.encode(ComponentSerialization.java:160)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.codecs.EitherCodec.lambda$encode$4(EitherCodec.java:35)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.codecs.EitherCodec$$Lambda/0x000002833b400c88.apply(Unknown Source)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.datafixers.util.Either$Right.map(Either.java:99)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.codecs.EitherCodec.encode(EitherCodec.java:33)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.codecs.EitherCodec.encode(EitherCodec.java:11)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.Encoder$1.encode(Encoder.java:25)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.Codec$2.encode(Codec.java:80)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.Codec$RecursiveCodec.encode(Codec.java:217)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.Encoder.encodeStart(Encoder.java:14)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.adventure.WrapperAwareSerializer.deserialize(WrapperAwareSerializer.java:27)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.adventure.WrapperAwareSerializer.deserialize(WrapperAwareSerializer.java:13)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.adventure.PaperAdventure.asAdventure(PaperAdventure.java:166)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.players.PlayerList.remove(PlayerList.java:590)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.removePlayerFromWorld(ServerGamePacketListenerImpl.java:2107)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:2087)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:2074)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.Connection.handleDisconnection(Connection.java:910)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:268)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1821)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1596)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1302)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:329)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x000002833acb9870.run(Unknown Source)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:13:56] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:13:56] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:13:56] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[13:13:56] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:13:58] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.1-131-84281ce (MC: 1.21.1) ---
-[13:13:58] [Paper Watchdog Thread/ERROR]: The server has not responded for 16 seconds! Creating thread dump
-[13:13:58] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:13:58] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[13:13:58] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:13:58] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[13:13:58] [Paper Watchdog Thread/ERROR]: 	PID: 41 | Suspended: false | Native: true | State: RUNNABLE
-[13:13:58] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.zip.Deflater.deflateBytesBytes(Native Method)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.zip.Deflater.deflate(Deflater.java:591)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.zip.Deflater.deflate(Deflater.java:471)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.zip.DeflaterOutputStream.deflate(DeflaterOutputStream.java:278)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.zip.DeflaterOutputStream.write(DeflaterOutputStream.java:213)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.zip.GZIPOutputStream.write(GZIPOutputStream.java:152)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:125)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.io.BufferedOutputStream.implWrite(BufferedOutputStream.java:173)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.io.BufferedOutputStream.write(BufferedOutputStream.java:159)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.io.DataOutputStream.writeByte(DataOutputStream.java:164)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.util.DelegateDataOutput.writeByte(DelegateDataOutput.java:35)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.nbt.CompoundTag.writeNamedTag(CompoundTag.java:523)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.nbt.CompoundTag.write(CompoundTag.java:176)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.nbt.NbtIo.writeUnnamedTag(NbtIo.java:389)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.nbt.NbtIo.writeUnnamedTagWithFallback(NbtIo.java:394)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.nbt.NbtIo.write(NbtIo.java:344)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.nbt.NbtIo.writeCompressed(NbtIo.java:208)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.nbt.NbtIo.writeCompressed(NbtIo.java:174)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.storage.PlayerDataStorage.save(PlayerDataStorage.java:44)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.players.PlayerList.save(PlayerList.java:573)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.players.PlayerList.remove(PlayerList.java:629)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.players.PlayerList.remove(PlayerList.java:590)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.removePlayerFromWorld(ServerGamePacketListenerImpl.java:2107)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:2087)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:2074)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.network.Connection.handleDisconnection(Connection.java:910)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:268)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1821)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1596)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1302)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:329)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x000002833acb9870.run(Unknown Source)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:13:58] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:13:58] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:13:58] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[13:13:58] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:14:01] [Server thread/INFO]: Abian left the game
-[13:14:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 77767ms or 1555 ticks behind
-[13:14:24] [User Authenticator #1/INFO]: UUID of player Abian is 0f59eef6-4866-389f-b76c-7471a3258d2f
-[13:14:29] [Server thread/INFO]: Abian joined the game
-[13:14:29] [Server thread/INFO]: Abian[/127.97.25.202:49805] logged in with entity id 2744 at ([world]-98.10415200331951, 64.6722033271407, -50.5006929360216)
-[13:14:29] [Server thread/INFO]: [voicechat] Received secret request of Abian (18)
-[13:14:29] [Server thread/INFO]: [voicechat] Sent secret to Abian
-[13:14:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 0f59eef6-4866-389f-b76c-7471a3258d2f
-[13:14:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0f59eef6-4866-389f-b76c-7471a3258d2f
-[13:14:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Abian (0f59eef6-4866-389f-b76c-7471a3258d2f) successfully connected to voice chat
-[13:19:17] [User Authenticator #2/INFO]: UUID of player yddie is e8ee65cf-4302-3d04-9b67-d073ae0e4e31
-[13:19:20] [Server thread/INFO]: yddie joined the game
-[13:19:20] [Server thread/INFO]: yddie[/127.58.242.174:49815] logged in with entity id 3289 at ([world]-82.95017582492142, 60.0, -140.66508402553708)
-[13:19:20] [Server thread/INFO]: [voicechat] Received secret request of yddie (18)
-[13:19:20] [Server thread/INFO]: [voicechat] Sent secret to yddie
-[13:19:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e8ee65cf-4302-3d04-9b67-d073ae0e4e31
-[13:19:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e8ee65cf-4302-3d04-9b67-d073ae0e4e31
-[13:19:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player yddie (e8ee65cf-4302-3d04-9b67-d073ae0e4e31) successfully connected to voice chat
-[13:20:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2584ms or 51 ticks behind
-[13:21:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2772ms or 55 ticks behind
-[13:21:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3649ms or 72 ticks behind
-[13:22:17] [Server thread/WARN]: yddie moved too quickly! 10.308290753563492,4.07520089011895,5.99943748161607
-[13:22:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7467ms or 149 ticks behind
-[13:22:33] [Async Chat Thread - #3/INFO]: [Not Secure] <yddie> lance
-[13:22:34] [Async Chat Thread - #3/INFO]: [Not Secure] <yddie> san base ni deinard
-[13:22:39] [Server thread/WARN]: yddie moved too quickly! 5.669306392302936,-1.2579991035152744,12.503613348640087
-[13:22:42] [Server thread/WARN]: yddie moved too quickly! -5.461073716283259,0.001335979112141672,8.56142834890376
-[13:22:50] [Server thread/WARN]: yddie moved too quickly! -20.86285533650159,-0.6080932798695642,8.548606312361613
-[13:22:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17706ms or 354 ticks behind
-[13:22:58] [Server thread/WARN]: yddie moved too quickly! -10.430932019103135,1.0860940793155152,-2.8129547477070815
-[13:23:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4355ms or 87 ticks behind
-[13:23:18] [Server thread/WARN]: yddie moved too quickly! 8.259654269922141,2.504799122994072,-5.83172442102213
-[13:23:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2965ms or 59 ticks behind
-[13:24:00] [Server thread/WARN]: yddie moved too quickly! -2.743562372083984,-3.0,-27.636177054252585
-[13:24:00] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.1-131-84281ce (MC: 1.21.1) ---
-[13:24:01] [Paper Watchdog Thread/ERROR]: The server has not responded for 0 seconds! Creating thread dump
-[13:24:01] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:24:01] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[13:24:01] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:24:01] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[13:24:01] [Paper Watchdog Thread/ERROR]: 	PID: 41 | Suspended: false | Native: false | State: RUNNABLE
-[13:24:01] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:24:01] [Paper Watchdog Thread/ERROR]: 		org.spigotmc.ActivationRange.activateEntities(ActivationRange.java:226)
-[13:24:01] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:715)
-[13:24:01] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1804)
-[13:24:01] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
-[13:24:01] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1596)
-[13:24:01] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1302)
-[13:24:01] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:329)
-[13:24:01] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x000002833acb9870.run(Unknown Source)
-[13:24:01] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:24:01] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:24:01] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:24:01] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[13:24:01] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:24:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9850ms or 197 ticks behind
-[13:25:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 0f59eef6-4866-389f-b76c-7471a3258d2f timed out
-[13:25:13] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.1-131-84281ce (MC: 1.21.1) ---
-[13:25:13] [Paper Watchdog Thread/ERROR]: The server has not responded for 15 seconds! Creating thread dump
-[13:25:13] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:13] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[13:25:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Abian
-[13:25:13] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:13] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[13:25:13] [Paper Watchdog Thread/ERROR]: 	PID: 41 | Suspended: false | Native: false | State: RUNNABLE
-[13:25:13] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.sensing.SensorType.lambda$static$1(SensorType.java:40)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.sensing.SensorType$$Lambda/0x000002833a876c18.get(Unknown Source)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.sensing.SensorType.create(SensorType.java:61)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.Brain.<init>(Brain.java:136)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.Brain$1.decode(Brain.java:101)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.MapDecoder.lambda$compressedDecode$1(MapDecoder.java:52)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.MapDecoder$$Lambda/0x000002833aa8efd0.apply(Unknown Source)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.DataResult$Success.flatMap(DataResult.java:201)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:158)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.Decoder.parse(Decoder.java:18)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.codecs.FieldDecoder.decode(FieldDecoder.java:29)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.MapCodec$2.decode(MapCodec.java:77)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.MapDecoder.lambda$compressedDecode$1(MapDecoder.java:52)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.MapDecoder$$Lambda/0x000002833aa8efd0.apply(Unknown Source)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.DataResult$Success.flatMap(DataResult.java:201)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:158)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.Decoder.decode(Decoder.java:22)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		com.mojang.serialization.Decoder.parse(Decoder.java:26)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.Brain$Provider.makeBrain(Brain.java:539)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.Axolotl.makeBrain(Axolotl.java:446)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.<init>(LivingEntity.java:328)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.<init>(Mob.java:152)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.PathfinderMob.<init>(PathfinderMob.java:22)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.AgeableMob.<init>(AgeableMob.java:26)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.Animal.<init>(Animal.java:48)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.Axolotl.<init>(Axolotl.java:94)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.EntityType$$Lambda/0x000002833a6cb9d0.create(Unknown Source)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.EntityType.create(EntityType.java:591)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.getMobForSpawn(NaturalSpawner.java:367)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnCategoryForPosition(NaturalSpawner.java:284)
-[13:25:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Abian
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnCategoryForChunk(NaturalSpawner.java:206)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnForChunk(NaturalSpawner.java:177)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:511)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:408)
-[13:25:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player e8ee65cf-4302-3d04-9b67-d073ae0e4e31 timed out
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:689)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1804)
-[13:25:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player yddie
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1596)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1302)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:329)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x000002833acb9870.run(Unknown Source)
-[13:25:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to yddie
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:25:13] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:25:13] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:13] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[13:25:13] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:14] [spark-java-sampler-0-5/WARN]: [spark] Timed out waiting for world statistics
-[13:25:21] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.1-131-84281ce (MC: 1.21.1) ---
-[13:25:21] [Paper Watchdog Thread/ERROR]: The server has not responded for 23 seconds! Creating thread dump
-[13:25:21] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:21] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[13:25:21] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:21] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[13:25:21] [Paper Watchdog Thread/ERROR]: 	PID: 41 | Suspended: false | Native: false | State: RUNNABLE
-[13:25:21] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:25:21] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.defineClass1(Native Method)
-[13:25:21] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.defineClass(ClassLoader.java:1026)
-[13:25:21] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
-[13:25:21] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader.defineClass(URLClassLoader.java:524)
-[13:25:21] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader$1.run(URLClassLoader.java:427)
-[13:25:21] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader$1.run(URLClassLoader.java:421)
-[13:25:21] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.security.AccessController.executePrivileged(AccessController.java:816)
-[13:25:21] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.security.AccessController.doPrivileged(AccessController.java:714)
-[13:25:21] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader.findClass(URLClassLoader.java:420)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.loadClass(ClassLoader.java:595)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.loadClass(ClassLoader.java:528)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.defineClass1(Native Method)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.defineClass(ClassLoader.java:1026)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader.defineClass(URLClassLoader.java:524)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader$1.run(URLClassLoader.java:427)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader$1.run(URLClassLoader.java:421)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.security.AccessController.executePrivileged(AccessController.java:816)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.security.AccessController.doPrivileged(AccessController.java:714)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader.findClass(URLClassLoader.java:420)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.loadClass(ClassLoader.java:595)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.loadClass(ClassLoader.java:528)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.defineClass1(Native Method)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.defineClass(ClassLoader.java:1026)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader.defineClass(URLClassLoader.java:524)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader$1.run(URLClassLoader.java:427)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader$1.run(URLClassLoader.java:421)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.security.AccessController.executePrivileged(AccessController.java:816)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.security.AccessController.doPrivileged(AccessController.java:714)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader.findClass(URLClassLoader.java:420)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.loadClass(ClassLoader.java:595)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.loadClass(ClassLoader.java:528)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.AxolotlAi.initCoreActivity(AxolotlAi.java:89)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.AxolotlAi.makeBrain(AxolotlAi.java:52)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.Axolotl.makeBrain(Axolotl.java:446)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.<init>(LivingEntity.java:328)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.<init>(Mob.java:152)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.PathfinderMob.<init>(PathfinderMob.java:22)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.AgeableMob.<init>(AgeableMob.java:26)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.Animal.<init>(Animal.java:48)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.Axolotl.<init>(Axolotl.java:94)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.EntityType$$Lambda/0x000002833a6cb9d0.create(Unknown Source)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.EntityType.create(EntityType.java:591)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.getMobForSpawn(NaturalSpawner.java:367)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnCategoryForPosition(NaturalSpawner.java:284)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnCategoryForChunk(NaturalSpawner.java:206)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnForChunk(NaturalSpawner.java:177)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:511)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:408)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:689)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1804)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1596)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1302)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:329)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x000002833acb9870.run(Unknown Source)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:25:22] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:25:22] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:22] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[13:25:22] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:32] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.1-131-84281ce (MC: 1.21.1) ---
-[13:25:32] [Paper Watchdog Thread/ERROR]: The server has not responded for 34 seconds! Creating thread dump
-[13:25:32] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:32] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[13:25:32] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:32] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[13:25:32] [Paper Watchdog Thread/ERROR]: 	PID: 41 | Suspended: false | Native: false | State: RUNNABLE
-[13:25:32] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.zip.ZipFile$Source.getEntryPos(ZipFile.java:1890)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.zip.ZipFile.getEntry(ZipFile.java:350)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.jar.JarFile.getEntry(JarFile.java:516)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.jar.JarFile.getJarEntry(JarFile.java:471)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.loader.URLClassPath$JarLoader.getResource(URLClassPath.java:885)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.loader.URLClassPath.getResource(URLClassPath.java:316)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader$1.run(URLClassLoader.java:424)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader$1.run(URLClassLoader.java:421)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.security.AccessController.executePrivileged(AccessController.java:816)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.security.AccessController.doPrivileged(AccessController.java:714)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader.findClass(URLClassLoader.java:420)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.loadClass(ClassLoader.java:595)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.loadClass(ClassLoader.java:528)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.ValidatePlayDead.create(ValidatePlayDead.java:11)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.AxolotlAi.initCoreActivity(AxolotlAi.java:92)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.AxolotlAi.makeBrain(AxolotlAi.java:52)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.Axolotl.makeBrain(Axolotl.java:446)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.<init>(LivingEntity.java:328)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.<init>(Mob.java:152)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.PathfinderMob.<init>(PathfinderMob.java:22)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.AgeableMob.<init>(AgeableMob.java:26)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.Animal.<init>(Animal.java:48)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.Axolotl.<init>(Axolotl.java:94)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.EntityType$$Lambda/0x000002833a6cb9d0.create(Unknown Source)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.EntityType.create(EntityType.java:591)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.getMobForSpawn(NaturalSpawner.java:367)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnCategoryForPosition(NaturalSpawner.java:284)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnCategoryForChunk(NaturalSpawner.java:206)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnForChunk(NaturalSpawner.java:177)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:511)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:408)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:689)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1804)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1596)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1302)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:329)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x000002833acb9870.run(Unknown Source)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:25:32] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:25:32] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:32] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[13:25:32] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:37] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.1-131-84281ce (MC: 1.21.1) ---
-[13:25:37] [Paper Watchdog Thread/ERROR]: The server has not responded for 39 seconds! Creating thread dump
-[13:25:37] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:37] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[13:25:37] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:37] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[13:25:37] [Paper Watchdog Thread/ERROR]: 	PID: 41 | Suspended: false | Native: true | State: RUNNABLE
-[13:25:37] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.defineClass1(Native Method)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.defineClass(ClassLoader.java:1026)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader.defineClass(URLClassLoader.java:524)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader$1.run(URLClassLoader.java:427)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader$1.run(URLClassLoader.java:421)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.security.AccessController.executePrivileged(AccessController.java:816)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.security.AccessController.doPrivileged(AccessController.java:714)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader.findClass(URLClassLoader.java:420)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.loadClass(ClassLoader.java:595)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.loadClass(ClassLoader.java:528)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.behavior.declarative.BehaviorBuilder.instance(BehaviorBuilder.java:33)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.behavior.declarative.BehaviorBuilder.create(BehaviorBuilder.java:37)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.ValidatePlayDead.create(ValidatePlayDead.java:11)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.AxolotlAi.initCoreActivity(AxolotlAi.java:92)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.AxolotlAi.makeBrain(AxolotlAi.java:52)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.Axolotl.makeBrain(Axolotl.java:446)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.<init>(LivingEntity.java:328)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.<init>(Mob.java:152)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.PathfinderMob.<init>(PathfinderMob.java:22)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.AgeableMob.<init>(AgeableMob.java:26)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.Animal.<init>(Animal.java:48)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.Axolotl.<init>(Axolotl.java:94)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.EntityType$$Lambda/0x000002833a6cb9d0.create(Unknown Source)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.EntityType.create(EntityType.java:591)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.getMobForSpawn(NaturalSpawner.java:367)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnCategoryForPosition(NaturalSpawner.java:284)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnCategoryForChunk(NaturalSpawner.java:206)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnForChunk(NaturalSpawner.java:177)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:511)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:408)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:689)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1804)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1596)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1302)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:329)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x000002833acb9870.run(Unknown Source)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:25:37] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:25:37] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:37] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[13:25:37] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:42] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.1-131-84281ce (MC: 1.21.1) ---
-[13:25:42] [Paper Watchdog Thread/ERROR]: The server has not responded for 44 seconds! Creating thread dump
-[13:25:42] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:42] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[13:25:42] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:42] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[13:25:42] [Paper Watchdog Thread/ERROR]: 	PID: 41 | Suspended: false | Native: false | State: RUNNABLE
-[13:25:42] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.schedule.Activity.hashCode(Activity.java:63)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.HashMap.hash(HashMap.java:338)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.HashMap.put(HashMap.java:619)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.Brain.addActivityAndRemoveMemoriesWhenStopped(Brain.java:365)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.Brain.addActivity(Brain.java:348)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.Brain.addActivity(Brain.java:336)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.AxolotlAi.initCoreActivity(AxolotlAi.java:89)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.AxolotlAi.makeBrain(AxolotlAi.java:52)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.Axolotl.makeBrain(Axolotl.java:446)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.<init>(LivingEntity.java:328)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.<init>(Mob.java:152)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.PathfinderMob.<init>(PathfinderMob.java:22)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.AgeableMob.<init>(AgeableMob.java:26)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.Animal.<init>(Animal.java:48)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.Axolotl.<init>(Axolotl.java:94)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.EntityType$$Lambda/0x000002833a6cb9d0.create(Unknown Source)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.EntityType.create(EntityType.java:591)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.getMobForSpawn(NaturalSpawner.java:367)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnCategoryForPosition(NaturalSpawner.java:284)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnCategoryForChunk(NaturalSpawner.java:206)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnForChunk(NaturalSpawner.java:177)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:511)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:408)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:689)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1804)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1596)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1302)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:329)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x000002833acb9870.run(Unknown Source)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:25:42] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:25:42] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:42] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[13:25:42] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:48] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.1-131-84281ce (MC: 1.21.1) ---
-[13:25:48] [Paper Watchdog Thread/ERROR]: The server has not responded for 50 seconds! Creating thread dump
-[13:25:48] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:48] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[13:25:48] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:48] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[13:25:48] [Paper Watchdog Thread/ERROR]: 	PID: 41 | Suspended: false | Native: false | State: RUNNABLE
-[13:25:48] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:25:48] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.defineClass1(Native Method)
-[13:25:48] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.defineClass(ClassLoader.java:1026)
-[13:25:48] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
-[13:25:48] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader.defineClass(URLClassLoader.java:524)
-[13:25:48] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader$1.run(URLClassLoader.java:427)
-[13:25:48] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader$1.run(URLClassLoader.java:421)
-[13:25:48] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.security.AccessController.executePrivileged(AccessController.java:816)
-[13:25:48] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.security.AccessController.doPrivileged(AccessController.java:714)
-[13:25:48] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader.findClass(URLClassLoader.java:420)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.loadClass(ClassLoader.java:595)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.loadClass(ClassLoader.java:528)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.AxolotlAi.initIdleActivity(AxolotlAi.java:107)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.AxolotlAi.makeBrain(AxolotlAi.java:53)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.Axolotl.makeBrain(Axolotl.java:446)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.<init>(LivingEntity.java:328)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.<init>(Mob.java:152)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.PathfinderMob.<init>(PathfinderMob.java:22)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.AgeableMob.<init>(AgeableMob.java:26)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.Animal.<init>(Animal.java:48)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.Axolotl.<init>(Axolotl.java:94)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.EntityType$$Lambda/0x000002833a6cb9d0.create(Unknown Source)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.EntityType.create(EntityType.java:591)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.getMobForSpawn(NaturalSpawner.java:367)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnCategoryForPosition(NaturalSpawner.java:284)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnCategoryForChunk(NaturalSpawner.java:206)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnForChunk(NaturalSpawner.java:177)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:511)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:408)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:689)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1804)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1596)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1302)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:329)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x000002833acb9870.run(Unknown Source)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:25:49] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:25:49] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:49] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[13:25:49] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:53] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.1-131-84281ce (MC: 1.21.1) ---
-[13:25:53] [Paper Watchdog Thread/ERROR]: The server has not responded for 56 seconds! Creating thread dump
-[13:25:53] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:53] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[13:25:53] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:53] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[13:25:53] [Paper Watchdog Thread/ERROR]: 	PID: 41 | Suspended: false | Native: false | State: RUNNABLE
-[13:25:53] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Class.isInterface(Native Method)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.invoke.AbstractValidatingLambdaMetafactory.<init>(AbstractValidatingLambdaMetafactory.java:196)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.invoke.InnerClassLambdaMetafactory.<init>(InnerClassLambdaMetafactory.java:168)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.invoke.LambdaMetafactory.metafactory(LambdaMetafactory.java:336)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.invoke.LambdaForm$DMH/0x000002833a122800.invokeStatic(LambdaForm$DMH)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.invoke.Invokers$Holder.invokeExact_MT(Invokers$Holder)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.invoke.BootstrapMethodInvoker.invoke(BootstrapMethodInvoker.java:134)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.invoke.CallSite.makeSite(CallSite.java:316)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.invoke.MethodHandleNatives.linkCallSiteImpl(MethodHandleNatives.java:275)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.invoke.MethodHandleNatives.linkCallSite(MethodHandleNatives.java:265)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.behavior.BabyFollowAdult.create(BabyFollowAdult.java:28)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.AxolotlAi.initIdleActivity(AxolotlAi.java:109)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.AxolotlAi.makeBrain(AxolotlAi.java:53)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.Axolotl.makeBrain(Axolotl.java:446)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.<init>(LivingEntity.java:328)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.<init>(Mob.java:152)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.PathfinderMob.<init>(PathfinderMob.java:22)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.AgeableMob.<init>(AgeableMob.java:26)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.Animal.<init>(Animal.java:48)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.Axolotl.<init>(Axolotl.java:94)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.EntityType$$Lambda/0x000002833a6cb9d0.create(Unknown Source)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.EntityType.create(EntityType.java:591)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.getMobForSpawn(NaturalSpawner.java:367)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnCategoryForPosition(NaturalSpawner.java:284)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnCategoryForChunk(NaturalSpawner.java:206)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnForChunk(NaturalSpawner.java:177)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:511)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:408)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:689)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1804)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1596)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1302)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:329)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x000002833acb9870.run(Unknown Source)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:25:53] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:25:53] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:53] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[13:25:53] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:59] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:59] [Paper Watchdog Thread/ERROR]: The server has stopped responding! This is (probably) not a Paper bug.
-[13:25:59] [Paper Watchdog Thread/ERROR]: If you see a plugin in the Server thread dump below, then please report it to that author
-[13:25:59] [Paper Watchdog Thread/ERROR]: 	 *Especially* if it looks like HTTP or MySQL operations are occurring
-[13:25:59] [Paper Watchdog Thread/ERROR]: If you see a world save or edit, then it means you did far more than your server can handle at once
-[13:25:59] [Paper Watchdog Thread/ERROR]: 	 If this is the case, consider increasing timeout-time in spigot.yml but note that this will replace the crash with LARGE lag spikes
-[13:25:59] [Paper Watchdog Thread/ERROR]: If you are unsure or still think this is a Paper bug, please report this to https://github.com/PaperMC/Paper/issues
-[13:25:59] [Paper Watchdog Thread/ERROR]: Be sure to include ALL relevant console errors and Minecraft crash reports
-[13:25:59] [Paper Watchdog Thread/ERROR]: Paper version: 1.21.1-131-84281ce (MC: 1.21.1)
-[13:25:59] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:25:59] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[13:25:59] [User Authenticator #3/INFO]: UUID of player yddie is e8ee65cf-4302-3d04-9b67-d073ae0e4e31
-[13:25:59] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:00] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[13:26:00] [Paper Watchdog Thread/ERROR]: 	PID: 41 | Suspended: false | Native: false | State: RUNNABLE
-[13:26:00] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Throwable.fillInStackTrace(Native Method)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Throwable.fillInStackTrace(Throwable.java:848)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Throwable.<init>(Throwable.java:311)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Exception.<init>(Exception.java:85)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ReflectiveOperationException.<init>(ReflectiveOperationException.java:76)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassNotFoundException.<init>(ClassNotFoundException.java:71)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.loadClass(ClassLoader.java:582)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.loadClass(ClassLoader.java:528)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.behavior.RunOne.<init>(RunOne.java:18)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.behavior.RunOne.<init>(RunOne.java:14)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.AxolotlAi.initIdleActivity(AxolotlAi.java:107)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.AxolotlAi.makeBrain(AxolotlAi.java:53)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.Axolotl.makeBrain(Axolotl.java:446)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.<init>(LivingEntity.java:328)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.<init>(Mob.java:152)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.PathfinderMob.<init>(PathfinderMob.java:22)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.AgeableMob.<init>(AgeableMob.java:26)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.Animal.<init>(Animal.java:48)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.Axolotl.<init>(Axolotl.java:94)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.EntityType$$Lambda/0x000002833a6cb9d0.create(Unknown Source)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.EntityType.create(EntityType.java:591)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.getMobForSpawn(NaturalSpawner.java:367)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnCategoryForPosition(NaturalSpawner.java:284)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnCategoryForChunk(NaturalSpawner.java:206)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnForChunk(NaturalSpawner.java:177)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:511)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:408)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:689)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1804)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1596)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1302)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:329)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x000002833acb9870.run(Unknown Source)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:00] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:00] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:00] [Paper Watchdog Thread/ERROR]: Entire Thread Dump:
-[13:26:16] [User Authenticator #3/INFO]: UUID of player yddie is e8ee65cf-4302-3d04-9b67-d073ae0e4e31
-[13:26:16] [spark-java-sampler-0-2/WARN]: [spark] Timed out waiting for world statistics
-[13:26:18] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:18] [Paper Watchdog Thread/ERROR]: Current Thread: Reference Handler
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	PID: 9 | Suspended: false | Native: false | State: RUNNABLE
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ref.Reference.processPendingReferences(Reference.java:246)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:208)
-[13:26:18] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:18] [Paper Watchdog Thread/ERROR]: Current Thread: Finalizer
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	PID: 10 | Suspended: false | Native: false | State: WAITING
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Object.wait0(Native Method)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Object.wait(Object.java:378)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Object.wait(Object.java:352)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ref.NativeReferenceQueue.await(NativeReferenceQueue.java:48)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:166)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ref.NativeReferenceQueue.remove(NativeReferenceQueue.java:89)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:173)
-[13:26:18] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:18] [Paper Watchdog Thread/ERROR]: Current Thread: Signal Dispatcher
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	PID: 11 | Suspended: false | Native: false | State: RUNNABLE
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:18] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:18] [Paper Watchdog Thread/ERROR]: Current Thread: Attach Listener
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	PID: 12 | Suspended: false | Native: false | State: RUNNABLE
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:18] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:18] [Paper Watchdog Thread/ERROR]: Current Thread: Notification Thread
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	PID: 18 | Suspended: false | Native: false | State: RUNNABLE
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:18] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:18] [Paper Watchdog Thread/ERROR]: Current Thread: Common-Cleaner
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	PID: 19 | Suspended: false | Native: false | State: TIMED_WAITING
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1852)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:79)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:151)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:229)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:140)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:186)
-[13:26:18] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:18] [Paper Watchdog Thread/ERROR]: Current Thread: DestroyJavaVM
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	PID: 21 | Suspended: false | Native: false | State: RUNNABLE
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:18] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:18] [Paper Watchdog Thread/ERROR]: Current Thread: WindowsStreamPump
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	PID: 25 | Suspended: false | Native: false | State: RUNNABLE
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		org.fusesource.jansi.internal.Kernel32.WaitForSingleObject(Native Method)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		org.jline.terminal.impl.jansi.win.JansiWinSysTerminal.processConsoleInput(JansiWinSysTerminal.java:138)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		org.jline.terminal.impl.AbstractWindowsTerminal.pump(AbstractWindowsTerminal.java:460)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		org.jline.terminal.impl.AbstractWindowsTerminal$$Lambda/0x000002833a12e000.run(Unknown Source)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:18] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:18] [Paper Watchdog Thread/ERROR]: Current Thread: Log4j2-AsyncAppenderEventDispatcher-1-Async
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	PID: 27 | Suspended: false | Native: false | State: WAITING
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4021)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3967)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ArrayBlockingQueue.take(ArrayBlockingQueue.java:420)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.AsyncAppenderEventDispatcher.dispatchAll(AsyncAppenderEventDispatcher.java:81)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		org.apache.logging.log4j.core.appender.AsyncAppenderEventDispatcher.run(AsyncAppenderEventDispatcher.java:73)
-[13:26:18] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:18] [Paper Watchdog Thread/ERROR]: Current Thread: JNA Cleaner
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	PID: 30 | Suspended: false | Native: false | State: TIMED_WAITING
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1852)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ref.ReferenceQueue.await(ReferenceQueue.java:79)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ref.ReferenceQueue.remove0(ReferenceQueue.java:151)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:229)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		com.sun.jna.internal.Cleaner$CleanerThread.run(Cleaner.java:154)
-[13:26:18] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:18] [Paper Watchdog Thread/ERROR]: Current Thread: Timer hack thread
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	PID: 36 | Suspended: false | Native: false | State: TIMED_WAITING
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.sleepNanos0(Native Method)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.sleepNanos(Thread.java:496)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.sleep(Thread.java:527)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		net.minecraft.Util$7.run(Util.java:785)
-[13:26:18] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:18] [Paper Watchdog Thread/ERROR]: Current Thread: Yggdrasil Key Fetcher
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	PID: 37 | Suspended: false | Native: false | State: TIMED_WAITING
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1763)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:18] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:18] [Paper Watchdog Thread/ERROR]: Current Thread: Worker-Main-1
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	PID: 40 | Suspended: false | Native: false | State: WAITING
-[13:26:18] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4021)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3967)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:18] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:18] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:18] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[13:26:19] [Paper Watchdog Thread/ERROR]: 	PID: 41 | Suspended: false | Native: false | State: RUNNABLE
-[13:26:19] [Paper Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
-[13:26:19] [Paper Watchdog Thread/ERROR]: 		Locked on:java.base@23.0.1/java.util.zip.ZipFile.getEntry(ZipFile.java:350)
-[13:26:19] [Paper Watchdog Thread/ERROR]: 		Locked on:java.base@23.0.1/java.lang.ClassLoader.loadClass(ClassLoader.java:595)
-[13:26:19] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:19] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.zip.ZipFile$Source.getEntryPos(ZipFile.java:1874)
-[13:26:19] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.zip.ZipFile.getEntry(ZipFile.java:350)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.jar.JarFile.getEntry(JarFile.java:512)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.jar.JarFile.getJarEntry(JarFile.java:471)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.loader.URLClassPath$JarLoader.getResource(URLClassPath.java:885)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.loader.URLClassPath.getResource(URLClassPath.java:316)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader$1.run(URLClassLoader.java:424)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader$1.run(URLClassLoader.java:421)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.security.AccessController.executePrivileged(AccessController.java:816)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.security.AccessController.doPrivileged(AccessController.java:714)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.URLClassLoader.findClass(URLClassLoader.java:420)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.loadClass(ClassLoader.java:595)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.ClassLoader.loadClass(ClassLoader.java:528)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.ai.behavior.TryFindWater.create(TryFindWater.java:15)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.AxolotlAi.initIdleActivity(AxolotlAi.java:114)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.AxolotlAi.makeBrain(AxolotlAi.java:53)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.Axolotl.makeBrain(Axolotl.java:446)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.LivingEntity.<init>(LivingEntity.java:328)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.Mob.<init>(Mob.java:152)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.PathfinderMob.<init>(PathfinderMob.java:22)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.AgeableMob.<init>(AgeableMob.java:26)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.Animal.<init>(Animal.java:48)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.animal.axolotl.Axolotl.<init>(Axolotl.java:94)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.EntityType$$Lambda/0x000002833a6cb9d0.create(Unknown Source)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.entity.EntityType.create(EntityType.java:591)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.getMobForSpawn(NaturalSpawner.java:367)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnCategoryForPosition(NaturalSpawner.java:284)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnCategoryForChunk(NaturalSpawner.java:206)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.world.level.NaturalSpawner.spawnForChunk(NaturalSpawner.java:177)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tickChunks(ServerChunkCache.java:511)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:408)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:689)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1804)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1596)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1302)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:329)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x000002833acb9870.run(Unknown Source)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: Paper Common Worker #0
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 49 | Suspended: false | Native: false | State: WAITING
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:221)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.concurrentutil.executor.standard.PrioritisedQueueExecutorThread.run(PrioritisedQueueExecutorThread.java:97)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: RegionFile I/O Thread #0
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 50 | Suspended: false | Native: false | State: WAITING
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:221)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.concurrentutil.executor.standard.PrioritisedQueueExecutorThread.run(PrioritisedQueueExecutorThread.java:97)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: Paper Watchdog Thread
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 51 | Suspended: false | Native: false | State: RUNNABLE
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.management@23.0.1/sun.management.ThreadImpl.dumpThreads0(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.management@23.0.1/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:518)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.management@23.0.1/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:506)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		org.spigotmc.WatchdogThread.run(WatchdogThread.java:202)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: Server console handler
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 43 | Suspended: false | Native: false | State: TIMED_WAITING
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1852)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		org.jline.utils.NonBlockingPumpReader.read(NonBlockingPumpReader.java:78)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		org.jline.keymap.BindingReader.readCharacter(BindingReader.java:160)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		org.jline.keymap.BindingReader.readBinding(BindingReader.java:110)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		org.jline.keymap.BindingReader.readBinding(BindingReader.java:61)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		org.jline.reader.impl.LineReaderImpl.doReadBinding(LineReaderImpl.java:923)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:956)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:651)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:117)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: pool-8-thread-1
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 52 | Suspended: false | Native: false | State: TIMED_WAITING
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1763)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: Netty Server IO #0
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 53 | Suspended: false | Native: false | State: RUNNABLE
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		Locked on:java.base@23.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		Locked on:java.base@23.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/sun.nio.ch.WEPoll.wait(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/sun.nio.ch.WEPollSelectorImpl.doSelect(WEPollSelectorImpl.java:114)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:142)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:883)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:526)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: ConfigSaver
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 54 | Suspended: false | Native: false | State: WAITING
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4021)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3967)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: spark-monitoring-thread
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 55 | Suspended: false | Native: false | State: RUNNABLE
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.math.BigInteger.trustedStripLeadingZeroInts(BigInteger.java:4598)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.math.BigInteger.multiply(BigInteger.java:1695)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.math.BigInteger.multiply(BigInteger.java:1637)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.math.BigInteger.pow(BigInteger.java:2683)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.math.BigDecimal.<init>(BigDecimal.java:1045)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.math.BigDecimal.<init>(BigDecimal.java:988)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.monitor.cpu.CpuMonitor$RollingAverageCollectionTask.run(CpuMonitor.java:151)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: Paper Async Task Handler Thread - 0
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 56 | Suspended: false | Native: false | State: WAITING
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4021)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3967)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: spark-java-sampler-0-0
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 57 | Suspended: false | Native: false | State: RUNNABLE
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.management@23.0.1/sun.management.ThreadImpl.getThreadInfo1(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.management@23.0.1/sun.management.ThreadImpl.getThreadInfo(ThreadImpl.java:185)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.sampler.ThreadDumper$Specific.dumpThreads(ThreadDumper.java:185)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.sampler.java.JavaSampler.run(JavaSampler.java:136)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: spark-java-sampler-0-1
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 58 | Suspended: false | Native: false | State: WAITING
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4021)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3967)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: spark-java-sampler-0-2
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 59 | Suspended: false | Native: false | State: TIMED_WAITING
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		Locked on:java.base@23.0.1/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1713)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.CompletableFuture$Signaller.block(CompletableFuture.java:1910)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4021)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3967)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1983)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2139)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.platform.world.AsyncWorldInfoProvider.get(AsyncWorldInfoProvider.java:67)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.platform.world.AsyncWorldInfoProvider.getCounts(AsyncWorldInfoProvider.java:93)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.sampler.window.WindowStatisticsCollector.measure(WindowStatisticsCollector.java:185)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.sampler.window.WindowStatisticsCollector$$Lambda/0x000002833b393e70.apply(Unknown Source)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1713)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.sampler.window.WindowStatisticsCollector.measureNow(WindowStatisticsCollector.java:123)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.sampler.java.JavaSampler$InsertDataTask.run(JavaSampler.java:179)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.FutureTask.run(FutureTask.java:317)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: spark-java-sampler-0-3
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 60 | Suspended: false | Native: false | State: WAITING
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4021)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3967)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: spark-java-sampler-0-4
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 61 | Suspended: false | Native: false | State: WAITING
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4021)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3967)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: spark-java-sampler-0-5
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 62 | Suspended: false | Native: false | State: WAITING
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4021)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3967)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1170)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: Craft Async Scheduler Management Thread
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 63 | Suspended: false | Native: false | State: WAITING
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4021)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3967)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: VoiceChatPacketProcessingThread
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 65 | Suspended: false | Native: false | State: TIMED_WAITING
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:269)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1763)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:460)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		voicechat-bukkit-2.5.26.jar//de.maxhenkel.voicechat.voice.server.Server$ProcessThread.run(Server.java:194)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: VoiceChatServerThread
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 64 | Suspended: false | Native: true | State: RUNNABLE
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/sun.nio.ch.DatagramChannelImpl.receive0(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/sun.nio.ch.DatagramChannelImpl.receiveIntoNativeBuffer(DatagramChannelImpl.java:819)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/sun.nio.ch.DatagramChannelImpl.receive(DatagramChannelImpl.java:791)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/sun.nio.ch.DatagramChannelImpl.tryBlockingReceive(DatagramChannelImpl.java:752)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/sun.nio.ch.DatagramChannelImpl.blockingReceive(DatagramChannelImpl.java:693)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/sun.nio.ch.DatagramSocketAdaptor.receive(DatagramSocketAdaptor.java:204)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.net.DatagramSocket.receive(DatagramSocket.java:718)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		voicechat-bukkit-2.5.26.jar//de.maxhenkel.voicechat.plugins.impl.VoicechatSocketBase.read(VoicechatSocketBase.java:13)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		voicechat-bukkit-2.5.26.jar//de.maxhenkel.voicechat.plugins.impl.VoicechatSocketImpl.read(VoicechatSocketImpl.java:70)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		voicechat-bukkit-2.5.26.jar//de.maxhenkel.voicechat.voice.server.Server.run(Server.java:88)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: Netty Server IO #1
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 66 | Suspended: false | Native: true | State: RUNNABLE
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		Locked on:java.base@23.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		Locked on:java.base@23.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/sun.nio.ch.WEPoll.wait(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/sun.nio.ch.WEPollSelectorImpl.doSelect(WEPollSelectorImpl.java:114)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:147)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:68)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:879)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:526)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: Netty Server IO #2
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 67 | Suspended: false | Native: true | State: RUNNABLE
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		Locked on:java.base@23.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		Locked on:java.base@23.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/sun.nio.ch.WEPoll.wait(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/sun.nio.ch.WEPollSelectorImpl.doSelect(WEPollSelectorImpl.java:114)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:147)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:68)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:879)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:526)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: Netty Server IO #3
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 68 | Suspended: false | Native: true | State: RUNNABLE
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Thread is waiting on monitor(s):
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		Locked on:java.base@23.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		Locked on:java.base@23.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/sun.nio.ch.WEPoll.wait(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/sun.nio.ch.WEPollSelectorImpl.doSelect(WEPollSelectorImpl.java:114)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/sun.nio.ch.SelectorImpl.lockAndDoSelect(SelectorImpl.java:130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/sun.nio.ch.SelectorImpl.select(SelectorImpl.java:147)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:68)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:879)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:526)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: Paper Async Task Handler Thread - 1
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 70 | Suspended: false | Native: false | State: WAITING
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4021)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3967)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: DimensionDataIO - .\world - 0
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 75 | Suspended: false | Native: false | State: WAITING
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4021)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3967)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: DimensionDataIO - .\world_nether\DIM-1 - 0
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 76 | Suspended: false | Native: false | State: WAITING
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4021)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3967)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: DimensionDataIO - .\world_the_end\DIM1 - 0
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 77 | Suspended: false | Native: false | State: WAITING
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.LockSupport.park(LockSupport.java:371)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:519)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:4021)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3967)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1712)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1070)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:20] [Paper Watchdog Thread/ERROR]: Current Thread: User Authenticator #3
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	PID: 85 | Suspended: false | Native: false | State: TIMED_WAITING
-[13:26:20] [Paper Watchdog Thread/ERROR]: 	Stack:
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/jdk.internal.misc.Unsafe.park(Native Method)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:410)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.LinkedTransferQueue$DualNode.await(LinkedTransferQueue.java:452)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.SynchronousQueue$Transferer.xferLifo(SynchronousQueue.java:194)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.SynchronousQueue.xfer(SynchronousQueue.java:235)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:338)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1069)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
-[13:26:20] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
-[13:26:20] [Paper Watchdog Thread/ERROR]: ------------------------------
-[13:26:22] [Paper Watchdog Thread/INFO]: Stopping server
-[13:26:24] [Paper Watchdog Thread/INFO]: [voicechat] Disabling voicechat v2.5.26
-[13:28:07] [spark-java-sampler-0-0/WARN]: [spark] Timed out waiting for world statistics
-[13:28:08] [User Authenticator #4/INFO]: UUID of player KAZUMA is 5d7ad249-e4b2-3c77-8ab1-824f89886d89
-[13:28:08] [User Authenticator #5/INFO]: UUID of player Abian is 0f59eef6-4866-389f-b76c-7471a3258d2f
-[13:28:14] [Server thread/INFO]: Abian lost connection: Disconnected
-[13:28:15] [Server thread/INFO]: Abian left the game
-[13:28:15] [Server thread/INFO]: yddie lost connection: Disconnected
-[13:28:16] [Server thread/INFO]: yddie left the game
-[13:28:16] [Server thread/INFO]: yddie (/127.58.242.174:49825) lost connection: Disconnected
-[13:28:16] [Server thread/INFO]: yddie (/127.58.242.174:49829) lost connection: Disconnected
-[13:28:16] [Server thread/INFO]: KAZUMA (/127.83.11.18:49845) lost connection: Disconnected
-[13:28:16] [Server thread/INFO]: Abian (/127.97.25.202:49849) lost connection: Disconnected
-[13:28:17] [Paper Watchdog Thread/INFO]: Saving players
-[13:28:17] [Paper Watchdog Thread/INFO]: Saving worlds
-[13:28:17] [Paper Watchdog Thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13:28:17] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[13:28:17] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[13:28:17] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[13:28:30] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Saved 300 chunks (50.07%) in world 'world'
-[13:28:36] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Saved 426 block chunks, 574 entity chunks, 0 poi chunks in world 'world' in 17.70s
-[13:28:38] [Paper Watchdog Thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[13:28:38] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[13:28:38] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[13:28:38] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[13:28:39] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.62s
-[13:28:40] [Paper Watchdog Thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[13:28:40] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[13:28:40] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[13:28:40] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[13:28:41] [Paper Watchdog Thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.63s
-[13:28:41] [Paper Watchdog Thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:28:41] [Paper Watchdog Thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:28:41] [Paper Watchdog Thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:28:41] [Paper Watchdog Thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:06:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:07:00] [ServerMain/INFO]: Loaded 1290 recipes
+[14:07:00] [ServerMain/INFO]: Loaded 1399 advancements
+[14:07:00] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[14:07:00] [Server thread/INFO]: Loading properties
+[14:07:00] [Server thread/INFO]: This server is running Paper version 1.21.1-131-ver/1.21.1@84281ce (2024-10-31T17:43:44Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[14:07:01] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[14:07:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:07:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:07:02] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[14:07:03] [Server thread/INFO]: Default game type: SURVIVAL
+[14:07:03] [Server thread/INFO]: Generating keypair
+[14:07:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:07:03] [Server thread/INFO]: Using default channel type
+[14:07:03] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[14:07:03] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[14:07:03] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
+[14:07:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:07:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:07:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:07:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:07:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:07:03] [Server thread/INFO]: Preparing level "world"
+[14:07:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:07:06] [Server thread/INFO]: Time elapsed: 1624 ms
+[14:07:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:07:06] [Server thread/INFO]: Time elapsed: 599 ms
+[14:07:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:07:07] [Server thread/INFO]: Time elapsed: 960 ms
+[14:07:07] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
+[14:07:07] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.21.1-R0.1
+[14:07:07] [Server thread/INFO]: [voicechat] Compatibility version 18
+[14:07:09] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[14:07:09] [Server thread/INFO]: [spark] Starting background profiler...
+[14:07:09] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[14:07:09] [Server thread/INFO]: Done preparing level "world" (5.520s)
+[14:07:09] [Server thread/INFO]: Running delayed init tasks
+[14:07:09] [Server thread/INFO]: Done (23.733s)! For help, type "help"
+[14:07:09] [Server thread/INFO]: Timings Reset
+[14:07:09] [Server thread/INFO]: [voicechat] Loading plugins
+[14:07:09] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[14:07:09] [Server thread/INFO]: [voicechat] Initializing plugins
+[14:07:09] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[14:07:09] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[14:07:09] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'that-harold.gl.at.ply.gg'
+[14:07:09] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 2582
+[14:07:19] [User Authenticator #0/INFO]: UUID of player Abian is 0f59eef6-4866-389f-b76c-7471a3258d2f
+[14:07:21] [Server thread/INFO]: Abian joined the game
+[14:07:21] [Server thread/INFO]: Abian[/127.97.25.202:50196] logged in with entity id 25 at ([world]-43.786180654968746, 47.0, -168.66121392837502)
+[14:07:22] [Server thread/INFO]: [voicechat] Received secret request of Abian (18)
+[14:07:22] [Server thread/INFO]: [voicechat] Sent secret to Abian
+[14:07:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 0f59eef6-4866-389f-b76c-7471a3258d2f
+[14:07:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0f59eef6-4866-389f-b76c-7471a3258d2f
+[14:07:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Abian (0f59eef6-4866-389f-b76c-7471a3258d2f) successfully connected to voice chat
+[14:07:37] [User Authenticator #0/INFO]: UUID of player yddie is e8ee65cf-4302-3d04-9b67-d073ae0e4e31
+[14:07:39] [Server thread/INFO]: yddie joined the game
+[14:07:39] [Server thread/INFO]: yddie[/127.58.242.174:50200] logged in with entity id 189 at ([world]-40.69999998807907, 49.0, -164.15899294348824)
+[14:07:39] [Server thread/INFO]: [voicechat] Received secret request of yddie (18)
+[14:07:39] [Server thread/INFO]: [voicechat] Sent secret to yddie
+[14:07:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e8ee65cf-4302-3d04-9b67-d073ae0e4e31
+[14:07:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e8ee65cf-4302-3d04-9b67-d073ae0e4e31
+[14:07:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player yddie (e8ee65cf-4302-3d04-9b67-d073ae0e4e31) successfully connected to voice chat
+[14:07:54] [Server thread/INFO]: Abian lost connection: Timed out
+[14:07:54] [Server thread/INFO]: [voicechat] Disconnecting client Abian
+[14:07:54] [Server thread/INFO]: Abian left the game
+[14:08:16] [User Authenticator #0/INFO]: UUID of player Abian is 0f59eef6-4866-389f-b76c-7471a3258d2f
+[14:08:18] [Server thread/INFO]: Abian joined the game
+[14:08:18] [Server thread/INFO]: Abian[/127.97.25.202:50202] logged in with entity id 226 at ([world]-44.641397734670626, 46.0, -169.30000001192093)
+[14:08:18] [Server thread/INFO]: [voicechat] Received secret request of Abian (18)
+[14:08:18] [Server thread/INFO]: [voicechat] Sent secret to Abian
+[14:08:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 0f59eef6-4866-389f-b76c-7471a3258d2f
+[14:08:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0f59eef6-4866-389f-b76c-7471a3258d2f
+[14:08:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Abian (0f59eef6-4866-389f-b76c-7471a3258d2f) successfully connected to voice chat
+[14:09:58] [Server thread/INFO]: Abian was shot by Skeleton
+[14:10:05] [Server thread/INFO]: yddie has made the advancement [Isn't It Iron Pick]
+[14:10:12] [Async Chat Thread - #0/INFO]: [Not Secure] <Abian> loot loot koo
+[14:10:17] [Async Chat Thread - #0/INFO]: [Not Secure] <Abian> get my looot
+[14:10:17] [Server thread/INFO]: yddie was shot by Skeleton
+[14:10:23] [Server thread/WARN]: Abian moved too quickly! 6.16704271085041,2.252203340253729,11.330515415259583
+[14:10:28] [Async Chat Thread - #0/INFO]: [Not Secure] <yddie> GAGO
+[14:10:35] [Async Chat Thread - #0/INFO]: [Not Secure] <yddie> tinry ko kunin items mo
+[14:10:43] [Server thread/INFO]: Abian lost connection: Timed out
+[14:10:43] [Server thread/INFO]: [voicechat] Disconnecting client Abian
+[14:10:44] [Server thread/INFO]: Abian left the game
+[14:10:56] [Server thread/INFO]: [Not Secure] [Server] tf are you guys doing T_T
+[14:11:21] [User Authenticator #1/INFO]: UUID of player Abian is 0f59eef6-4866-389f-b76c-7471a3258d2f
+[14:11:23] [Server thread/INFO]: Abian joined the game
+[14:11:23] [Server thread/INFO]: Abian[/127.97.25.202:50241] logged in with entity id 967 at ([world]-102.91084738572218, 71.09395507422808, -126.22297826132386)
+[14:11:23] [Server thread/INFO]: [voicechat] Received secret request of Abian (18)
+[14:11:23] [Server thread/INFO]: [voicechat] Sent secret to Abian
+[14:11:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 0f59eef6-4866-389f-b76c-7471a3258d2f
+[14:11:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0f59eef6-4866-389f-b76c-7471a3258d2f
+[14:11:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Abian (0f59eef6-4866-389f-b76c-7471a3258d2f) successfully connected to voice chat
+[14:11:29] [Async Chat Thread - #0/INFO]: [Not Secure] <Abian> you got my loot?
+[14:11:33] [Async Chat Thread - #0/INFO]: [Not Secure] <yddie> hinde
+[14:11:38] [Async Chat Thread - #0/INFO]: [Not Secure] <yddie> namatay ako
+[14:12:22] [Server thread/INFO]: yddie was slain by Zombie
+[14:12:28] [Async Chat Thread - #0/INFO]: [Not Secure] <yddie> FUCK
+[14:12:44] [Server thread/INFO]: Abian was shot by Skeleton
+[14:13:20] [Server thread/INFO]: Abian lost connection: Timed out
+[14:13:20] [Server thread/INFO]: [voicechat] Disconnecting client Abian
+[14:13:21] [Server thread/INFO]: Abian left the game
+[14:14:15] [User Authenticator #2/INFO]: UUID of player Abian is 0f59eef6-4866-389f-b76c-7471a3258d2f
+[14:14:16] [Server thread/INFO]: Abian joined the game
+[14:14:16] [Server thread/INFO]: Abian[/127.97.25.202:50247] logged in with entity id 1539 at ([world]-107.52291494677786, 64.0, -155.4685765488568)
+[14:14:17] [Server thread/INFO]: [voicechat] Received secret request of Abian (18)
+[14:14:17] [Server thread/INFO]: [voicechat] Sent secret to Abian
+[14:14:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 0f59eef6-4866-389f-b76c-7471a3258d2f
+[14:14:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0f59eef6-4866-389f-b76c-7471a3258d2f
+[14:14:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Abian (0f59eef6-4866-389f-b76c-7471a3258d2f) successfully connected to voice chat
+[14:15:20] [Server thread/INFO]: Abian was blown up by Creeper
+[14:15:26] [Async Chat Thread - #2/INFO]: [Not Secure] <yddie> nakuha ko na
+[14:15:28] [Async Chat Thread - #2/INFO]: [Not Secure] <yddie> chill
+[14:15:47] [Async Chat Thread - #2/INFO]: [Not Secure] <Abian> nicee
+[14:15:54] [Server thread/INFO]: Abian lost connection: Timed out
+[14:15:54] [Server thread/INFO]: [voicechat] Disconnecting client Abian
+[14:15:54] [Async Chat Thread - #2/INFO]: [Not Secure] <yddie> di ko lang sure kung lahat
+[14:15:54] [Server thread/INFO]: Abian left the game
+[14:16:13] [User Authenticator #3/INFO]: UUID of player Abian is 0f59eef6-4866-389f-b76c-7471a3258d2f
+[14:16:15] [Server thread/INFO]: Abian joined the game
+[14:16:15] [Server thread/INFO]: Abian[/127.97.25.202:50255] logged in with entity id 1922 at ([world]-34.931139458895835, 68.0, -115.12246531157622)
+[14:16:15] [Server thread/INFO]: [voicechat] Received secret request of Abian (18)
+[14:16:15] [Server thread/INFO]: [voicechat] Sent secret to Abian
+[14:16:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 0f59eef6-4866-389f-b76c-7471a3258d2f
+[14:16:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0f59eef6-4866-389f-b76c-7471a3258d2f
+[14:16:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Abian (0f59eef6-4866-389f-b76c-7471a3258d2f) successfully connected to voice chat
+[14:16:21] [Async Chat Thread - #2/INFO]: [Not Secure] <Abian> you got the 12 iron?
+[14:16:27] [Async Chat Thread - #2/INFO]: [Not Secure] <yddie> yes
+[14:17:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3341ms or 66 ticks behind
+[14:17:54] [Server thread/INFO]: Abian was shot by Skeleton
+[14:18:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6495ms or 129 ticks behind
+[14:18:33] [Server thread/INFO]: Abian lost connection: Timed out
+[14:18:33] [Server thread/INFO]: [voicechat] Disconnecting client Abian
+[14:18:33] [Server thread/INFO]: Abian left the game
+[14:18:57] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - 1.21.1-131-84281ce (MC: 1.21.1) ---
+[14:18:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10351ms or 207 ticks behind
+[14:18:58] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[14:18:58] [Paper Watchdog Thread/ERROR]: ------------------------------
+[14:18:58] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[14:18:59] [Paper Watchdog Thread/ERROR]: Ticking entity: minecraft:player, entity class: net.minecraft.server.level.ServerPlayer
+[14:19:00] [Paper Watchdog Thread/ERROR]: Entity status: removed: false, valid: true, alive: true, is passenger: false
+[14:19:00] [Paper Watchdog Thread/ERROR]: Entity UUID: e8ee65cf-4302-3d04-9b67-d073ae0e4e31
+[14:19:01] [Paper Watchdog Thread/ERROR]: Position: world: 'world' at location (-68.69999998807907, 63.0, -70.76947483428354)
+[14:19:01] [Paper Watchdog Thread/ERROR]: Velocity: (0.0, -0.0784000015258789, 0.0) (in blocks per tick)
+[14:19:02] [Paper Watchdog Thread/ERROR]: Entity AABB: AABB[-69.0, 63.0, -71.06947484620447] -> [-68.39999997615814, 64.79999995231628, -70.46947482236261]
+[14:19:02] [Paper Watchdog Thread/ERROR]: Total packets processed on the main thread for all players: 22436
+[14:19:02] [Paper Watchdog Thread/ERROR]: ------------------------------
+[14:19:02] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[14:19:04] [Paper Watchdog Thread/ERROR]: 	PID: 40 | Suspended: false | Native: false | State: RUNNABLE
+[14:19:04] [Paper Watchdog Thread/ERROR]: 	Stack:
+[14:19:04] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.moonrise.patches.chunk_system.scheduling.ChunkHolderManager.getOldChunkHolders(ChunkHolderManager.java:149)
+[14:19:04] [Paper Watchdog Thread/ERROR]: 		ca.spottedleaf.moonrise.common.util.ChunkSystem.getVisibleChunkHolders(ChunkSystem.java:51)
+[14:19:04] [Paper Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.CraftWorld.getChunkCount(CraftWorld.java:237)
+[14:19:04] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.PaperWorldInfoProvider.pollCounts(PaperWorldInfoProvider.java:57)
+[14:19:04] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.platform.world.AsyncWorldInfoProvider$$Lambda/0x0000021aa75797e8.apply(Unknown Source)
+[14:19:04] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.platform.world.AsyncWorldInfoProvider.lambda$async$0(AsyncWorldInfoProvider.java:55)
+[14:19:04] [Paper Watchdog Thread/ERROR]: 		me.lucko.spark.paper.common.platform.world.AsyncWorldInfoProvider$$Lambda/0x0000021aa7579a28.get(Unknown Source)
+[14:19:04] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1812)
+[14:19:04] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.SparksFly$1.lambda$catching$0(SparksFly.java:56)
+[14:19:04] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.SparksFly$1$$Lambda/0x0000021aa7353bd8.run(Unknown Source)
+[14:19:04] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1752)
+[14:19:04] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:473)
+[14:19:04] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1596)
+[14:19:04] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1302)
+[14:19:04] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:329)
+[14:19:04] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x0000021aa6cc7860.run(Unknown Source)
+[14:19:04] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.runWith(Thread.java:1588)
+[14:19:04] [Paper Watchdog Thread/ERROR]: 		java.base@23.0.1/java.lang.Thread.run(Thread.java:1575)
+[14:19:04] [Paper Watchdog Thread/ERROR]: ------------------------------
+[14:19:04] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[14:19:04] [Paper Watchdog Thread/ERROR]: ------------------------------
+[14:19:10] [User Authenticator #4/INFO]: UUID of player Abian is 0f59eef6-4866-389f-b76c-7471a3258d2f
+[14:19:14] [Server thread/INFO]: Abian joined the game
+[14:19:14] [Server thread/INFO]: Abian[/127.97.25.202:50266] logged in with entity id 2482 at ([world]-68.95177947744821, 72.0, -125.65720918297899)
+[14:19:14] [Server thread/INFO]: [voicechat] Received secret request of Abian (18)
+[14:19:14] [Server thread/INFO]: [voicechat] Sent secret to Abian
+[14:19:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 0f59eef6-4866-389f-b76c-7471a3258d2f
+[14:19:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0f59eef6-4866-389f-b76c-7471a3258d2f
+[14:19:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Abian (0f59eef6-4866-389f-b76c-7471a3258d2f) successfully connected to voice chat
+[14:19:29] [Async Chat Thread - #4/INFO]: [Not Secure] <Abian> PILLAGERS AT THE BASE
+[14:20:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2778ms or 55 ticks behind
+[14:20:45] [VoiceChatPacketProcessingThread/ERROR]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[14:20:45] [VoiceChatPacketProcessingThread/ERROR]: [voicechat] Packet queue has 263 packets
+[14:21:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2941ms or 58 ticks behind
+[14:21:07] [VoiceChatPacketProcessingThread/ERROR]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[14:21:07] [VoiceChatPacketProcessingThread/ERROR]: [voicechat] Packet queue has 38 packets
+[14:21:10] [User Authenticator #5/INFO]: UUID of player KAZUMA is 5d7ad249-e4b2-3c77-8ab1-824f89886d89
+[14:21:21] [Server thread/INFO]: KAZUMA joined the game
+[14:21:21] [Server thread/INFO]: KAZUMA[/127.83.11.18:50271] logged in with entity id 2684 at ([world]-181.73414575125747, 104.0, -1055.4805507455474)
+[14:21:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4407ms or 88 ticks behind
+[14:21:26] [Server thread/INFO]: [voicechat] Received secret request of KAZUMA (18)
+[14:21:26] [Server thread/INFO]: [voicechat] Sent secret to KAZUMA
+[14:21:26] [Server thread/WARN]: Abian moved too quickly! -12.515320529335085,7.42355929454304,9.377882654275226
+[14:21:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5d7ad249-e4b2-3c77-8ab1-824f89886d89
+[14:21:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5d7ad249-e4b2-3c77-8ab1-824f89886d89
+[14:21:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player KAZUMA (5d7ad249-e4b2-3c77-8ab1-824f89886d89) successfully connected to voice chat
+[14:21:34] [Server thread/WARN]: Abian moved too quickly! -8.01705173118205,-1.4199999868869781,-7.626294619928871
+[14:21:37] [VoiceChatPacketProcessingThread/ERROR]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[14:21:37] [VoiceChatPacketProcessingThread/ERROR]: [voicechat] Packet queue has 101 packets
+[14:21:51] [Server thread/WARN]: yddie moved too quickly! -8.432282981622222,5.419999986886978,1.838014087581854
+[14:21:51] [Server thread/WARN]: KAZUMA moved too quickly! 11.52301527529076,-2.171132006042484,-15.307835492222694
+[14:21:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12780ms or 255 ticks behind
+[14:22:02] [Server thread/WARN]: Abian moved too quickly! -3.244221331230264,-3.7531999805212024,-12.24460891398516
+[14:22:02] [Server thread/WARN]: yddie moved too quickly! 8.755857936356009,-4.57644070545696,1.65012991775842
+[14:23:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3861ms or 77 ticks behind
+[14:23:16] [VoiceChatPacketProcessingThread/ERROR]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[14:23:16] [VoiceChatPacketProcessingThread/ERROR]: [voicechat] Packet queue has 104 packets
+[14:23:29] [VoiceChatPacketProcessingThread/ERROR]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[14:23:29] [VoiceChatPacketProcessingThread/ERROR]: [voicechat] Packet queue has 121 packets
+[14:23:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2539ms or 50 ticks behind
+[14:23:42] [Server thread/WARN]: Abian moved too quickly! -0.6893503852099485,1.0,-9.951738008615933
+[14:24:11] [Server thread/INFO]: yddie has made the advancement [Suit Up]
+[14:25:29] [Server thread/INFO]: Abian has made the advancement [A Seedy Place]
+[14:26:16] [Async Chat Thread - #6/INFO]: [Not Secure] <Abian> tatae ako man
+[14:26:21] [Async Chat Thread - #6/INFO]: [Not Secure] <Abian> tas sunduin ko na gf ko
+[14:26:27] [Async Chat Thread - #6/INFO]: [Not Secure] <Abian> out muna ako
+[14:26:28] [Async Chat Thread - #6/INFO]: [Not Secure] <yddie> valo na muna ako
+[14:26:32] [Server thread/INFO]: Abian lost connection: Disconnected
+[14:26:33] [Server thread/INFO]: [voicechat] Disconnecting client Abian
+[14:26:33] [Server thread/INFO]: Abian left the game
+[14:26:34] [Server thread/INFO]: yddie lost connection: Disconnected
+[14:26:34] [Server thread/INFO]: [voicechat] Disconnecting client yddie
+[14:26:34] [Server thread/INFO]: yddie left the game
+[14:30:58] [Server thread/INFO]: Stopping the server
+[14:30:58] [Server thread/INFO]: Stopping server
+[14:31:00] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
+[14:31:04] [spark-java-sampler-0-3/WARN]: [spark] Timed out waiting for world statistics
+[14:31:11] [Server thread/INFO]: Saving players
+[14:31:12] [Server thread/INFO]: KAZUMA lost connection: Server closed
+[14:31:12] [Server thread/INFO]: KAZUMA left the game
+[14:31:12] [Server thread/INFO]: Saving worlds
+[14:31:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:31:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[14:31:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[14:31:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[14:31:19] [Server thread/INFO]: [ChunkHolderManager] Saved 112 block chunks, 317 entity chunks, 0 poi chunks in world 'world' in 5.25s
+[14:31:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[14:31:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[14:31:20] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[14:31:20] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[14:31:20] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.38s
+[14:31:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[14:31:21] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[14:31:21] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[14:31:21] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[14:31:21] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.44s
+[14:31:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:31:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:31:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:31:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
