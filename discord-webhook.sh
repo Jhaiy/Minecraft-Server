@@ -21,8 +21,8 @@ generate_post_data() {
 {
   "content": "",
   "embeds": [{
-    "title": "SERVER IP:",
-    "description": "NGROK IP: $PUBLIC_URL\n\n! ! ALERT ! !\n\nPlease remove the 'tcp://'\n\nSTATIC IP: 147.185.221.24:32251 ",
+    "title": "SERVER OPEN!\n\nSERVER IP:",
+    "description": "IP: 147.185.221.24:37709",
     "color": "45973"
   }]
 }
