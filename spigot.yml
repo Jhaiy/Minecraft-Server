@@ -57,6 +57,7 @@ commands:
   - testforblock
   - tellraw
   log: true
+  enable-spam-exclusions: false
 world-settings:
   default:
     below-zero-generation-in-existing-chunks: true
