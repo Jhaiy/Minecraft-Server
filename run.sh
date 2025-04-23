@@ -1,3 +1,3 @@
 #!/bin/sh
 
-java -Xmx6G -Xms6G -jar server.jar nogui
+java -Xmx8G -Xms8G -jar server.jar nogui
