@@ -11,6 +11,9 @@ curl -sSL https://ngrok-agent.s3.amazonaws.com/ngrok.asc \
   | sudo tee /etc/apt/sources.list.d/ngrok.list \
   && sudo apt update \
   && sudo apt install ngrok
+You sent
+wget https://github.com/fatedier/frp/releases/latest/download/frp_0.57.0_linux_amd64.tar.gz
+tar -xzf frp_0.57.0_linux_amd64.tar.gz
+cd frp_0.57.0_linux_amd64
 sudo apt update
 sudo apt install playit
- 

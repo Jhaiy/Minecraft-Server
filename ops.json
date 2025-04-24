@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "a2c0a9c7-1302-3311-88ad-cfe965aa6a8b",
+    "name": "Raijin",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
