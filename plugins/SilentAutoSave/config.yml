@@ -1,0 +1,8 @@
+# SilentAutoSave Plugin Configuration
+
+# -------------------------
+# Auto Save Configuration
+# -------------------------
+
+# Interval (in seconds) for auto-saving the world
+save-interval: 60

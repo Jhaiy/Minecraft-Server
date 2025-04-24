@@ -1,73 +1,118 @@
-[08:25:47] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-LTS; Microsoft Microsoft-10800198) on Linux 6.8.0-1026-azure (amd64)
-[08:25:47] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.5-28-main@55f2020 (2025-04-22T20:12:27Z) for Minecraft 1.21.5
-[08:25:47] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[08:25:47] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[08:25:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[08:25:54] [ServerMain/INFO]: Loaded 1373 recipes
-[08:25:54] [ServerMain/INFO]: Loaded 1484 advancements
-[08:25:55] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[08:25:55] [Server thread/INFO]: Loading properties
-[08:25:55] [Server thread/INFO]: This server is running Paper version 1.21.5-28-main@55f2020 (2025-04-22T20:12:27Z) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
-[08:25:55] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[08:25:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[08:25:55] [Server thread/INFO]: Using 4 threads for Netty based IO
-[08:25:56] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[08:25:56] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[08:25:56] [Server thread/INFO]: Default game type: SURVIVAL
-[08:25:56] [Server thread/INFO]: Generating keypair
-[08:25:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:25:56] [Server thread/INFO]: Using epoll channel type
-[08:25:56] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[08:25:56] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[08:25:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[08:25:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08:25:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[08:25:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[08:25:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[08:25:56] [Server thread/INFO]: Preparing level "world"
-[08:25:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[08:25:57] [Server thread/INFO]: Preparing spawn area: 0%
-[08:25:58] [Server thread/INFO]: Preparing spawn area: 2%
-[08:25:58] [Server thread/INFO]: Preparing spawn area: 20%
-[08:25:58] [Server thread/INFO]: Time elapsed: 1077 ms
-[08:25:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[08:25:58] [Server thread/INFO]: Preparing spawn area: 0%
-[08:25:58] [Server thread/INFO]: Time elapsed: 245 ms
-[08:25:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[08:25:58] [Server thread/INFO]: Preparing spawn area: 0%
-[08:25:59] [Server thread/INFO]: Time elapsed: 141 ms
-[08:25:59] [Server thread/INFO]: [spark] Starting background profiler...
-[08:25:59] [Server thread/INFO]: Done preparing level "world" (2.766s)
-[08:25:59] [Server thread/INFO]: Running delayed init tasks
-[08:25:59] [Server thread/INFO]: Done (12.760s)! For help, type "help"
-[08:25:59] [User Authenticator #0/INFO]: UUID of player Meruxz is 4211d0ba-5b07-32d5-94a3-fa9371f872e6
-[08:26:00] [Server thread/INFO]: Meruxz joined the game
-[08:26:00] [Server thread/INFO]: Meruxz[/[0:0:0:0:0:0:0:1]:49892] logged in with entity id 24 at ([world]324.30000001192093, 55.0, 696.7248074900826)
-[08:26:22] [Server thread/INFO]: Set the time to 1000
-[08:26:24] [User Authenticator #0/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
-[08:26:25] [Server thread/INFO]: Raijinn joined the game
-[08:26:25] [Server thread/INFO]: Raijinn[/[0:0:0:0:0:0:0:1]:38012] logged in with entity id 204 at ([world]325.16244660390333, 62.110764312744145, 698.8508173955631)
-[08:27:04] [Server thread/INFO]: Meruxz was slain by Guardian
-[08:27:21] [Server thread/INFO]: No entity was found
-[08:27:30] [Server thread/INFO]: Teleported Meruxz to Raijinn
-[08:27:54] [Server thread/INFO]: Raijinn was slain by Guardian
-[08:28:00] [Server thread/INFO]: Meruxz was slain by Guardian
-[08:28:01] [Server thread/INFO]: Attempt to teleport removed player Meruxz restricted
-[08:28:03] [Server thread/INFO]: No entity was found
-[08:28:35] [Server thread/INFO]: Raijinn lost connection: Disconnected
-[08:28:36] [Server thread/INFO]: Raijinn left the game
-[08:28:39] [User Authenticator #1/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
-[08:28:39] [Server thread/INFO]: Raijinn joined the game
-[08:28:39] [Server thread/INFO]: Raijinn[/[0:0:0:0:0:0:0:1]:50280] logged in with entity id 1449 at ([world]-764.0693606474479, 72.0, 151.68795888778936)
-[08:36:07] [Server thread/INFO]: Raijinn has made the advancement [Sweet Dreams]
-[08:36:08] [Server thread/INFO]: Meruxz has made the advancement [Sweet Dreams]
-[08:42:08] [Server thread/INFO]: Raijinn has made the advancement [Stone Age]
-[08:46:16] [Server thread/INFO]: Meruxz lost connection: Disconnected
-[08:46:16] [Server thread/INFO]: Meruxz left the game
-[08:46:20] [Server thread/INFO]: Raijinn lost connection: Disconnected
-[08:46:20] [Server thread/INFO]: Raijinn left the game
-[08:46:41] [User Authenticator #2/INFO]: UUID of player Meruxz is 4211d0ba-5b07-32d5-94a3-fa9371f872e6
-[08:46:41] [Server thread/INFO]: Meruxz joined the game
-[08:46:41] [Server thread/INFO]: Meruxz[/[0:0:0:0:0:0:0:1]:40142] logged in with entity id 5061 at ([world]-961.2557277104557, 111.0, 609.3175111945387)
-[08:46:52] [Server thread/INFO]: Meruxz lost connection: Disconnected
-[08:46:52] [Server thread/INFO]: Meruxz left the game
+[11:52:57] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-LTS; Microsoft Microsoft-10800198) on Linux 6.8.0-1026-azure (amd64)
+[11:52:57] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.5-28-main@55f2020 (2025-04-22T20:12:27Z) for Minecraft 1.21.5
+[11:52:58] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[11:52:59] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SilentAutoSave-5.2.jar'...
+[11:53:00] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SilentAutoSave-5.2.jar' in 1050ms.
+[11:53:00] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[11:53:00] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - SilentAutoSave (5.2)
+[11:53:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:53:08] [ServerMain/INFO]: Loaded 1373 recipes
+[11:53:08] [ServerMain/INFO]: Loaded 1484 advancements
+[11:53:08] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[11:53:08] [Server thread/INFO]: Loading properties
+[11:53:08] [Server thread/INFO]: This server is running Paper version 1.21.5-28-main@55f2020 (2025-04-22T20:12:27Z) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
+[11:53:09] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[11:53:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:53:09] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:53:10] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[11:53:10] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[11:53:10] [Server thread/INFO]: Default game type: SURVIVAL
+[11:53:10] [Server thread/INFO]: Generating keypair
+[11:53:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:53:10] [Server thread/INFO]: Using epoll channel type
+[11:53:10] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[11:53:10] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[11:53:10] [Server thread/INFO]: [SilentAutoSave] Loading server plugin SilentAutoSave v5.2
+[11:53:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:53:10] [Server thread/INFO]: [SilentAutoSave] Enabling SilentAutoSave v5.2
+[11:53:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:53:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:53:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:53:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:53:10] [Server thread/INFO]: Preparing level "world"
+[11:53:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:53:12] [Server thread/INFO]: Preparing spawn area: 0%
+[11:53:12] [Server thread/INFO]: Preparing spawn area: 2%
+[11:53:13] [Server thread/INFO]: Preparing spawn area: 46%
+[11:53:13] [Server thread/INFO]: Time elapsed: 1314 ms
+[11:53:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[11:53:13] [Server thread/INFO]: Preparing spawn area: 0%
+[11:53:13] [Server thread/INFO]: Time elapsed: 243 ms
+[11:53:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[11:53:13] [Server thread/INFO]: Preparing spawn area: 0%
+[11:53:13] [Server thread/INFO]: Time elapsed: 137 ms
+[11:53:14] [Server thread/INFO]: [spark] Starting background profiler...
+[11:53:14] [Server thread/INFO]: Done preparing level "world" (3.521s)
+[11:53:14] [Server thread/INFO]: Running delayed init tasks
+[11:53:14] [Server thread/INFO]: Done (18.761s)! For help, type "help"
+[11:54:14] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[11:54:14] [Server thread/WARN]: java.lang.NoSuchMethodException: org.bukkit.craftbukkit.CraftServer.saveWorlds()
+[11:54:14] [Server thread/WARN]: 	at java.base/java.lang.Class.getMethod(Class.java:2395)
+[11:54:14] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.getMethod(AbstractDefaultRulesReflectionProxy.java:100)
+[11:54:14] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.getMethod(Unknown Source)
+[11:54:14] [Server thread/WARN]: 	at SilentAutoSave-5.2.jar//net.abhinav.silentautosave.SilentAutoSave.executeSaveAllSilently(SilentAutoSave.java:55)
+[11:54:14] [Server thread/WARN]: 	at SilentAutoSave-5.2.jar//net.abhinav.silentautosave.SilentAutoSave$1.run(SilentAutoSave.java:43)
+[11:54:14] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[11:54:14] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474)
+[11:54:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1657)
+[11:54:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1527)
+[11:54:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1249)
+[11:54:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308)
+[11:54:14] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[11:54:18] [User Authenticator #0/INFO]: UUID of player Meruxz is 4211d0ba-5b07-32d5-94a3-fa9371f872e6
+[11:54:19] [Server thread/INFO]: Meruxz joined the game
+[11:54:19] [Server thread/INFO]: Meruxz[/[0:0:0:0:0:0:0:1]:56134] logged in with entity id 21 at ([world]-960.5, 111.0, 613.5)
+[11:55:10] [Server thread/INFO]: Meruxz has made the advancement [Monster Hunter]
+[11:55:14] [Server thread/WARN]: java.lang.NoSuchMethodException: org.bukkit.craftbukkit.CraftServer.saveWorlds()
+[11:55:14] [Server thread/WARN]: 	at java.base/java.lang.Class.getMethod(Class.java:2395)
+[11:55:14] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.getMethod(AbstractDefaultRulesReflectionProxy.java:100)
+[11:55:14] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.getMethod(Unknown Source)
+[11:55:14] [Server thread/WARN]: 	at SilentAutoSave-5.2.jar//net.abhinav.silentautosave.SilentAutoSave.executeSaveAllSilently(SilentAutoSave.java:55)
+[11:55:14] [Server thread/WARN]: 	at SilentAutoSave-5.2.jar//net.abhinav.silentautosave.SilentAutoSave$1.run(SilentAutoSave.java:43)
+[11:55:14] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[11:55:14] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474)
+[11:55:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1657)
+[11:55:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1527)
+[11:55:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1249)
+[11:55:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308)
+[11:55:14] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[11:56:14] [Server thread/WARN]: java.lang.NoSuchMethodException: org.bukkit.craftbukkit.CraftServer.saveWorlds()
+[11:56:14] [Server thread/WARN]: 	at java.base/java.lang.Class.getMethod(Class.java:2395)
+[11:56:14] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.getMethod(AbstractDefaultRulesReflectionProxy.java:100)
+[11:56:14] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.getMethod(Unknown Source)
+[11:56:14] [Server thread/WARN]: 	at SilentAutoSave-5.2.jar//net.abhinav.silentautosave.SilentAutoSave.executeSaveAllSilently(SilentAutoSave.java:55)
+[11:56:14] [Server thread/WARN]: 	at SilentAutoSave-5.2.jar//net.abhinav.silentautosave.SilentAutoSave$1.run(SilentAutoSave.java:43)
+[11:56:14] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[11:56:14] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474)
+[11:56:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1657)
+[11:56:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1527)
+[11:56:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1249)
+[11:56:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308)
+[11:56:14] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[11:57:14] [Server thread/WARN]: java.lang.NoSuchMethodException: org.bukkit.craftbukkit.CraftServer.saveWorlds()
+[11:57:14] [Server thread/WARN]: 	at java.base/java.lang.Class.getMethod(Class.java:2395)
+[11:57:14] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.getMethod(AbstractDefaultRulesReflectionProxy.java:100)
+[11:57:14] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.getMethod(Unknown Source)
+[11:57:14] [Server thread/WARN]: 	at SilentAutoSave-5.2.jar//net.abhinav.silentautosave.SilentAutoSave.executeSaveAllSilently(SilentAutoSave.java:55)
+[11:57:14] [Server thread/WARN]: 	at SilentAutoSave-5.2.jar//net.abhinav.silentautosave.SilentAutoSave$1.run(SilentAutoSave.java:43)
+[11:57:14] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[11:57:14] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474)
+[11:57:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1657)
+[11:57:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1527)
+[11:57:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1249)
+[11:57:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308)
+[11:57:14] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[11:58:14] [Server thread/WARN]: java.lang.NoSuchMethodException: org.bukkit.craftbukkit.CraftServer.saveWorlds()
+[11:58:14] [Server thread/WARN]: 	at java.base/java.lang.Class.getMethod(Class.java:2395)
+[11:58:14] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.getMethod(AbstractDefaultRulesReflectionProxy.java:100)
+[11:58:14] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.getMethod(Unknown Source)
+[11:58:14] [Server thread/WARN]: 	at SilentAutoSave-5.2.jar//net.abhinav.silentautosave.SilentAutoSave.executeSaveAllSilently(SilentAutoSave.java:55)
+[11:58:14] [Server thread/WARN]: 	at SilentAutoSave-5.2.jar//net.abhinav.silentautosave.SilentAutoSave$1.run(SilentAutoSave.java:43)
+[11:58:14] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[11:58:14] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474)
+[11:58:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1657)
+[11:58:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1527)
+[11:58:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1249)
+[11:58:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308)
+[11:58:14] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
