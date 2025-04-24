@@ -116,3 +116,88 @@
 [11:58:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1249)
 [11:58:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308)
 [11:58:14] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[11:59:14] [Server thread/WARN]: java.lang.NoSuchMethodException: org.bukkit.craftbukkit.CraftServer.saveWorlds()
+[11:59:14] [Server thread/WARN]: 	at java.base/java.lang.Class.getMethod(Class.java:2395)
+[11:59:14] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.getMethod(AbstractDefaultRulesReflectionProxy.java:100)
+[11:59:14] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.getMethod(Unknown Source)
+[11:59:14] [Server thread/WARN]: 	at SilentAutoSave-5.2.jar//net.abhinav.silentautosave.SilentAutoSave.executeSaveAllSilently(SilentAutoSave.java:55)
+[11:59:14] [Server thread/WARN]: 	at SilentAutoSave-5.2.jar//net.abhinav.silentautosave.SilentAutoSave$1.run(SilentAutoSave.java:43)
+[11:59:14] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[11:59:14] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474)
+[11:59:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1657)
+[11:59:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1527)
+[11:59:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1249)
+[11:59:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308)
+[11:59:14] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[12:00:01] [User Authenticator #1/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
+[12:00:02] [Server thread/INFO]: Raijinn joined the game
+[12:00:02] [Server thread/INFO]: Raijinn[/[0:0:0:0:0:0:0:1]:57228] logged in with entity id 860 at ([world]-961.8716940750852, 111.0, 610.7959263847088)
+[12:00:14] [Server thread/WARN]: java.lang.NoSuchMethodException: org.bukkit.craftbukkit.CraftServer.saveWorlds()
+[12:00:14] [Server thread/WARN]: 	at java.base/java.lang.Class.getMethod(Class.java:2395)
+[12:00:14] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.getMethod(AbstractDefaultRulesReflectionProxy.java:100)
+[12:00:14] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.getMethod(Unknown Source)
+[12:00:14] [Server thread/WARN]: 	at SilentAutoSave-5.2.jar//net.abhinav.silentautosave.SilentAutoSave.executeSaveAllSilently(SilentAutoSave.java:55)
+[12:00:14] [Server thread/WARN]: 	at SilentAutoSave-5.2.jar//net.abhinav.silentautosave.SilentAutoSave$1.run(SilentAutoSave.java:43)
+[12:00:14] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[12:00:14] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474)
+[12:00:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1657)
+[12:00:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1527)
+[12:00:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1249)
+[12:00:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308)
+[12:00:14] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[12:00:47] [Server thread/INFO]: Raijinn lost connection: Timed out
+[12:00:47] [Server thread/INFO]: Raijinn left the game
+[12:00:54] [User Authenticator #1/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
+[12:00:54] [Server thread/INFO]: Raijinn joined the game
+[12:00:54] [Server thread/INFO]: Raijinn[/[0:0:0:0:0:0:0:1]:34040] logged in with entity id 950 at ([world]-963.2185896541937, 112.0, 612.8093707915398)
+[12:01:14] [Server thread/WARN]: java.lang.NoSuchMethodException: org.bukkit.craftbukkit.CraftServer.saveWorlds()
+[12:01:14] [Server thread/WARN]: 	at java.base/java.lang.Class.getMethod(Class.java:2395)
+[12:01:14] [Server thread/WARN]: 	at io.papermc.reflectionrewriter.runtime.AbstractDefaultRulesReflectionProxy.getMethod(AbstractDefaultRulesReflectionProxy.java:100)
+[12:01:14] [Server thread/WARN]: 	at io.papermc.paper.pluginremap.reflect.PaperReflectionHolder.getMethod(Unknown Source)
+[12:01:14] [Server thread/WARN]: 	at SilentAutoSave-5.2.jar//net.abhinav.silentautosave.SilentAutoSave.executeSaveAllSilently(SilentAutoSave.java:55)
+[12:01:14] [Server thread/WARN]: 	at SilentAutoSave-5.2.jar//net.abhinav.silentautosave.SilentAutoSave$1.run(SilentAutoSave.java:43)
+[12:01:14] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78)
+[12:01:14] [Server thread/WARN]: 	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:474)
+[12:01:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1657)
+[12:01:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1527)
+[12:01:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1249)
+[12:01:14] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:308)
+[12:01:14] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[12:01:27] [Server thread/INFO]: Raijinn lost connection: Disconnected
+[12:01:27] [Server thread/INFO]: Raijinn left the game
+[12:01:33] [Server thread/INFO]: Stopping the server
+[12:01:33] [Server thread/INFO]: Stopping server
+[12:01:33] [Server thread/INFO]: [SilentAutoSave] Disabling SilentAutoSave v5.2
+[12:01:33] [Server thread/INFO]: Saving players
+[12:01:33] [Server thread/INFO]: Meruxz lost connection: Server closed
+[12:01:33] [Server thread/INFO]: Meruxz left the game
+[12:01:33] [Server thread/INFO]: Saving worlds
+[12:01:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:01:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[12:01:33] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[12:01:33] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[12:01:33] [Server thread/INFO]: [ChunkHolderManager] Saved 163 block chunks, 223 entity chunks, 0 poi chunks in world 'world' in 0.34s
+[12:01:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[12:01:33] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[12:01:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[12:01:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[12:01:33] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[12:01:33] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[12:01:33] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[12:01:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[12:01:33] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[12:01:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[12:01:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[12:01:33] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[12:01:33] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[12:01:33] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[12:01:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[12:01:33] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[12:01:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:01:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:01:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:01:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:01:33] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[12:01:33] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[12:01:33] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[12:01:33] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
