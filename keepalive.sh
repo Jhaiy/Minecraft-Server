@@ -6,4 +6,6 @@ git add --all
 git commit -a -m "save"
 git push
 
+echo "game saved."
+
 sleep 300; done
