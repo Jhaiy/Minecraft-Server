@@ -43,3 +43,11 @@
 [11:26:06] [User Authenticator #0/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
 [11:26:08] [Server thread/INFO]: Raijinn joined the game
 [11:26:08] [Server thread/INFO]: Raijinn[/127.36.3.233:46169] logged in with entity id 69 at ([world]-961.5688417067321, 113.0, 611.493645641356)
+[11:39:00] [Server thread/INFO]: Raijinn issued server command: /difficulty peaceful
+[11:39:00] [Server thread/INFO]: [Raijinn: The difficulty has been set to Peaceful]
+[11:39:05] [Server thread/INFO]: Raijinn issued server command: /difficulty normal
+[11:39:05] [Server thread/INFO]: [Raijinn: The difficulty has been set to Normal]
+[11:40:09] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:gold_ingot 6
+[11:40:09] [Server thread/INFO]: [Raijinn: Gave 6 [Gold Ingot] to Raijinn]
+[11:40:48] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:spruce_button 1
+[11:40:48] [Server thread/INFO]: [Raijinn: Gave 1 [Spruce Button] to Raijinn]
