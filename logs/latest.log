@@ -87,3 +87,11 @@
 [14:32:59] [Server thread/INFO]: [Raijinn: Set the time to 1000]
 [14:33:32] [Server thread/INFO]: Raijinn issued server command: /weather clear
 [14:33:32] [Server thread/INFO]: [Raijinn: Set the weather to clear]
+[14:38:08] [Async Chat Thread - #1/INFO]: [Not Secure] <Meruxz> love
+[14:38:12] [Async Chat Thread - #1/INFO]: [Not Secure] <Raijinn> po?
+[14:38:13] [Async Chat Thread - #1/INFO]: [Not Secure] <Meruxz> kain
+[14:38:19] [Async Chat Thread - #1/INFO]: [Not Secure] <Meruxz> kain
+[14:38:21] [Async Chat Thread - #1/INFO]: [Not Secure] <Meruxz> kain
+[14:38:31] [Server thread/INFO]: Meruxz issued server command: /tps
+[14:38:55] [Server thread/INFO]: Meruxz issued server command: /tp
+[14:39:02] [Server thread/INFO]: Meruxz issued server command: /tp raiji
