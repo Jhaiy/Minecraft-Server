@@ -1,52 +1,67 @@
-[03:12:28] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-LTS; Microsoft Microsoft-10800198) on Linux 6.8.0-1026-azure (amd64)
-[03:12:28] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.5-28-main@55f2020 (2025-04-22T20:12:27Z) for Minecraft 1.21.5
-[03:12:28] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[03:12:28] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[03:12:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:12:38] [ServerMain/INFO]: Loaded 1373 recipes
-[03:12:38] [ServerMain/INFO]: Loaded 1484 advancements
-[03:12:38] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[03:12:38] [Server thread/INFO]: Loading properties
-[03:12:38] [Server thread/INFO]: This server is running Paper version 1.21.5-28-main@55f2020 (2025-04-22T20:12:27Z) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
-[03:12:38] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[03:12:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:12:38] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:12:39] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[03:12:39] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[03:12:40] [Server thread/INFO]: Default game type: SURVIVAL
-[03:12:40] [Server thread/INFO]: Generating keypair
-[03:12:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:12:40] [Server thread/INFO]: Using epoll channel type
-[03:12:40] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[03:12:40] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[03:12:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:12:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:12:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:12:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:12:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:12:40] [Server thread/INFO]: Preparing level "world"
-[03:12:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:12:42] [Server thread/INFO]: Preparing spawn area: 0%
-[03:12:42] [Server thread/INFO]: Preparing spawn area: 0%
-[03:12:43] [Server thread/INFO]: Preparing spawn area: 0%
-[03:12:43] [Server thread/INFO]: Preparing spawn area: 0%
-[03:12:43] [Server thread/INFO]: Time elapsed: 1592 ms
-[03:12:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[03:12:43] [Server thread/INFO]: Preparing spawn area: 0%
-[03:12:43] [Server thread/INFO]: Time elapsed: 388 ms
-[03:12:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[03:12:43] [Server thread/INFO]: Preparing spawn area: 0%
-[03:12:43] [Server thread/INFO]: Time elapsed: 169 ms
-[03:12:44] [Server thread/INFO]: [spark] Starting background profiler...
-[03:12:45] [Server thread/INFO]: Done preparing level "world" (4.669s)
-[03:12:45] [Server thread/INFO]: Running delayed init tasks
-[03:12:45] [Server thread/INFO]: Done (19.007s)! For help, type "help"
-[03:12:55] [User Authenticator #0/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
-[03:12:57] [Server thread/INFO]: Raijinn joined the game
-[03:12:57] [Server thread/INFO]: Raijinn[/127.36.3.233:55973] logged in with entity id 67 at ([world]-944.4601102398179, 122.125, 608.2521996648028)
-[03:13:03] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: dec166e7-b891-4813-b221-21526ab7747c, mapped to Bat['Bat'/208, uuid='dec166e7-b891-4813-b221-21526ab7747c', l='ServerLevel[world]', x=-1023.57, y=39.12, z=420.75, cpos=[-64, 26], tl=0, v=true], can't add Bat['Bat'/213, uuid='dec166e7-b891-4813-b221-21526ab7747c', l='ServerLevel[world]', x=-1025.05, y=39.39, z=420.75, cpos=[-65, 26], tl=0, v=false]
-[03:13:12] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: ad11bd3b-4023-4f4f-a732-cf1de03e021c, mapped to Bat['Bat'/206, uuid='ad11bd3b-4023-4f4f-a732-cf1de03e021c', l='ServerLevel[world]', x=-1014.76, y=43.89, z=416.39, cpos=[-64, 26], tl=0, v=true], can't add Bat['Bat'/239, uuid='ad11bd3b-4023-4f4f-a732-cf1de03e021c', l='ServerLevel[world]', x=-1014.26, y=43.30, z=414.98, cpos=[-64, 25], tl=0, v=false]
-[03:13:49] [User Authenticator #0/INFO]: UUID of player Meruxz is 4211d0ba-5b07-32d5-94a3-fa9371f872e6
-[03:13:49] [Server thread/INFO]: Meruxz joined the game
-[03:13:49] [Server thread/INFO]: Meruxz[/127.118.152.57:58839] logged in with entity id 293 at ([world]-995.6929557560381, 119.0, 598.176376175821)
-[03:13:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: b28d89af-2361-42ff-af9a-d0ccd9631aec, mapped to Sheep['Sheep'/305, uuid='b28d89af-2361-42ff-af9a-d0ccd9631aec', l='ServerLevel[world]', x=-1183.84, y=113.00, z=546.79, cpos=[-74, 34], tl=0, v=true], can't add Sheep['Sheep'/309, uuid='b28d89af-2361-42ff-af9a-d0ccd9631aec', l='ServerLevel[world]', x=-1184.02, y=113.00, z=547.10, cpos=[-75, 34], tl=0, v=false]
+[03:46:24] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-LTS; Microsoft Microsoft-10800198) on Linux 6.8.0-1026-azure (amd64)
+[03:46:24] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.5-28-main@55f2020 (2025-04-22T20:12:27Z) for Minecraft 1.21.5
+[03:46:24] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[03:46:25] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[03:46:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:46:33] [ServerMain/INFO]: Loaded 1373 recipes
+[03:46:33] [ServerMain/INFO]: Loaded 1484 advancements
+[03:46:34] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[03:46:34] [Server thread/INFO]: Loading properties
+[03:46:34] [Server thread/INFO]: This server is running Paper version 1.21.5-28-main@55f2020 (2025-04-22T20:12:27Z) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
+[03:46:34] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[03:46:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:46:34] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:46:35] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[03:46:35] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[03:46:35] [Server thread/INFO]: Default game type: SURVIVAL
+[03:46:35] [Server thread/INFO]: Generating keypair
+[03:46:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:46:36] [Server thread/INFO]: Using epoll channel type
+[03:46:36] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:46:36] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[03:46:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:46:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:46:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:46:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:46:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:46:36] [Server thread/INFO]: Preparing level "world"
+[03:46:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:46:37] [Server thread/INFO]: Preparing spawn area: 0%
+[03:46:38] [Server thread/INFO]: Preparing spawn area: 0%
+[03:46:38] [Server thread/INFO]: Preparing spawn area: 0%
+[03:46:38] [Server thread/INFO]: Time elapsed: 1268 ms
+[03:46:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:46:38] [Server thread/INFO]: Preparing spawn area: 0%
+[03:46:38] [Server thread/INFO]: Time elapsed: 391 ms
+[03:46:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:46:38] [Server thread/INFO]: Preparing spawn area: 0%
+[03:46:38] [Server thread/INFO]: Time elapsed: 162 ms
+[03:46:39] [Server thread/INFO]: [spark] Starting background profiler...
+[03:46:39] [Server thread/INFO]: Done preparing level "world" (3.207s)
+[03:46:39] [Server thread/INFO]: Running delayed init tasks
+[03:46:39] [Server thread/INFO]: Done (16.129s)! For help, type "help"
+[03:48:21] [User Authenticator #0/INFO]: UUID of player Meruxz is 4211d0ba-5b07-32d5-94a3-fa9371f872e6
+[03:48:21] [Server thread/INFO]: Meruxz joined the game
+[03:48:21] [Server thread/INFO]: Meruxz[/127.118.152.57:55887] logged in with entity id 106 at ([world]-1052.4940467936594, 123.0, 606.7752850551649)
+[03:48:22] [User Authenticator #0/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
+[03:48:23] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: fefaf1c6-efac-4d89-8ace-fc77f31432dc, mapped to Bat['Bat'/73, uuid='fefaf1c6-efac-4d89-8ace-fc77f31432dc', l='ServerLevel[world]', x=-938.25, y=9.00, z=560.54, cpos=[-59, 35], tl=0, v=true], can't add Bat['Bat'/191, uuid='fefaf1c6-efac-4d89-8ace-fc77f31432dc', l='ServerLevel[world]', x=-937.72, y=12.47, z=559.66, cpos=[-59, 34], tl=0, v=false]
+[03:48:24] [Server thread/INFO]: Raijinn joined the game
+[03:48:24] [Server thread/INFO]: Raijinn[/127.36.3.233:57229] logged in with entity id 159 at ([world]-957.5708617920335, 117.0, 614.5036144398991)
+[03:56:30] [User Authenticator #1/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
+[03:56:30] [Server thread/INFO]: Raijinn lost connection: You logged in from another location
+[03:56:30] [Server thread/INFO]: Raijinn left the game
+[03:56:42] [User Authenticator #1/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
+[03:56:44] [Server thread/INFO]: Raijinn joined the game
+[03:56:44] [Server thread/INFO]: Raijinn[/127.36.3.233:54247] logged in with entity id 1698 at ([world]-961.2672536988593, 113.0, 611.4820684691695)
+[03:57:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@26fe3eef[id=f76ea4a2-37f5-330c-83c4-e99f8f54c6cc,name=Raijinn,properties={}] lost connection: Timed out
+[03:57:16] [User Authenticator #1/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
+[03:57:17] [Server thread/INFO]: Raijinn lost connection: You logged in from another location
+[03:57:17] [Server thread/INFO]: Raijinn left the game
+[03:57:18] [Server thread/INFO]: Raijinn joined the game
+[03:57:18] [Server thread/INFO]: Raijinn[/127.36.3.233:37573] logged in with entity id 1773 at ([world]-954.2812876771483, 112.0, 606.9284320957793)
+[04:30:57] [Server thread/INFO]: Unknown or incomplete command, see below for error
+save<--[HERE]
+[04:31:28] [Server thread/INFO]: Automatic saving is now disabled
+[04:31:32] [Server thread/INFO]: Automatic saving is now enabled
+[04:32:01] [Server thread/INFO]: Saving the game (this may take a moment!)
+[04:32:01] [Server thread/INFO]: Saved the game
