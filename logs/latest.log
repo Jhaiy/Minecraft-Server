@@ -83,3 +83,7 @@
 [14:11:50] [Server thread/INFO]: Raijinn issued server command: /difficulty normal
 [14:11:50] [Server thread/INFO]: [Raijinn: The difficulty has been set to Normal]
 [14:24:45] [Async Chat Thread - #0/INFO]: [Not Secure] <Meruxz> nasan po yung kama
+[14:32:59] [Server thread/INFO]: Raijinn issued server command: /time set day
+[14:32:59] [Server thread/INFO]: [Raijinn: Set the time to 1000]
+[14:33:32] [Server thread/INFO]: Raijinn issued server command: /weather clear
+[14:33:32] [Server thread/INFO]: [Raijinn: Set the weather to clear]
