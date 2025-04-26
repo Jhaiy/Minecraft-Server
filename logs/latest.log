@@ -102,3 +102,134 @@ save<--[HERE]
 [05:14:36] [Server thread/INFO]: Raijinn[/127.36.3.233:55393] logged in with entity id 11890 at ([world]-880.339708411552, 29.0, 545.8447548342995)
 [05:14:51] [Server thread/INFO]: Raijinn issued server command: /save-all
 [05:14:51] [Server thread/INFO]: [Raijinn: Saved the game]
+[05:15:09] [Server thread/INFO]: Raijinn lost connection: Disconnected
+[05:15:09] [Server thread/INFO]: Raijinn left the game
+[05:15:12] [User Authenticator #5/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
+[05:15:13] [Server thread/INFO]: Raijinn joined the game
+[05:15:13] [Server thread/INFO]: Raijinn[/127.36.3.233:58731] logged in with entity id 12090 at ([world]-879.2535529855846, 29.0, 546.3913090671288)
+[05:17:44] [Server thread/INFO]: Raijinn issued server command: /tp Raijinn Meruxz
+[05:17:44] [Server thread/INFO]: [Raijinn: Teleported Raijinn to Meruxz]
+[05:20:54] [Server thread/INFO]: Raijinn issued server command: /difficulty peaceful
+[05:20:54] [Server thread/INFO]: [Raijinn: The difficulty has been set to Peaceful]
+[05:21:05] [Server thread/INFO]: Raijinn issued server command: /difficulty normal
+[05:21:05] [Server thread/INFO]: [Raijinn: The difficulty has been set to Normal]
+[05:26:23] [Server thread/INFO]: Raijinn issued server command: /tp Raijinn Meruxz
+[05:26:23] [Server thread/INFO]: [Raijinn: Teleported Raijinn to Meruxz]
+[05:47:02] [Async Chat Thread - #0/INFO]: [Not Secure] <Meruxz> san ka?
+[05:47:19] [Async Chat Thread - #0/INFO]: [Not Secure] <Meruxz> gumawa ng tren ampotek T_T
+[05:47:23] [Async Chat Thread - #0/INFO]: [Not Secure] <Meruxz> tara ditoo
+[05:48:03] [Server thread/INFO]: Raijinn issued server command: /tp Raijinn Meruxz
+[05:48:03] [Server thread/INFO]: [Raijinn: Teleported Raijinn to Meruxz]
+[05:48:50] [Server thread/INFO]: Raijinn issued server command: /tp Raijinn Meruxz
+[05:48:50] [Server thread/INFO]: [Raijinn: Teleported Raijinn to Meruxz]
+[05:54:45] [Server thread/INFO]: Raijinn issued server command: /tp Raijinn Meruxz
+[05:54:45] [Server thread/INFO]: [Raijinn: Teleported Raijinn to Meruxz]
+[06:03:29] [Server thread/INFO]: Raijinn issued server command: /tp Raijinn Meruxz
+[06:03:29] [Server thread/INFO]: [Raijinn: Teleported Raijinn to Meruxz]
+[06:12:31] [Server thread/INFO]: Raijinn issued server command: /tp Raijinn Meruxz
+[06:12:31] [Server thread/INFO]: [Raijinn: Teleported Raijinn to Meruxz]
+[06:12:37] [Server thread/INFO]: Meruxz has made the advancement [Diamonds!]
+[06:16:14] [Server thread/INFO]: Raijinn issued server command: /tp Raijinn Meruxz
+[06:16:14] [Server thread/INFO]: [Raijinn: Teleported Raijinn to Meruxz]
+[06:19:29] [Server thread/INFO]: Raijinn issued server command: /tp Raijinn Meruxz
+[06:19:29] [Server thread/INFO]: [Raijinn: Teleported Raijinn to Meruxz]
+[06:27:19] [Server thread/INFO]: Meruxz was blown up by Creeper
+[06:32:50] [Server thread/INFO]: Raijinn issued server command: /tp Raijinn Meruxz
+[06:32:50] [Server thread/INFO]: [Raijinn: Teleported Raijinn to Meruxz]
+[06:37:43] [Server thread/INFO]: Raijinn issued server command: /tp Raijinn Meruxz
+[06:37:43] [Server thread/INFO]: [Raijinn: Teleported Raijinn to Meruxz]
+[06:44:37] [Server thread/INFO]: Raijinn issued server command: /tp Raijinn Meruxz
+[06:44:37] [Server thread/INFO]: [Raijinn: Teleported Raijinn to Meruxz]
+[06:45:19] [Server thread/INFO]: Raijinn issued server command: /difficulty peaceful
+[06:45:19] [Server thread/INFO]: [Raijinn: The difficulty has been set to Peaceful]
+[06:45:22] [Server thread/INFO]: Raijinn issued server command: /difficulty normal
+[06:45:22] [Server thread/INFO]: [Raijinn: The difficulty has been set to Normal]
+[06:45:42] [User Authenticator #6/INFO]: UUID of player elhy is e3d0ffe5-123f-3e82-a703-09ac7283dab5
+[06:45:43] [Server thread/INFO]: elhy joined the game
+[06:45:43] [Server thread/INFO]: elhy[/127.118.152.57:53307] logged in with entity id 26560 at ([world]-948.5, 112.0, 606.5)
+[06:46:56] [Server thread/INFO]: Raijinn issued server command: /difficulty peaceful
+[06:46:56] [Server thread/INFO]: [Raijinn: The difficulty has been set to Peaceful]
+[06:47:03] [Server thread/INFO]: Raijinn issued server command: /difficulty normal
+[06:47:03] [Server thread/INFO]: [Raijinn: The difficulty has been set to Normal]
+[06:51:55] [Server thread/INFO]: elhy has made the advancement [A Seedy Place]
+[06:54:37] [Server thread/INFO]: Raijinn issued server command: /op elhy
+[06:54:37] [Server thread/INFO]: [Raijinn: Made elhy a server operator]
+[06:56:26] [Server thread/INFO]: Raijinn issued server command: /tp Raijinn Meruxz
+[06:56:26] [Server thread/INFO]: [Raijinn: Teleported Raijinn to Meruxz]
+[06:58:22] [Server thread/INFO]: elhy has made the advancement [Stone Age]
+[06:59:19] [Server thread/INFO]: Raijinn was slain by Zombie
+[06:59:24] [Server thread/INFO]: elhy has made the advancement [Getting an Upgrade]
+[07:00:24] [Server thread/INFO]: Raijinn issued server command: /difficulty peaceful
+[07:00:24] [Server thread/INFO]: [Raijinn: The difficulty has been set to Peaceful]
+[07:00:25] [Server thread/INFO]: Raijinn issued server command: /difficulty normal
+[07:00:25] [Server thread/INFO]: [Raijinn: The difficulty has been set to Normal]
+[07:03:44] [Server thread/INFO]: elhy has made the advancement [Monster Hunter]
+[07:06:34] [Server thread/INFO]: elhy has made the advancement [Sweet Dreams]
+[07:18:01] [Server thread/INFO]: elhy lost connection: Disconnected
+[07:18:01] [Server thread/INFO]: elhy left the game
+[07:39:27] [Server thread/INFO]: Raijinn issued server command: /locate poi
+[07:39:38] [Server thread/INFO]: Raijinn issued server command: /tp Raijinn Meruxz
+[07:39:38] [Server thread/INFO]: [Raijinn: Teleported Raijinn to Meruxz]
+[07:40:02] [Server thread/INFO]: Meruxz has made the advancement [The Cutest Predator]
+[07:40:57] [Server thread/INFO]: Meruxz lost connection: Disconnected
+[07:40:57] [Server thread/INFO]: Meruxz left the game
+[07:41:29] [User Authenticator #7/INFO]: UUID of player Meruxz is 4211d0ba-5b07-32d5-94a3-fa9371f872e6
+[07:41:29] [Server thread/INFO]: Meruxz joined the game
+[07:41:29] [Server thread/INFO]: Meruxz[/127.118.152.57:34107] logged in with entity id 43962 at ([world]272.3489757686821, 61.073030944940385, 1701.414321650343)
+[07:42:43] [Async Chat Thread - #2/INFO]: [Not Secure] <Meruxz> :<
+[07:42:49] [Async Chat Thread - #2/INFO]: [Not Secure] <Meruxz> namatay T_T
+[07:45:39] [Server thread/INFO]: Raijinn issued server command: /tp Raijinn Meruxz
+[07:45:39] [Server thread/INFO]: [Raijinn: Teleported Raijinn to Meruxz]
+[07:47:40] [Async Chat Thread - #4/INFO]: [Not Secure] <Meruxz> lunch tayo love?
+[07:47:51] [Async Chat Thread - #4/INFO]: [Not Secure] <Raijinn> tara?
+[07:48:03] [Async Chat Thread - #4/INFO]: [Not Secure] <Meruxz> tara pooo
+[07:48:12] [Async Chat Thread - #4/INFO]: [Not Secure] <Meruxz> luto lang aq pancit canton
+[07:48:15] [Async Chat Thread - #4/INFO]: [Not Secure] <Raijinn> go po love
+[07:48:18] [Async Chat Thread - #4/INFO]: [Not Secure] <Meruxz> pero uwi muna tayo
+[07:51:20] [Server thread/INFO]: Raijinn issued server command: /time set day
+[07:51:20] [Server thread/INFO]: [Raijinn: Set the time to 1000]
+[07:53:51] [Server thread/INFO]: Raijinn issued server command: /gamemode creative
+[07:53:51] [Server thread/INFO]: [Raijinn: Set own game mode to Creative Mode]
+[07:54:00] [Server thread/INFO]: Raijinn issued server command: /gamemode survival
+[07:54:00] [Server thread/INFO]: [Raijinn: Set own game mode to Survival Mode]
+[07:54:06] [Server thread/INFO]: Raijinn issued server command: /tp Meruxz Raijinn
+[07:54:06] [Server thread/INFO]: [Raijinn: Teleported Meruxz to Raijinn]
+[07:56:49] [Server thread/INFO]: Meruxz lost connection: Disconnected
+[07:56:49] [Server thread/INFO]: Meruxz left the game
+[07:57:31] [Server thread/INFO]: Raijinn issued server command: /save-all
+[07:57:31] [Server thread/INFO]: [Raijinn: Saved the game]
+[07:57:51] [Server thread/INFO]: Stopping the server
+[07:57:51] [Server thread/INFO]: Stopping server
+[07:57:51] [Server thread/INFO]: Saving players
+[07:57:51] [Server thread/INFO]: Raijinn lost connection: Server closed
+[07:57:51] [Server thread/INFO]: Raijinn left the game
+[07:57:51] [Server thread/INFO]: Saving worlds
+[07:57:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:57:51] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[07:57:51] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[07:57:51] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[07:57:51] [Server thread/INFO]: [ChunkHolderManager] Saved 7 block chunks, 163 entity chunks, 0 poi chunks in world 'world' in 0.05s
+[07:57:51] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[07:57:51] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[07:57:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[07:57:51] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[07:57:51] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[07:57:51] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[07:57:51] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[07:57:51] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[07:57:51] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[07:57:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[07:57:51] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[07:57:51] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[07:57:51] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[07:57:51] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[07:57:51] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[07:57:51] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[07:57:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:57:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:57:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:57:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07:57:51] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[07:57:51] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[07:57:51] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[07:57:51] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
