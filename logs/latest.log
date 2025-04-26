@@ -53,3 +53,10 @@
 [11:40:48] [Server thread/INFO]: [Raijinn: Gave 1 [Spruce Button] to Raijinn]
 [11:43:31] [Server thread/INFO]: Raijinn lost connection: Disconnected
 [11:43:31] [Server thread/INFO]: Raijinn left the game
+[12:02:24] [User Authenticator #1/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
+[12:02:25] [Server thread/INFO]: Raijinn joined the game
+[12:02:25] [Server thread/INFO]: Raijinn[/127.36.3.233:43777] logged in with entity id 2383 at ([world]-951.8086875066866, 124.0, 615.3766584212622)
+[12:02:38] [Server thread/INFO]: Raijinn issued server command: /difficulty peaceful
+[12:02:38] [Server thread/INFO]: [Raijinn: The difficulty has been set to Peaceful]
+[12:02:42] [Server thread/INFO]: Raijinn issued server command: /difficulty normal
+[12:02:42] [Server thread/INFO]: [Raijinn: The difficulty has been set to Normal]
