@@ -100,3 +100,9 @@
 [14:40:07] [Server thread/INFO]: Meruxz issued server command: /tp Meruxz Raiji
 [14:40:15] [Server thread/INFO]: Meruxz issued server command: /tp Meruxz Raijinn
 [14:40:15] [Server thread/INFO]: [Meruxz: Teleported Meruxz to Raijinn]
+[14:52:18] [Server thread/INFO]: Raijinn issued server command: /save-all
+[14:52:18] [Server thread/INFO]: [Raijinn: Saved the game]
+[14:53:06] [Server thread/INFO]: Meruxz lost connection: Disconnected
+[14:53:06] [Server thread/INFO]: Meruxz left the game
+[14:53:15] [Server thread/INFO]: Raijinn lost connection: Disconnected
+[14:53:15] [Server thread/INFO]: Raijinn left the game
