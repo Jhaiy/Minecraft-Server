@@ -68,3 +68,6 @@
 [12:49:34] [Server thread/INFO]: [Raijinn: Saved the game]
 [12:49:37] [Server thread/INFO]: Raijinn lost connection: Disconnected
 [12:49:37] [Server thread/INFO]: Raijinn left the game
+[13:25:47] [User Authenticator #2/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
+[13:25:49] [Server thread/INFO]: Raijinn joined the game
+[13:25:49] [Server thread/INFO]: Raijinn[/127.36.3.233:47229] logged in with entity id 7732 at ([world]-950.0381342399542, 118.0, 606.6482937255151)
