@@ -1,204 +1,39 @@
-[02:58:52] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-LTS; Microsoft Microsoft-10800198) on Linux 6.8.0-1026-azure (amd64)
-[02:58:52] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.5-28-main@55f2020 (2025-04-22T20:12:27Z) for Minecraft 1.21.5
-[02:58:52] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[02:58:52] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[02:58:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:59:02] [ServerMain/INFO]: Loaded 1373 recipes
-[02:59:02] [ServerMain/INFO]: Loaded 1484 advancements
-[02:59:02] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[02:59:02] [Server thread/INFO]: Loading properties
-[02:59:02] [Server thread/INFO]: This server is running Paper version 1.21.5-28-main@55f2020 (2025-04-22T20:12:27Z) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
-[02:59:02] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[02:59:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:59:02] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:59:03] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[02:59:03] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[02:59:04] [Server thread/INFO]: Default game type: SURVIVAL
-[02:59:04] [Server thread/INFO]: Generating keypair
-[02:59:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:59:04] [Server thread/INFO]: Using epoll channel type
-[02:59:04] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:59:04] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[02:59:04] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:59:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:59:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:59:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:59:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:59:04] [Server thread/INFO]: Preparing level "world"
-[02:59:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:59:06] [Server thread/INFO]: Preparing spawn area: 0%
-[02:59:06] [Server thread/INFO]: Preparing spawn area: 0%
-[02:59:07] [Server thread/INFO]: Preparing spawn area: 0%
-[02:59:07] [Server thread/INFO]: Time elapsed: 1470 ms
-[02:59:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:59:07] [Server thread/INFO]: Preparing spawn area: 0%
-[02:59:07] [Server thread/INFO]: Time elapsed: 228 ms
-[02:59:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:59:07] [Server thread/INFO]: Preparing spawn area: 0%
-[02:59:07] [Server thread/INFO]: Time elapsed: 150 ms
-[02:59:07] [Server thread/INFO]: [spark] Starting background profiler...
-[02:59:08] [Server thread/INFO]: Done preparing level "world" (3.646s)
-[02:59:08] [Server thread/INFO]: Running delayed init tasks
-[02:59:08] [Server thread/INFO]: Done (17.186s)! For help, type "help"
-[03:00:25] [User Authenticator #0/INFO]: UUID of player Meruxz is 4211d0ba-5b07-32d5-94a3-fa9371f872e6
-[03:00:26] [Server thread/INFO]: Meruxz joined the game
-[03:00:26] [Server thread/INFO]: Meruxz[/[0:0:0:0:0:0:0:1]:54402] logged in with entity id 84 at ([world]-740.2193182933079, 95.0, 135.46852624912856)
-[03:01:03] [Server thread/INFO]: [Not Secure] [Server] hello
-[03:01:14] [Server thread/INFO]: Set the time to 1000
-[03:02:24] [Server thread/INFO]: Meruxz drowned
-[03:02:30] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: f0eedb09-6abe-43b8-ba9e-666288df31d9, mapped to Sheep['Sheep'/233, uuid='f0eedb09-6abe-43b8-ba9e-666288df31d9', l='ServerLevel[world]', x=-935.22, y=78.00, z=13.64, cpos=[-59, 0], tl=0, v=true], can't add Sheep['Sheep'/697, uuid='f0eedb09-6abe-43b8-ba9e-666288df31d9', l='ServerLevel[world]', x=-945.76, y=83.00, z=16.51, cpos=[-60, 1], tl=0, v=false]
-[03:03:39] [User Authenticator #1/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
-[03:03:40] [Server thread/INFO]: Raijinn joined the game
-[03:03:40] [Server thread/INFO]: Raijinn[/[0:0:0:0:0:0:0:1]:47850] logged in with entity id 847 at ([world]-959.2512865286809, 111.0, 605.6609786546607)
-[03:04:50] [Server thread/INFO]: Raijinn lost connection: Disconnected
-[03:04:50] [Server thread/INFO]: Raijinn left the game
-[03:05:26] [User Authenticator #2/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
-[03:05:27] [Server thread/INFO]: Raijinn joined the game
-[03:05:27] [Server thread/INFO]: Raijinn[/127.36.3.233:43953] logged in with entity id 1320 at ([world]-954.7935735668636, 111.0, 613.2258326959974)
-[03:05:54] [Server thread/INFO]: Teleported Meruxz to Raijinn
-[03:06:36] [Server thread/INFO]: Teleported Meruxz to Raijinn
-[03:08:13] [Server thread/INFO]: Set the world spawn point to -957, 111, 608 [0.0]
-[03:10:11] [Server thread/INFO]: Made Raijinn a server operator
-[03:10:19] [Server thread/INFO]: Raijinn issued server command: /gamemode creative
-[03:10:19] [Server thread/INFO]: [Raijinn: Set own game mode to Creative Mode]
-[03:10:25] [Server thread/INFO]: Raijinn issued server command: /gamemode survival
-[03:10:25] [Server thread/INFO]: [Raijinn: Set own game mode to Survival Mode]
-[03:10:40] [Server thread/INFO]: Meruxz lost connection: Disconnected
-[03:10:40] [Server thread/INFO]: Meruxz left the game
-[03:10:42] [User Authenticator #3/INFO]: UUID of player Meruxz is 4211d0ba-5b07-32d5-94a3-fa9371f872e6
-[03:10:42] [Server thread/INFO]: Meruxz joined the game
-[03:10:42] [Server thread/INFO]: Meruxz[/[0:0:0:0:0:0:0:1]:54622] logged in with entity id 2202 at ([world]-959.6620572176063, 111.0, 610.5481674070331)
-[03:11:10] [Server thread/INFO]: Meruxz lost connection: Disconnected
-[03:11:10] [Server thread/INFO]: Meruxz left the game
-[03:11:18] [User Authenticator #3/INFO]: UUID of player Meruxz is 4211d0ba-5b07-32d5-94a3-fa9371f872e6
-[03:11:18] [Server thread/INFO]: Meruxz joined the game
-[03:11:18] [Server thread/INFO]: Meruxz[/[0:0:0:0:0:0:0:1]:33906] logged in with entity id 2258 at ([world]-961.5939221413784, 111.0, 610.7611322163164)
-[03:11:26] [Server thread/INFO]: Meruxz lost connection: Disconnected
-[03:11:26] [Server thread/INFO]: Meruxz left the game
-[03:11:27] [Server thread/INFO]: Raijinn lost connection: Disconnected
-[03:11:27] [Server thread/INFO]: Raijinn left the game
-[03:11:30] [User Authenticator #3/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
-[03:11:31] [Server thread/INFO]: Raijinn joined the game
-[03:11:31] [Server thread/INFO]: Raijinn[/[0:0:0:0:0:0:0:1]:38280] logged in with entity id 2276 at ([world]-966.2801429825088, 111.0, 603.1377552013286)
-[03:11:59] [User Authenticator #3/INFO]: UUID of player Meruxz is 4211d0ba-5b07-32d5-94a3-fa9371f872e6
-[03:12:00] [Server thread/INFO]: Meruxz joined the game
-[03:12:00] [Server thread/INFO]: Meruxz[/[0:0:0:0:0:0:0:1]:47056] logged in with entity id 2339 at ([world]-967.7774646684672, 111.0, 603.7143440711291)
-[03:13:54] [Server thread/INFO]: Made Meruxz a server operator
-[03:15:20] [Server thread/INFO]: Raijinn has made the advancement [Getting an Upgrade]
-[03:21:41] [Server thread/INFO]: Set the time to 1000
-[03:26:59] [Server thread/INFO]: Set the weather to clear
-[03:29:20] [Server thread/INFO]: Meruxz has made the advancement [Acquire Hardware]
-[03:38:07] [Server thread/WARN]: Birch Boat (vehicle of Raijinn) moved wrongly! 0.32494440298671634
-[03:41:16] [Server thread/INFO]: Raijinn has made the advancement [Acquire Hardware]
-[03:43:24] [Server thread/INFO]: Raijinn issued server command: /gamemode creative
-[03:43:24] [Server thread/INFO]: [Raijinn: Set own game mode to Creative Mode]
-[03:43:29] [Server thread/INFO]: Raijinn issued server command: /gamemode survival
-[03:43:29] [Server thread/INFO]: [Raijinn: Set own game mode to Survival Mode]
-[03:46:49] [Server thread/INFO]: Raijinn has made the advancement [Best Friends Forever]
-[03:47:25] [Server thread/INFO]: Meruxz has made the advancement [Best Friends Forever]
-[03:49:52] [Server thread/INFO]: Raijinn has made the advancement [Ice Bucket Challenge]
-[04:12:12] [Server thread/INFO]: Raijinn has made the advancement [Suit Up]
-[04:12:35] [Server thread/INFO]: Meruxz has made the advancement [Suit Up]
-[04:35:22] [Server thread/INFO]: Raijinn issued server command: /gamemode creative
-[04:35:22] [Server thread/INFO]: [Raijinn: Set own game mode to Creative Mode]
-[04:35:24] [Server thread/INFO]: Raijinn issued server command: /gamemode survival
-[04:35:24] [Server thread/INFO]: [Raijinn: Set own game mode to Survival Mode]
-[04:48:32] [Server thread/INFO]: Incorrect argument for command
-gamerule playerSleepingPercentage 0<--[HERE]
-[04:48:48] [Server thread/INFO]: Incorrect argument for command
-gamerule playerSleepingPercentage <0><--[HERE]
-[04:49:14] [Server thread/INFO]: Incorrect argument for command
-gamerule playerSleepingPercentage 0%<--[HERE]
-[04:49:28] [Server thread/INFO]: Raijinn issued server command: /gamerule playersSleepingPercentage 0
-[04:49:28] [Server thread/INFO]: [Raijinn: Gamerule playersSleepingPercentage is now set to: 0]
-[04:59:18] [Server thread/INFO]: Meruxz issued server command: /love
-[04:59:21] [Async Chat Thread - #2/INFO]: [Not Secure] <Meruxz> love
-[04:59:30] [Async Chat Thread - #2/INFO]: [Not Secure] <Meruxz> di ka maglulunch?
-[04:59:36] [Async Chat Thread - #2/INFO]: [Not Secure] <Raijinn> busog pa me T_T
-[05:06:45] [Server thread/INFO]: Raijinn has made the advancement [Isn't It Iron Pick]
-[05:12:11] [Server thread/INFO]: No entity was found
-[05:12:18] [Server thread/INFO]: Teleported Raijinn to Meruxz
-[05:16:29] [Server thread/INFO]: Teleported Raijinn to Meruxz
-[05:30:33] [Server thread/INFO]: Teleported Raijinn to Meruxz
-[05:32:00] [Server thread/INFO]: Meruxz fell from a high place
-[05:33:00] [Server thread/INFO]: Raijinn has made the advancement [Not Today, Thank You]
-[05:36:34] [Server thread/INFO]: Raijinn was slain by Zombie
-[05:39:23] [Server thread/INFO]: Teleported Raijinn to Meruxz
-[05:47:43] [Server thread/INFO]: Raijinn has made the advancement [Voluntary Exile]
-[05:47:55] [Server thread/INFO]: Raijinn was shot by Pillager
-[05:48:07] [Server thread/INFO]: Meruxz was shot by Pillager
-[05:48:15] [Server thread/INFO]: Raijinn was shot by Pillager
-[05:48:23] [Server thread/INFO]: Meruxz has made the advancement [Isn't It Iron Pick]
-[05:48:25] [Server thread/INFO]: Meruxz was shot by Skeleton
-[06:35:34] [Server thread/INFO]: Meruxz was shot by Skeleton
-[06:35:39] [Server thread/INFO]: Raijinn was shot by Skeleton
-[06:36:09] [Server thread/INFO]: Meruxz was shot by Skeleton
-[06:36:27] [Server thread/INFO]: Meruxz was shot by Skeleton
-[06:37:02] [Server thread/INFO]: Meruxz was shot by Skeleton
-[06:37:22] [Server thread/INFO]: Meruxz was shot by Skeleton
-[06:37:55] [Server thread/INFO]: Meruxz was slain by Zombie
-[06:47:26] [Server thread/INFO]: Meruxz was slain by Raijinn
-[06:50:21] [Async Chat Thread - #3/INFO]: [Not Secure] <Meruxz> natatawa q kanina
-[06:50:31] [Async Chat Thread - #3/INFO]: [Not Secure] <Meruxz> nung kukuha aq yelo kila papa sa tindahan HAHAHAHAHA
-[06:50:41] [Async Chat Thread - #3/INFO]: [Not Secure] <Meruxz> sabi sakin ni papa pagpasok ko T_T
-[06:50:52] [Async Chat Thread - #3/INFO]: [Not Secure] <Meruxz> bat ganiyan mukha mo nakasimangot ka na naman T_T
-[06:51:08] [Async Chat Thread - #3/INFO]: [Not Secure] <Meruxz> ayaw ko kasi ng ulam nila T_T
-[07:50:41] [Server thread/INFO]: Meruxz was slain by Zombie
-[07:50:41] [Server thread/INFO]: Meruxz lost connection: Disconnected
-[07:50:41] [Server thread/INFO]: Meruxz left the game
-[07:53:06] [Server thread/INFO]: Raijinn lost connection: Disconnected
-[07:53:06] [Server thread/INFO]: Raijinn left the game
-[07:53:48] [User Authenticator #4/INFO]: UUID of player Meruxz is 4211d0ba-5b07-32d5-94a3-fa9371f872e6
-[07:53:48] [Server thread/INFO]: Meruxz joined the game
-[07:53:48] [Server thread/INFO]: Meruxz[/127.118.152.57:60705] logged in with entity id 52309 at ([world]-981.1353921999472, 24.360800005197525, 569.2922308673423)
-[07:54:16] [User Authenticator #4/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
-[07:54:17] [Server thread/INFO]: Raijinn joined the game
-[07:54:18] [Server thread/INFO]: Raijinn[/127.36.3.233:36621] logged in with entity id 52379 at ([world]-954.4991938159446, 112.0, 605.8189813557149)
-[07:55:12] [Server thread/INFO]: Meruxz lost connection: Disconnected
-[07:55:12] [Server thread/INFO]: Meruxz left the game
-[07:56:18] [User Authenticator #5/INFO]: UUID of player Meruxz is 4211d0ba-5b07-32d5-94a3-fa9371f872e6
-[07:56:19] [Server thread/INFO]: Meruxz joined the game
-[07:56:19] [Server thread/INFO]: Meruxz[/127.118.152.57:41527] logged in with entity id 52580 at ([world]-976.9708120714723, 24.0, 572.5204740243134)
-[07:56:23] [Server thread/INFO]: Meruxz lost connection: Disconnected
-[07:56:23] [Server thread/INFO]: Meruxz left the game
-[07:56:50] [User Authenticator #5/INFO]: UUID of player Meruxz is 4211d0ba-5b07-32d5-94a3-fa9371f872e6
-[07:56:51] [Server thread/INFO]: Meruxz joined the game
-[07:56:51] [Server thread/INFO]: Meruxz[/127.118.152.57:55635] logged in with entity id 52640 at ([world]-977.3801692876441, 24.0, 572.3105019025428)
-[07:57:21] [Server thread/INFO]: Teleported Meruxz to Raijinn
-[07:57:40] [Server thread/INFO]: Meruxz lost connection: Disconnected
-[07:57:40] [Server thread/INFO]: Meruxz left the game
-[07:57:47] [Server thread/INFO]: Raijinn lost connection: Disconnected
-[07:57:47] [Server thread/INFO]: Raijinn left the game
-[07:57:50] [Server thread/INFO]: Stopping the server
-[07:57:50] [Server thread/INFO]: Stopping server
-[07:57:50] [Server thread/INFO]: Saving players
-[07:57:50] [Server thread/INFO]: Saving worlds
-[07:57:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:57:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[07:57:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[07:57:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[07:57:50] [Server thread/INFO]: [ChunkHolderManager] Saved 123 block chunks, 228 entity chunks, 0 poi chunks in world 'world' in 0.25s
-[07:57:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[07:57:50] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[07:57:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[07:57:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[07:57:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[07:57:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[07:57:50] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[07:57:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[07:57:50] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[07:57:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[07:57:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[07:57:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[07:57:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[07:57:50] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[07:57:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[07:57:50] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[07:57:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:57:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:57:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:57:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[07:57:50] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[07:57:50] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[07:57:50] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[07:57:50] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[00:01:45] [Server thread/INFO]: The difficulty has been set to Peaceful
+[00:01:48] [Server thread/INFO]: The difficulty has been set to Normal
+[00:15:31] [Server thread/INFO]: The difficulty has been set to Peaceful
+[00:15:33] [Server thread/INFO]: The difficulty has been set to Normal
+[00:17:40] [Server thread/INFO]: Raijinn lost connection: Disconnected
+[00:17:40] [Server thread/INFO]: Raijinn left the game
+[00:17:44] [Server thread/INFO]: Stopping the server
+[00:17:44] [Server thread/INFO]: Stopping server
+[00:17:44] [Server thread/INFO]: Saving players
+[00:17:44] [Server thread/INFO]: Saving worlds
+[00:17:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:17:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[00:17:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[00:17:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[00:17:44] [Server thread/INFO]: [ChunkHolderManager] Saved 13 block chunks, 201 entity chunks, 0 poi chunks in world 'world' in 0.06s
+[00:17:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[00:17:44] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[00:17:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:17:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:17:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:17:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[00:17:44] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[00:17:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[00:17:44] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[00:17:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:17:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:17:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:17:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[00:17:44] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[00:17:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[00:17:44] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[00:17:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:17:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:17:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:17:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:17:44] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[00:17:44] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[00:17:44] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[00:17:44] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
