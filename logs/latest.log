@@ -71,3 +71,5 @@
 [13:25:47] [User Authenticator #2/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
 [13:25:49] [Server thread/INFO]: Raijinn joined the game
 [13:25:49] [Server thread/INFO]: Raijinn[/127.36.3.233:47229] logged in with entity id 7732 at ([world]-950.0381342399542, 118.0, 606.6482937255151)
+[13:54:48] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:red_carpet 9
+[13:54:48] [Server thread/INFO]: [Raijinn: Gave 9 [Red Carpet] to Raijinn]
