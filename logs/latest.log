@@ -1,57 +1,52 @@
-[02:38:53] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-LTS; Microsoft Microsoft-10800198) on Linux 6.8.0-1026-azure (amd64)
-[02:38:53] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.5-28-main@55f2020 (2025-04-22T20:12:27Z) for Minecraft 1.21.5
-[02:38:53] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[02:38:53] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[02:38:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:39:00] [ServerMain/INFO]: Loaded 1373 recipes
-[02:39:00] [ServerMain/INFO]: Loaded 1484 advancements
-[02:39:00] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[02:39:00] [Server thread/INFO]: Loading properties
-[02:39:00] [Server thread/INFO]: This server is running Paper version 1.21.5-28-main@55f2020 (2025-04-22T20:12:27Z) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
-[02:39:00] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[02:39:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:39:01] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:39:01] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[02:39:01] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[02:39:02] [Server thread/INFO]: Default game type: SURVIVAL
-[02:39:02] [Server thread/INFO]: Generating keypair
-[02:39:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:39:02] [Server thread/INFO]: Using epoll channel type
-[02:39:02] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:39:02] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[02:39:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:39:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:39:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:39:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:39:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:39:02] [Server thread/INFO]: Preparing level "world"
-[02:39:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:39:03] [Server thread/INFO]: Preparing spawn area: 0%
-[02:39:04] [Server thread/INFO]: Preparing spawn area: 32%
-[02:39:04] [Server thread/INFO]: Preparing spawn area: 32%
-[02:39:04] [Server thread/INFO]: Time elapsed: 1037 ms
-[02:39:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:39:04] [Server thread/INFO]: Preparing spawn area: 0%
-[02:39:04] [Server thread/INFO]: Time elapsed: 197 ms
-[02:39:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:39:04] [Server thread/INFO]: Preparing spawn area: 0%
-[02:39:04] [Server thread/INFO]: Time elapsed: 119 ms
-[02:39:04] [Server thread/INFO]: [spark] Starting background profiler...
-[02:39:04] [Server thread/INFO]: Done preparing level "world" (2.605s)
-[02:39:04] [Server thread/INFO]: Running delayed init tasks
-[02:39:04] [Server thread/INFO]: Done (12.424s)! For help, type "help"
-[02:40:36] [User Authenticator #0/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
-[02:40:38] [Server thread/INFO]: Raijinn joined the game
-[02:40:38] [Server thread/INFO]: Raijinn[/127.36.3.233:56509] logged in with entity id 36 at ([world]-902.4806212502123, -2.0, 503.8037666413853)
-[02:58:02] [User Authenticator #1/INFO]: UUID of player Meruxz is 4211d0ba-5b07-32d5-94a3-fa9371f872e6
-[02:58:03] [Server thread/INFO]: Meruxz joined the game
-[02:58:03] [Server thread/INFO]: Meruxz[/127.118.152.57:33639] logged in with entity id 2390 at ([world]-963.3594447608017, 111.0, 616.7433543101738)
-[02:58:22] [Async Chat Thread - #0/INFO]: [Not Secure] <Raijinn> hello love
-[02:58:28] [Async Chat Thread - #0/INFO]: [Not Secure] <Meruxz> hello babie
-[02:58:34] [Async Chat Thread - #0/INFO]: [Not Secure] <Meruxz> may bunny here
-[02:58:43] [Async Chat Thread - #0/INFO]: [Not Secure] <Raijinn> opo yawa yan
-[02:58:45] [Async Chat Thread - #0/INFO]: [Not Secure] <Raijinn> nagulat ako
-[02:58:48] [Async Chat Thread - #0/INFO]: [Not Secure] <Meruxz> T_T
-[02:58:52] [Async Chat Thread - #0/INFO]: [Not Secure] <Raijinn> may gumalaw sa peripheral vision ko
-[02:58:57] [Async Chat Thread - #0/INFO]: [Not Secure] <Raijinn> pag silip ko sa bintana naka tayo dun
-[02:59:00] [Async Chat Thread - #0/INFO]: [Not Secure] <Raijinn> nyeta
+[03:12:28] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-LTS; Microsoft Microsoft-10800198) on Linux 6.8.0-1026-azure (amd64)
+[03:12:28] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.5-28-main@55f2020 (2025-04-22T20:12:27Z) for Minecraft 1.21.5
+[03:12:28] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[03:12:28] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[03:12:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:12:38] [ServerMain/INFO]: Loaded 1373 recipes
+[03:12:38] [ServerMain/INFO]: Loaded 1484 advancements
+[03:12:38] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[03:12:38] [Server thread/INFO]: Loading properties
+[03:12:38] [Server thread/INFO]: This server is running Paper version 1.21.5-28-main@55f2020 (2025-04-22T20:12:27Z) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
+[03:12:38] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[03:12:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:12:38] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:12:39] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[03:12:39] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[03:12:40] [Server thread/INFO]: Default game type: SURVIVAL
+[03:12:40] [Server thread/INFO]: Generating keypair
+[03:12:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:12:40] [Server thread/INFO]: Using epoll channel type
+[03:12:40] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:12:40] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[03:12:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:12:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:12:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:12:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:12:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:12:40] [Server thread/INFO]: Preparing level "world"
+[03:12:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:12:42] [Server thread/INFO]: Preparing spawn area: 0%
+[03:12:42] [Server thread/INFO]: Preparing spawn area: 0%
+[03:12:43] [Server thread/INFO]: Preparing spawn area: 0%
+[03:12:43] [Server thread/INFO]: Preparing spawn area: 0%
+[03:12:43] [Server thread/INFO]: Time elapsed: 1592 ms
+[03:12:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:12:43] [Server thread/INFO]: Preparing spawn area: 0%
+[03:12:43] [Server thread/INFO]: Time elapsed: 388 ms
+[03:12:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:12:43] [Server thread/INFO]: Preparing spawn area: 0%
+[03:12:43] [Server thread/INFO]: Time elapsed: 169 ms
+[03:12:44] [Server thread/INFO]: [spark] Starting background profiler...
+[03:12:45] [Server thread/INFO]: Done preparing level "world" (4.669s)
+[03:12:45] [Server thread/INFO]: Running delayed init tasks
+[03:12:45] [Server thread/INFO]: Done (19.007s)! For help, type "help"
+[03:12:55] [User Authenticator #0/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
+[03:12:57] [Server thread/INFO]: Raijinn joined the game
+[03:12:57] [Server thread/INFO]: Raijinn[/127.36.3.233:55973] logged in with entity id 67 at ([world]-944.4601102398179, 122.125, 608.2521996648028)
+[03:13:03] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: dec166e7-b891-4813-b221-21526ab7747c, mapped to Bat['Bat'/208, uuid='dec166e7-b891-4813-b221-21526ab7747c', l='ServerLevel[world]', x=-1023.57, y=39.12, z=420.75, cpos=[-64, 26], tl=0, v=true], can't add Bat['Bat'/213, uuid='dec166e7-b891-4813-b221-21526ab7747c', l='ServerLevel[world]', x=-1025.05, y=39.39, z=420.75, cpos=[-65, 26], tl=0, v=false]
+[03:13:12] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: ad11bd3b-4023-4f4f-a732-cf1de03e021c, mapped to Bat['Bat'/206, uuid='ad11bd3b-4023-4f4f-a732-cf1de03e021c', l='ServerLevel[world]', x=-1014.76, y=43.89, z=416.39, cpos=[-64, 26], tl=0, v=true], can't add Bat['Bat'/239, uuid='ad11bd3b-4023-4f4f-a732-cf1de03e021c', l='ServerLevel[world]', x=-1014.26, y=43.30, z=414.98, cpos=[-64, 25], tl=0, v=false]
+[03:13:49] [User Authenticator #0/INFO]: UUID of player Meruxz is 4211d0ba-5b07-32d5-94a3-fa9371f872e6
+[03:13:49] [Server thread/INFO]: Meruxz joined the game
+[03:13:49] [Server thread/INFO]: Meruxz[/127.118.152.57:58839] logged in with entity id 293 at ([world]-995.6929557560381, 119.0, 598.176376175821)
+[03:13:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: b28d89af-2361-42ff-af9a-d0ccd9631aec, mapped to Sheep['Sheep'/305, uuid='b28d89af-2361-42ff-af9a-d0ccd9631aec', l='ServerLevel[world]', x=-1183.84, y=113.00, z=546.79, cpos=[-74, 34], tl=0, v=true], can't add Sheep['Sheep'/309, uuid='b28d89af-2361-42ff-af9a-d0ccd9631aec', l='ServerLevel[world]', x=-1184.02, y=113.00, z=547.10, cpos=[-75, 34], tl=0, v=false]
