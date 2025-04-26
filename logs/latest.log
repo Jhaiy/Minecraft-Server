@@ -73,3 +73,5 @@
 [13:25:49] [Server thread/INFO]: Raijinn[/127.36.3.233:47229] logged in with entity id 7732 at ([world]-950.0381342399542, 118.0, 606.6482937255151)
 [13:54:48] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:red_carpet 9
 [13:54:48] [Server thread/INFO]: [Raijinn: Gave 9 [Red Carpet] to Raijinn]
+[14:08:11] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:red_carpet 4
+[14:08:11] [Server thread/INFO]: [Raijinn: Gave 4 [Red Carpet] to Raijinn]
