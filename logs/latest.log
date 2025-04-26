@@ -64,3 +64,7 @@
 [12:43:45] [Server thread/INFO]: [Raijinn: Gave 1 [Lectern] to Raijinn]
 [12:43:53] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:lectern 17
 [12:43:53] [Server thread/INFO]: [Raijinn: Gave 17 [Lectern] to Raijinn]
+[12:49:34] [Server thread/INFO]: Raijinn issued server command: /save-all
+[12:49:34] [Server thread/INFO]: [Raijinn: Saved the game]
+[12:49:37] [Server thread/INFO]: Raijinn lost connection: Disconnected
+[12:49:37] [Server thread/INFO]: Raijinn left the game
