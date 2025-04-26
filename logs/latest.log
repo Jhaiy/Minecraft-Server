@@ -85,3 +85,20 @@ save<--[HERE]
 [04:50:29] [Server thread/INFO]: Raijinn[/127.36.3.233:42181] logged in with entity id 8882 at ([world]-955.551608689032, 110.0, 627.2977509166285)
 [05:03:36] [Server thread/INFO]: Raijinn issued server command: /save-all
 [05:03:36] [Server thread/INFO]: [Raijinn: Saved the game]
+[05:04:21] [User Authenticator #4/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
+[05:04:21] [Server thread/INFO]: Raijinn lost connection: You logged in from another location
+[05:04:21] [Server thread/INFO]: Raijinn left the game
+[05:04:22] [Server thread/INFO]: Raijinn joined the game
+[05:04:22] [Server thread/INFO]: Raijinn[/127.36.3.233:36517] logged in with entity id 10503 at ([world]-963.8976901997917, 111.875, 608.5673280140891)
+[05:05:06] [User Authenticator #4/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
+[05:05:06] [Server thread/INFO]: Raijinn lost connection: You logged in from another location
+[05:05:06] [Server thread/INFO]: Raijinn left the game
+[05:05:07] [Server thread/INFO]: Raijinn joined the game
+[05:05:07] [Server thread/INFO]: Raijinn[/127.36.3.233:43245] logged in with entity id 10602 at ([world]-964.5624505946042, 111.0, 608.6992322246703)
+[05:14:35] [User Authenticator #5/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
+[05:14:35] [Server thread/INFO]: Raijinn lost connection: You logged in from another location
+[05:14:35] [Server thread/INFO]: Raijinn left the game
+[05:14:36] [Server thread/INFO]: Raijinn joined the game
+[05:14:36] [Server thread/INFO]: Raijinn[/127.36.3.233:55393] logged in with entity id 11890 at ([world]-880.339708411552, 29.0, 545.8447548342995)
+[05:14:51] [Server thread/INFO]: Raijinn issued server command: /save-all
+[05:14:51] [Server thread/INFO]: [Raijinn: Saved the game]
