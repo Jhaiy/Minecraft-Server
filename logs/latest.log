@@ -36,3 +36,7 @@
 [01:06:40] [Server thread/INFO]: [Raijinn: The difficulty has been set to Normal]
 [01:07:32] [Server thread/INFO]: Raijinn issued server command: /difficulty peaceful
 [01:07:32] [Server thread/INFO]: [Raijinn: The difficulty has been set to Peaceful]
+[01:13:41] [Server thread/INFO]: Raijinn issued server command: /tp Raijinn -900 100 600
+[01:13:41] [Server thread/INFO]: [Raijinn: Teleported Raijinn to -899.500000, 100.000000, 600.500000]
+[01:13:49] [Server thread/INFO]: Raijinn issued server command: /difficulty normal
+[01:13:49] [Server thread/INFO]: [Raijinn: The difficulty has been set to Normal]
