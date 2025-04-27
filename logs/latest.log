@@ -24,3 +24,5 @@
 [00:13:40] [Server thread/INFO]: [Raijinn: Gave 25 [Bookshelf] to Raijinn]
 [00:16:28] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:dark_oak_sapling 3
 [00:16:28] [Server thread/INFO]: [Raijinn: Gave 3 [Dark Oak Sapling] to Raijinn]
+[00:28:43] [Server thread/INFO]: Raijinn issued server command: /save-all
+[00:28:43] [Server thread/INFO]: [Raijinn: Saved the game]
