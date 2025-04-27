@@ -40,3 +40,5 @@
 [01:13:41] [Server thread/INFO]: [Raijinn: Teleported Raijinn to -899.500000, 100.000000, 600.500000]
 [01:13:49] [Server thread/INFO]: Raijinn issued server command: /difficulty normal
 [01:13:49] [Server thread/INFO]: [Raijinn: The difficulty has been set to Normal]
+[01:22:22] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:clay 20
+[01:22:22] [Server thread/INFO]: [Raijinn: Gave 20 [Clay] to Raijinn]
