@@ -42,3 +42,13 @@
 [01:13:49] [Server thread/INFO]: [Raijinn: The difficulty has been set to Normal]
 [01:22:22] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:clay 20
 [01:22:22] [Server thread/INFO]: [Raijinn: Gave 20 [Clay] to Raijinn]
+[01:34:20] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:gray_banner 4
+[01:34:20] [Server thread/INFO]: [Raijinn: Gave 4 [Gray Banner] to Raijinn]
+[01:35:50] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:red_carpet 8
+[01:35:50] [Server thread/INFO]: [Raijinn: Gave 8 [Red Carpet] to Raijinn]
+[01:36:01] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:red_carpet 3
+[01:36:01] [Server thread/INFO]: [Raijinn: Gave 3 [Red Carpet] to Raijinn]
+[01:37:49] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:gray_carpet 3
+[01:37:49] [Server thread/INFO]: [Raijinn: Gave 3 [Gray Carpet] to Raijinn]
+[01:38:36] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:red_carpet 8
+[01:38:36] [Server thread/INFO]: [Raijinn: Gave 8 [Red Carpet] to Raijinn]
