@@ -54,3 +54,5 @@
 [01:38:36] [Server thread/INFO]: [Raijinn: Gave 8 [Red Carpet] to Raijinn]
 [01:48:31] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:spruce_log 5
 [01:48:31] [Server thread/INFO]: [Raijinn: Gave 5 [Spruce Log] to Raijinn]
+[01:55:57] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:spruce_log 3
+[01:55:57] [Server thread/INFO]: [Raijinn: Gave 3 [Spruce Log] to Raijinn]
