@@ -1,2 +1,20 @@
 [00:01:38] [Server thread/INFO]: Raijinn issued server command: /save-all
 [00:01:38] [Server thread/INFO]: [Raijinn: Saved the game]
+[00:06:41] [Server thread/INFO]: Raijinn issued server command: /save-all
+[00:06:41] [Server thread/INFO]: [Raijinn: Saved the game]
+[00:08:55] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:red_banner 10
+[00:08:55] [Server thread/INFO]: [Raijinn: Gave 10 [Red Banner] to Raijinn]
+[00:09:18] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:red_banner 10
+[00:09:18] [Server thread/INFO]: [Raijinn: Gave 10 [Red Banner] to Raijinn]
+[00:09:34] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:red_banner 10
+[00:09:34] [Server thread/INFO]: [Raijinn: Gave 10 [Red Banner] to Raijinn]
+[00:10:20] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:red_carpet 12
+[00:10:20] [Server thread/INFO]: [Raijinn: Gave 12 [Red Carpet] to Raijinn]
+[00:10:46] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:red_carpet 12
+[00:10:46] [Server thread/INFO]: [Raijinn: Gave 12 [Red Carpet] to Raijinn]
+[00:10:54] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:red_carpet 12
+[00:10:54] [Server thread/INFO]: [Raijinn: Gave 12 [Red Carpet] to Raijinn]
+[00:11:24] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:gray_carpet
+[00:11:24] [Server thread/INFO]: [Raijinn: Gave 1 [Gray Carpet] to Raijinn]
+[00:11:28] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:gray_carpet 10
+[00:11:28] [Server thread/INFO]: [Raijinn: Gave 10 [Gray Carpet] to Raijinn]
