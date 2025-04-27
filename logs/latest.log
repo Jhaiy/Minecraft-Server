@@ -56,3 +56,7 @@
 [01:48:31] [Server thread/INFO]: [Raijinn: Gave 5 [Spruce Log] to Raijinn]
 [01:55:57] [Server thread/INFO]: Raijinn issued server command: /give Raijinn minecraft:spruce_log 3
 [01:55:57] [Server thread/INFO]: [Raijinn: Gave 3 [Spruce Log] to Raijinn]
+[02:01:12] [Server thread/INFO]: Raijinn issued server command: /save-all
+[02:01:12] [Server thread/INFO]: [Raijinn: Saved the game]
+[02:01:14] [Server thread/INFO]: Raijinn lost connection: Disconnected
+[02:01:14] [Server thread/INFO]: Raijinn left the game
