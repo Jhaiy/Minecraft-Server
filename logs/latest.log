@@ -1,191 +1,44 @@
-[12:53:02] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-LTS; Microsoft Microsoft-10800198) on Linux 6.8.0-1026-azure (amd64)
-[12:53:02] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.5-28-main@55f2020 (2025-04-22T20:12:27Z) for Minecraft 1.21.5
-[12:53:02] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[12:53:03] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[12:53:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[12:53:11] [ServerMain/INFO]: Loaded 1373 recipes
-[12:53:11] [ServerMain/INFO]: Loaded 1484 advancements
-[12:53:11] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[12:53:11] [Server thread/INFO]: Loading properties
-[12:53:12] [Server thread/INFO]: This server is running Paper version 1.21.5-28-main@55f2020 (2025-04-22T20:12:27Z) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
-[12:53:12] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[12:53:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[12:53:12] [Server thread/INFO]: Using 4 threads for Netty based IO
-[12:53:12] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[12:53:12] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[12:53:13] [Server thread/INFO]: Default game type: SURVIVAL
-[12:53:13] [Server thread/INFO]: Generating keypair
-[12:53:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:53:13] [Server thread/INFO]: Using epoll channel type
-[12:53:13] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[12:53:13] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[12:53:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[12:53:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:53:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:53:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:53:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:53:13] [Server thread/INFO]: Preparing level "world"
-[12:53:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:53:14] [Server thread/INFO]: Preparing spawn area: 0%
-[12:53:15] [Server thread/INFO]: Preparing spawn area: 0%
-[12:53:15] [Server thread/INFO]: Preparing spawn area: 0%
-[12:53:15] [Server thread/INFO]: Preparing spawn area: 79%
-[12:53:16] [Server thread/INFO]: Time elapsed: 1605 ms
-[12:53:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[12:53:16] [Server thread/INFO]: Preparing spawn area: 0%
-[12:53:16] [Server thread/INFO]: Time elapsed: 491 ms
-[12:53:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[12:53:16] [Server thread/INFO]: Preparing spawn area: 0%
-[12:53:16] [Server thread/INFO]: Time elapsed: 367 ms
-[12:53:17] [Server thread/INFO]: [spark] Starting background profiler...
-[12:53:18] [Server thread/INFO]: Done preparing level "world" (4.605s)
-[12:53:18] [Server thread/INFO]: Running delayed init tasks
-[12:53:18] [Server thread/INFO]: Done (17.419s)! For help, type "help"
-[12:53:18] [Server thread/INFO]: Saving the game (this may take a moment!)
-[12:53:18] [Server thread/INFO]: Saved the game
-[12:57:56] [Server thread/INFO]: Saving the game (this may take a moment!)
-[12:57:56] [Server thread/INFO]: Saved the game
-[12:58:35] [User Authenticator #0/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
-[12:58:38] [Server thread/INFO]: Raijinn joined the game
-[12:58:38] [Server thread/INFO]: Raijinn[/[0:0:0:0:0:0:0:1]:41830] logged in with entity id 79 at ([world]-962.3121234716871, 111.0, 597.4617051481133)
-[12:59:00] [Server thread/INFO]: Raijinn issued server command: /difficulty normal
-[12:59:49] [User Authenticator #1/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
-[12:59:49] [Server thread/INFO]: Raijinn lost connection: You logged in from another location
-[12:59:49] [Server thread/INFO]: Raijinn left the game
-[12:59:50] [Server thread/INFO]: Raijinn joined the game
-[12:59:50] [Server thread/INFO]: Raijinn[/127.36.3.233:53931] logged in with entity id 313 at ([world]-939.6720519806165, 118.5, 606.4301561101762)
-[13:00:07] [User Authenticator #1/INFO]: UUID of player Meruxz is 4211d0ba-5b07-32d5-94a3-fa9371f872e6
-[13:00:07] [Server thread/INFO]: Meruxz joined the game
-[13:00:07] [Server thread/INFO]: Meruxz[/127.118.152.57:53425] logged in with entity id 344 at ([world]-1002.3258798435827, 119.0, 597.4144582945416)
-[13:00:21] [Async Chat Thread - #0/INFO]: [Not Secure] <Raijinn> love?
-[13:00:25] [Server thread/INFO]: Meruxz issued server command: /tp
-[13:00:37] [Async Chat Thread - #1/INFO]: [Not Secure] <Raijinn> babie?
-[13:00:38] [Server thread/INFO]: Meruxz issued server command: /tp Meruxz Raijinn
-[13:00:38] [Server thread/INFO]: [Meruxz: Teleported Meruxz to Raijinn]
-[13:01:06] [Async Chat Thread - #0/INFO]: [Not Secure] <Raijinn> eto na sorry na po baby
-[13:01:11] [Async Chat Thread - #0/INFO]: [Not Secure] <Raijinn> joke lang po T_T
-[13:01:25] [Server thread/INFO]: Meruxz was slain by Raijinn
-[13:01:32] [Async Chat Thread - #0/INFO]: [Not Secure] <Meruxz> T_T
-[13:01:32] [Server thread/INFO]: Raijinn issued server command: /tp Meruxz Raijinn
-[13:01:32] [Server thread/INFO]: [Raijinn: Teleported Meruxz to Raijinn]
-[13:02:01] [Async Chat Thread - #0/INFO]: [Not Secure] <Raijinn> hindi ikaw mag talk sa dc?
-[13:02:41] [Async Chat Thread - #0/INFO]: [Not Secure] <Meruxz> u killed me :<
-[13:02:56] [Async Chat Thread - #0/INFO]: [Not Secure] <Raijinn> sorry na po babieee
-[13:03:06] [Server thread/INFO]: Saving the game (this may take a moment!)
-[13:03:07] [Server thread/INFO]: Saved the game
-[13:03:20] [Async Chat Thread - #0/INFO]: [Not Secure] <Raijinn> kiss na
-[13:03:24] [Async Chat Thread - #0/INFO]: [Not Secure] <Raijinn> mwaaa
-[13:03:35] [Async Chat Thread - #0/INFO]: [Not Secure] <Meruxz> dont ganti
-[13:03:39] [Async Chat Thread - #0/INFO]: [Not Secure] <Raijinn> T_T
-[13:03:44] [Async Chat Thread - #0/INFO]: [Not Secure] <Raijinn> yawa T_T
-[13:03:59] [Async Chat Thread - #0/INFO]: [Not Secure] <Meruxz> mwa
-[13:04:04] [Async Chat Thread - #0/INFO]: [Not Secure] <Raijinn> mwa
-[13:08:21] [Server thread/INFO]: Saving the game (this may take a moment!)
-[13:08:21] [Server thread/INFO]: Saved the game
-[13:13:38] [Server thread/INFO]: Saving the game (this may take a moment!)
-[13:13:39] [Server thread/INFO]: Saved the game
-[13:18:40] [Server thread/WARN]: Oak Boat (vehicle of Raijinn) moved wrongly! 0.41453649891832356
-[13:18:40] [Server thread/WARN]: Oak Boat (vehicle of Raijinn) moved wrongly! 0.7442091339567014
-[13:18:40] [Server thread/WARN]: Oak Boat (vehicle of Raijinn) moved wrongly! 0.9643208134747283
-[13:18:40] [Server thread/WARN]: Oak Boat (vehicle of Raijinn) moved wrongly! 1.1624213197931113
-[13:18:40] [Server thread/WARN]: Oak Boat (vehicle of Raijinn) moved wrongly! 0.2813422637882468
-[13:18:54] [Server thread/INFO]: Saving the game (this may take a moment!)
-[13:18:54] [Server thread/INFO]: Saved the game
-[13:24:09] [Server thread/WARN]: Birch Boat (vehicle of Raijinn) moved wrongly! 0.4075154723036576
-[13:24:14] [Server thread/INFO]: Saving the game (this may take a moment!)
-[13:24:14] [Server thread/INFO]: Saved the game
-[13:29:32] [Server thread/INFO]: Saving the game (this may take a moment!)
-[13:29:32] [Server thread/INFO]: Saved the game
-[13:29:44] [Async Chat Thread - #2/INFO]: [Not Secure] <Meruxz> mwa
-[13:29:49] [Async Chat Thread - #2/INFO]: [Not Secure] <Raijinn> mwa
-[13:34:51] [Server thread/INFO]: Saving the game (this may take a moment!)
-[13:34:51] [Server thread/INFO]: Saved the game
-[13:36:55] [Server thread/WARN]: Birch Boat (vehicle of Raijinn) moved wrongly! 0.27613540828269834
-[13:36:55] [Server thread/WARN]: Birch Boat (vehicle of Raijinn) moved wrongly! 0.4352814750905054
-[13:36:55] [Server thread/WARN]: Birch Boat (vehicle of Raijinn) moved wrongly! 0.604304317565493
-[13:40:06] [Server thread/INFO]: Saving the game (this may take a moment!)
-[13:40:06] [Server thread/INFO]: Saved the game
-[13:45:22] [Server thread/INFO]: Saving the game (this may take a moment!)
-[13:45:22] [Server thread/INFO]: Saved the game
-[13:50:35] [Server thread/INFO]: Saving the game (this may take a moment!)
-[13:50:35] [Server thread/INFO]: Saved the game
-[13:52:06] [Server thread/WARN]: Birch Boat (vehicle of Raijinn) moved wrongly! 0.5469904728192887
-[13:52:06] [Server thread/WARN]: Birch Boat (vehicle of Raijinn) moved wrongly! 0.3019851602903145
-[13:55:42] [Server thread/INFO]: Raijinn issued server command: /tp Meruxz Raijinn
-[13:55:42] [Server thread/INFO]: [Raijinn: Teleported Meruxz to Raijinn]
-[13:55:50] [Server thread/INFO]: Saving the game (this may take a moment!)
-[13:55:50] [Server thread/INFO]: Saved the game
-[14:01:06] [Server thread/INFO]: Saving the game (this may take a moment!)
-[14:01:06] [Server thread/INFO]: Saved the game
-[14:02:39] [Server thread/INFO]: Raijinn issued server command: /tp Meruxz Raijinn
-[14:02:39] [Server thread/INFO]: [Raijinn: Teleported Meruxz to Raijinn]
-[14:06:18] [Server thread/INFO]: Saving the game (this may take a moment!)
-[14:06:18] [Server thread/INFO]: Saved the game
-[14:07:12] [Server thread/INFO]: Raijinn issued server command: /effect clear
-[14:07:12] [Server thread/INFO]: [Raijinn: Removed every effect from Raijinn]
-[14:07:15] [Server thread/INFO]: Raijinn issued server command: /effect clear Meruxz
-[14:07:15] [Server thread/INFO]: [Raijinn: Removed every effect from Meruxz]
-[14:11:31] [Server thread/INFO]: Saving the game (this may take a moment!)
-[14:11:31] [Server thread/INFO]: Saved the game
-[14:16:44] [Server thread/INFO]: Saving the game (this may take a moment!)
-[14:16:44] [Server thread/INFO]: Saved the game
-[14:21:59] [Server thread/INFO]: Saving the game (this may take a moment!)
-[14:21:59] [Server thread/INFO]: Saved the game
-[14:23:23] [Server thread/INFO]: Raijinn issued server command: /locate biome
-[14:25:59] [Server thread/INFO]: Meruxz issued server command: /tp meruxz raijinn
-[14:25:59] [Server thread/INFO]: [Meruxz: Teleported Meruxz to Raijinn]
-[14:27:12] [Server thread/INFO]: Saving the game (this may take a moment!)
-[14:27:13] [Server thread/INFO]: Saved the game
-[14:30:24] [Async Chat Thread - #4/INFO]: [Not Secure] <Meruxz> para kang
-[14:30:28] [Async Chat Thread - #4/INFO]: [Not Secure] <Meruxz> nag aanik
-[14:30:42] [Async Chat Thread - #4/INFO]: [Not Secure] <Meruxz> yes daddy infront of me
-[14:31:00] [Server thread/INFO]: Raijinn issued server command: /tp Meruxz Raijinn
-[14:31:00] [Server thread/INFO]: [Raijinn: Teleported Meruxz to Raijinn]
-[14:32:24] [Server thread/INFO]: Saving the game (this may take a moment!)
-[14:32:25] [Server thread/INFO]: Saved the game
-[14:37:38] [Server thread/INFO]: Saving the game (this may take a moment!)
-[14:37:38] [Server thread/INFO]: Saved the game
-[14:42:51] [Server thread/INFO]: Saving the game (this may take a moment!)
-[14:42:51] [Server thread/INFO]: Saved the game
-[14:48:06] [Server thread/INFO]: Saving the game (this may take a moment!)
-[14:48:06] [Server thread/INFO]: Saved the game
-[14:53:20] [Server thread/INFO]: Saving the game (this may take a moment!)
-[14:53:20] [Server thread/INFO]: Saved the game
-[14:55:26] [Server thread/INFO]: Raijinn lost connection: Disconnected
-[14:55:26] [Server thread/INFO]: Raijinn left the game
-[14:55:26] [Async Chat Thread - #6/INFO]: [Not Secure] <Meruxz> eat?
-[14:55:31] [Server thread/INFO]: Meruxz lost connection: Disconnected
-[14:55:31] [Server thread/INFO]: Meruxz left the game
-[14:57:01] [Server thread/INFO]: Stopping the server
-[14:57:01] [Server thread/INFO]: Stopping server
-[14:57:01] [Server thread/INFO]: Saving players
-[14:57:01] [Server thread/INFO]: Saving worlds
-[14:57:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14:57:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[14:57:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[14:57:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[14:57:01] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 67 entity chunks, 0 poi chunks in world 'world' in 0.03s
-[14:57:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[14:57:01] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[14:57:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[14:57:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[14:57:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[14:57:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[14:57:01] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[14:57:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[14:57:01] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[14:57:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[14:57:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[14:57:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[14:57:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[14:57:01] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[14:57:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[14:57:01] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[14:57:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:57:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:57:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:57:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[14:57:01] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[14:57:01] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[14:57:01] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[14:57:01] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[06:22:38] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-LTS; Microsoft Microsoft-10800198) on Linux 6.8.0-1026-azure (amd64)
+[06:22:38] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.5-28-main@55f2020 (2025-04-22T20:12:27Z) for Minecraft 1.21.5
+[06:22:38] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[06:22:39] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[06:22:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[06:22:49] [ServerMain/INFO]: Loaded 1373 recipes
+[06:22:49] [ServerMain/INFO]: Loaded 1484 advancements
+[06:22:49] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[06:22:49] [Server thread/INFO]: Loading properties
+[06:22:49] [Server thread/INFO]: This server is running Paper version 1.21.5-28-main@55f2020 (2025-04-22T20:12:27Z) (Implementing API version 1.21.5-R0.1-SNAPSHOT)
+[06:22:49] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[06:22:49] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[06:22:49] [Server thread/INFO]: Using 4 threads for Netty based IO
+[06:22:51] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[06:22:51] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[06:22:51] [Server thread/INFO]: Default game type: SURVIVAL
+[06:22:51] [Server thread/INFO]: Generating keypair
+[06:22:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:22:51] [Server thread/INFO]: Using epoll channel type
+[06:22:51] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[06:22:51] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[06:22:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[06:22:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:22:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:22:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:22:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:22:51] [Server thread/INFO]: Preparing level "world"
+[06:22:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:22:53] [Server thread/INFO]: Preparing spawn area: 0%
+[06:22:53] [Server thread/INFO]: Preparing spawn area: 0%
+[06:22:53] [Server thread/INFO]: Preparing spawn area: 0%
+[06:22:53] [Server thread/INFO]: Time elapsed: 1130 ms
+[06:22:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[06:22:54] [Server thread/INFO]: Preparing spawn area: 0%
+[06:22:54] [Server thread/INFO]: Time elapsed: 241 ms
+[06:22:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[06:22:54] [Server thread/INFO]: Preparing spawn area: 0%
+[06:22:54] [Server thread/INFO]: Time elapsed: 134 ms
+[06:22:54] [Server thread/INFO]: [spark] Starting background profiler...
+[06:22:54] [Server thread/INFO]: Done preparing level "world" (3.123s)
+[06:22:54] [Server thread/INFO]: Running delayed init tasks
+[06:22:54] [Server thread/INFO]: Done (17.517s)! For help, type "help"
+[06:22:54] [Server thread/INFO]: Saving the game (this may take a moment!)
+[06:22:55] [Server thread/INFO]: Saved the game
