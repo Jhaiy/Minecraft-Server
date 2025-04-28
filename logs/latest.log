@@ -41,3 +41,11 @@
 [18:30:00] [Server thread/INFO]: Done (12.581s)! For help, type "help"
 [18:30:02] [Server thread/INFO]: Saving the game (this may take a moment!)
 [18:30:02] [Server thread/INFO]: Saved the game
+[18:30:33] [User Authenticator #0/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
+[18:30:35] [Server thread/INFO]: Raijinn joined the game
+[18:30:35] [Server thread/INFO]: Raijinn[/127.36.3.233:41961] logged in with entity id 35 at ([world]-8805.897046729297, 80.0, 5798.513980450963)
+[18:32:07] [Server thread/INFO]: Raijinn issued server command: /time set day
+[18:32:07] [Server thread/INFO]: [Raijinn: Set the time to 1000]
+[18:34:31] [Server thread/INFO]: Raijinn issued server command: /seed
+[18:35:12] [Server thread/INFO]: Saving the game (this may take a moment!)
+[18:35:12] [Server thread/INFO]: Saved the game
