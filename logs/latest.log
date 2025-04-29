@@ -5,3 +5,36 @@
 	- java 21
 	- minecraft 1.21.5
 [17:54:19] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Minecraft-Server/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[17:54:26] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:54:28] [main/INFO]: Loaded 1373 recipes
+[17:54:28] [main/INFO]: Loaded 1484 advancements
+[17:54:28] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[17:54:28] [Server thread/INFO]: Loading properties
+[17:54:28] [Server thread/INFO]: Default game type: SURVIVAL
+[17:54:28] [Server thread/INFO]: Generating keypair
+[17:54:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:54:28] [Server thread/INFO]: Using epoll channel type
+[17:54:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:54:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:54:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:54:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:54:29] [Server thread/INFO]: Preparing level "world"
+[17:54:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:54:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:54:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:54:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:54:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:54:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:54:32] [Server thread/INFO]: Time elapsed: 2365 ms
+[17:54:32] [Server thread/INFO]: Done (3.248s)! For help, type "help"
+[17:55:34] [Server thread/INFO]: Stopping the server
+[17:55:34] [Server thread/INFO]: Stopping server
+[17:55:34] [Server thread/INFO]: Saving players
+[17:55:34] [Server thread/INFO]: Saving worlds
+[17:55:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:55:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:55:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:55:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:55:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:55:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:55:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
