@@ -28,6 +28,7 @@
       "minecraft:flower_forest": "2025-04-27 13:27:35 +0000",
       "minecraft:beach": "2025-04-25 03:27:23 +0000",
       "minecraft:dark_forest": "2025-04-25 04:06:35 +0000",
+      "minecraft:mangrove_swamp": "2025-05-28 09:04:24 +0000",
       "minecraft:sparse_jungle": "2025-04-25 03:36:24 +0000",
       "minecraft:lukewarm_ocean": "2025-04-23 08:13:50 +0000",
       "minecraft:river": "2025-04-25 03:27:43 +0000",
@@ -3352,6 +3353,18 @@
   "minecraft:recipes/food/suspicious_stew_from_blue_orchid": {
     "criteria": {
       "has_blue_orchid": "2025-04-27 14:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-05-28 08:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-05-28 09:05:29 +0000"
     },
     "done": true
   },
