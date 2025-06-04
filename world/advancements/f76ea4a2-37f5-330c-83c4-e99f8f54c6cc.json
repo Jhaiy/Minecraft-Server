@@ -73,7 +73,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:35:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:40:48 +0000"
     },
     "done": false
   },
@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "cratedelight:recipes/building_blocks/cookie_bag": {
+    "criteria": {
+      "has_cookie": "2025-06-04 21:36:36 +0000"
+    },
+    "done": true
+  },
   "lamps:recipes/decorations/pendant_lamp_basic_magenta": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 20:51:55 +0000"
@@ -110,6 +116,12 @@
   "candlelight:recipes/cooking_hat": {
     "criteria": {
       "has_white_wool": "2025-06-04 21:08:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-06-04 21:40:14 +0000"
     },
     "done": true
   },
@@ -583,7 +595,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:35:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:40:48 +0000"
     },
     "done": false
   },
@@ -731,6 +743,12 @@
     },
     "done": true
   },
+  "clutter:recipes/decorations/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-04 21:36:20 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2025-06-04 21:08:51 +0000"
@@ -853,7 +871,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:35:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:40:48 +0000"
     },
     "done": false
   },
@@ -1093,7 +1111,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:35:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:40:48 +0000"
     },
     "done": false
   },
@@ -1129,7 +1147,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:35:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:40:48 +0000"
     },
     "done": false
   },
@@ -1178,6 +1196,12 @@
   "farmersdelight:recipes/combat/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 20:51:55 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/dark_oak_mosaic": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-04 21:36:20 +0000"
     },
     "done": true
   },
@@ -1389,6 +1413,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-06-04 21:36:20 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/stackable_log": {
     "criteria": {
       "has_oak_log": "2025-06-04 20:52:41 +0000"
@@ -1446,6 +1476,12 @@
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2025-06-04 21:32:43 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-04 21:36:20 +0000"
     },
     "done": true
   },
@@ -1541,7 +1577,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:35:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:40:48 +0000"
     },
     "done": false
   },
@@ -1602,6 +1638,12 @@
   "lamps:recipes/decorations/wall_umbrella_lamp_light_blue": {
     "criteria": {
       "has_stick": "2025-06-04 20:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-04 21:36:20 +0000"
     },
     "done": true
   },
@@ -1691,7 +1733,10 @@
   },
   "beachparty:main/get_all_artifacts": {
     "criteria": {
-      "beachparty:beach_ball": "2025-06-04 21:26:47 +0000"
+      "beachparty:floaty_boat": "2025-06-04 21:37:17 +0000",
+      "beachparty:beach_ball": "2025-06-04 21:26:47 +0000",
+      "beachparty:rubber_ring_pink": "2025-06-04 21:37:03 +0000",
+      "beachparty:rubber_ring_axolotl": "2025-06-04 21:39:19 +0000"
     },
     "done": false
   },
@@ -1889,9 +1934,15 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:35:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:40:48 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-04 21:36:20 +0000"
+    },
+    "done": true
   },
   "regions_unexplored:recipes/transportation/dead_boat": {
     "criteria": {
@@ -1949,7 +2000,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:35:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:40:48 +0000"
     },
     "done": false
   },
@@ -2111,7 +2162,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:35:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:40:48 +0000"
     },
     "done": false
   },
@@ -2154,6 +2205,12 @@
   "regions_unexplored:recipes/transportation/dead_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-04 21:32:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-06-04 21:40:14 +0000"
     },
     "done": true
   },
@@ -2676,6 +2733,12 @@
     },
     "done": true
   },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-06-04 21:36:20 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/joshua_boat": {
     "criteria": {
       "in_water": "2025-06-04 21:09:08 +0000"
@@ -2868,6 +2931,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-06-04 21:36:37 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/carrot_bag": {
     "criteria": {
       "has_carrot": "2025-06-04 21:28:09 +0000"
@@ -2877,6 +2946,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-06-04 21:00:05 +0000"
+    },
+    "done": true
+  },
+  "beachparty:main/place_radio": {
+    "criteria": {
+      "place_radio": "2025-06-04 21:40:26 +0000"
     },
     "done": true
   },
@@ -3044,7 +3119,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:35:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:40:48 +0000"
     },
     "done": false
   },
@@ -3105,6 +3180,12 @@
   "candlelight:recipes/bamboo_stove": {
     "criteria": {
       "has_bamboo": "2025-06-04 21:19:13 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/dark_oak_trellis": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-04 21:36:20 +0000"
     },
     "done": true
   },
@@ -3559,6 +3640,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/dark_oak_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-06-04 21:36:20 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/portability_upgrade": {
     "criteria": {
       "has_template": "2025-06-04 20:42:21 +0000"
@@ -3673,6 +3760,12 @@
     },
     "done": true
   },
+  "clutter:recipes/decorations/dark_oak_window_sill": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-04 21:36:20 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/vinemaker_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-06-04 21:26:44 +0000"
@@ -3682,6 +3775,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2025-06-04 20:52:41 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-06-04 21:39:10 +0000"
     },
     "done": true
   },
@@ -3801,7 +3900,10 @@
   },
   "beachparty:main/hoarder": {
     "criteria": {
-      "beachparty:beach_ball": "2025-06-04 21:26:47 +0000"
+      "beachparty:floaty_boat": "2025-06-04 21:37:17 +0000",
+      "beachparty:beach_ball": "2025-06-04 21:26:47 +0000",
+      "beachparty:rubber_ring_axolotl": "2025-06-04 21:39:19 +0000",
+      "beachparty:rubber_ring_pink": "2025-06-04 21:37:03 +0000"
     },
     "done": false
   },
@@ -3895,6 +3997,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-04 21:36:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 20:51:55 +0000"
@@ -3928,6 +4036,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-06-04 20:55:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-06-04 21:40:37 +0000"
     },
     "done": true
   },
@@ -4135,6 +4249,12 @@
     },
     "done": true
   },
+  "clutter:recipes/decorations/dark_oak_wall_cupboard": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-04 21:36:20 +0000"
+    },
+    "done": true
+  },
   "lamps:recipes/decorations/pendant_lamp_basic_pink": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 20:51:55 +0000"
@@ -4156,6 +4276,12 @@
   "lamps:recipes/decorations/candleholder_golden": {
     "criteria": {
       "has_gold_ingot": "2025-06-04 21:26:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-06-04 21:40:37 +0000"
     },
     "done": true
   },
@@ -4233,7 +4359,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:35:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:40:48 +0000"
     },
     "done": false
   },
@@ -4393,6 +4519,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-06-04 21:40:37 +0000"
+    },
+    "done": true
+  },
   "clutter:recipes/misc/cardboard_box": {
     "criteria": {
       "has_chest": "2025-06-04 21:07:31 +0000"
@@ -4450,6 +4582,12 @@
   "lamps:recipes/decorations/basic_lamp": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 20:51:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_globe": "2025-06-04 21:39:49 +0000"
     },
     "done": true
   },
@@ -4629,7 +4767,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:35:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:40:48 +0000"
     },
     "done": false
   },
@@ -4672,6 +4810,12 @@
   "supplementaries:recipes/speaker_block": {
     "criteria": {
       "minecraft:planks": "2025-06-04 20:55:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-04 21:36:20 +0000"
     },
     "done": true
   },
@@ -5083,6 +5227,12 @@
     },
     "done": true
   },
+  "clutter:recipes/decorations/dark_oak_wall_bookshelf": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-06-04 21:36:20 +0000"
+    },
+    "done": true
+  },
   "lamps:recipes/decorations/lantern_paper_light_gray": {
     "criteria": {
       "has_torch": "2025-06-04 20:56:52 +0000"
@@ -5104,6 +5254,12 @@
   "lamps:recipes/decorations/night_light_basic_light_blue": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 20:51:55 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-06-04 21:36:25 +0000"
     },
     "done": true
   },
@@ -5287,6 +5443,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-04 21:36:37 +0000"
+    },
+    "done": true
+  },
   "clutter:recipes/decorations/oak_cupboard": {
     "criteria": {
       "has_oak_planks": "2025-06-04 21:07:20 +0000"
@@ -5359,6 +5521,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-06-04 21:36:20 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2025-06-04 21:08:51 +0000"
@@ -5410,6 +5578,12 @@
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-06-04 20:51:55 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-06-04 21:36:20 +0000"
     },
     "done": true
   },
@@ -5494,6 +5668,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-06-04 21:19:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-06-04 21:36:20 +0000"
     },
     "done": true
   },
