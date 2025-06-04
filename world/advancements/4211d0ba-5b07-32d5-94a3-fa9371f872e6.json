@@ -1,7 +1,19 @@
 {
+  "regions_unexplored:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 20:43:38 +0000"
+      "log_spam_fixer": "2025-06-04 20:48:38 +0000"
     },
     "done": false
   },
@@ -11,15 +23,33 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-06-04 20:43:26 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/magnolia_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
     },
     "done": true
   },
@@ -61,9 +91,15 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 20:43:38 +0000"
+      "log_spam_fixer": "2025-06-04 20:48:38 +0000"
     },
     "done": false
+  },
+  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
   },
   "storagedrawers:recipes/storagedrawers/priority_key": {
     "criteria": {
@@ -79,13 +115,43 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 20:43:38 +0000"
+      "log_spam_fixer": "2025-06-04 20:48:38 +0000"
     },
     "done": false
+  },
+  "biomeswevegone:recipes/transportation/aspen_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
   },
   "storagedrawers:recipes/storagedrawers/cherry_trim": {
     "criteria": {
       "has_planks": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
     },
     "done": true
   },
@@ -97,15 +163,21 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 20:43:38 +0000"
+      "log_spam_fixer": "2025-06-04 20:48:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 20:43:38 +0000"
+      "log_spam_fixer": "2025-06-04 20:48:38 +0000"
     },
     "done": false
+  },
+  "biomeswevegone:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
   },
   "niftycarts:recipes/hand_cart": {
     "criteria": {
@@ -146,9 +218,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/gold_storage_upgrade": {
     "criteria": {
       "has_template": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/holly_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
     },
     "done": true
   },
@@ -160,9 +256,15 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 20:43:38 +0000"
+      "log_spam_fixer": "2025-06-04 20:48:38 +0000"
     },
     "done": false
+  },
+  "natures_spirit:recipes/transportation/saxaul_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
   },
   "storagedrawers:recipes/storagedrawers/birch_trim": {
     "criteria": {
@@ -176,9 +278,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/socotra_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/fill_level_upgrade": {
     "criteria": {
       "has_template": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
     },
     "done": true
   },
@@ -190,13 +304,19 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 20:43:38 +0000"
+      "log_spam_fixer": "2025-06-04 20:48:38 +0000"
     },
     "done": false
   },
+  "regions_unexplored:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 20:43:38 +0000"
+      "log_spam_fixer": "2025-06-04 20:48:38 +0000"
     },
     "done": false
   },
@@ -206,15 +326,33 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/blue_enchanted_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/netherite_iron_block": {
     "criteria": {
       "has_ingredients": "2025-06-04 20:43:26 +0000"
     },
     "done": true
   },
+  "natures_spirit:recipes/transportation/olive_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 20:43:38 +0000"
+      "log_spam_fixer": "2025-06-04 20:48:38 +0000"
     },
     "done": false
   },
@@ -236,6 +374,18 @@
       "temperate_grove": "2025-06-04 20:43:46 +0000"
     },
     "done": false
+  },
+  "biomeswevegone:recipes/transportation/green_enchanted_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
   },
   "storagedrawers:recipes/storagedrawers/oak_trim": {
     "criteria": {
@@ -287,9 +437,33 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/netherite_gold_block": {
     "criteria": {
       "has_ingredients": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
     },
     "done": true
   },
@@ -305,6 +479,12 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/diamond_storage_upgrade": {
     "criteria": {
       "has_template": "2025-06-04 20:43:26 +0000"
@@ -313,7 +493,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 20:43:38 +0000"
+      "log_spam_fixer": "2025-06-04 20:48:38 +0000"
     },
     "done": false
   },
@@ -329,6 +509,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
   "beautify:progression/root": {
     "criteria": {
       "Install": "2025-06-04 20:43:26 +0000"
@@ -338,6 +524,24 @@
   "storagedrawers:recipes/storagedrawers/drawer_puller": {
     "criteria": {
       "has_template": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
     },
     "done": true
   },
@@ -359,15 +563,51 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/transportation/sugi_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/joshua_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/portability_upgrade": {
     "criteria": {
       "has_template": "2025-06-04 20:43:26 +0000"
     },
     "done": true
   },
+  "natures_spirit:recipes/transportation/ghaf_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
   "niftycarts:recipes/supply_cart": {
     "criteria": {
       "has_wheel": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
     },
     "done": true
   },
@@ -383,9 +623,39 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/skyris_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/min_redstone_upgrade": {
     "criteria": {
       "has_template": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/white_mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cika_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
     },
     "done": true
   },
@@ -401,6 +671,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/ebony_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
   "beachparty:main/root": {
     "criteria": {
       "example_criterion": "2025-06-04 20:43:27 +0000"
@@ -413,15 +689,51 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/blackwood_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 20:43:38 +0000"
+      "log_spam_fixer": "2025-06-04 20:48:38 +0000"
     },
     "done": false
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
   },
   "storagedrawers:recipes/storagedrawers/personal_key": {
     "criteria": {
       "has_template": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/sakura_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/aspen_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
     },
     "done": true
   },
@@ -434,6 +746,12 @@
   "storagedrawers:recipes/storagedrawers/jungle_trim": {
     "criteria": {
       "has_planks": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/florus_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
     },
     "done": true
   },
@@ -451,7 +769,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 20:43:38 +0000"
+      "log_spam_fixer": "2025-06-04 20:48:38 +0000"
     },
     "done": false
   },
@@ -461,15 +779,63 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/transportation/coconut_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/bamboo_trim": {
     "criteria": {
       "has_planks": "2025-06-04 20:43:26 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/palo_verde_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/wisteria_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/mangrove_trim": {
     "criteria": {
       "has_planks": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/witch_hazel_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
     },
     "done": true
   },
@@ -488,6 +854,30 @@
   "storagedrawers:recipes/storagedrawers/spruce_trim": {
     "criteria": {
       "has_planks": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/mauve_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/zelkova_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
     },
     "done": true
   },
@@ -515,6 +905,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/transportation/ironwood_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-06-04 20:43:27 +0000"
@@ -527,9 +923,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/cedar_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
   "candlelight:main/root": {
     "criteria": {
       "seeds": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/larch_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 20:45:02 +0000"
     },
     "done": true
   },

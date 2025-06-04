@@ -5,7 +5,7 @@
 	lock: false
 	rewards_blocked: false
 	task_progress: {
-		07DAFE773DDBAF28: 2401
+		07DAFE773DDBAF28: 9166
 	}
 	started: {
 		07DAFE773DDBAF28: 1749069821806L
@@ -15,9 +15,5 @@
 	}
 	completed: { }
 	claimed_rewards: { }
-	player_data: {
-		4211d0ba5b0732d594a3fa9371f872e6: {
-			pinned_quests: ["0000000000000001"]
-		}
-	}
+	player_data: { }
 }
