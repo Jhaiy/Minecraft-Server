@@ -73,7 +73,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:01:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:06:47 +0000"
     },
     "done": false
   },
@@ -188,6 +188,12 @@
   "deeperdarker:recipes/transportation/bloom_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-06-04 22:03:12 +0000"
     },
     "done": true
   },
@@ -547,7 +553,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:01:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:06:47 +0000"
     },
     "done": false
   },
@@ -626,6 +632,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-04 22:05:47 +0000"
     },
     "done": true
   },
@@ -817,7 +829,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:01:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:06:47 +0000"
     },
     "done": false
   },
@@ -872,6 +884,12 @@
   "biomeswevegone:recipes/building_blocks/black_sand": {
     "criteria": {
       "has_sand": "2025-06-04 21:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-06-04 22:03:12 +0000"
     },
     "done": true
   },
@@ -1051,7 +1069,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:01:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:06:47 +0000"
     },
     "done": false
   },
@@ -1075,7 +1093,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:01:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:06:47 +0000"
     },
     "done": false
   },
@@ -1287,6 +1305,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-04 22:05:11 +0000"
+    },
+    "done": true
+  },
   "lamps:recipes/decorations/wall_umbrella_lamp_gray": {
     "criteria": {
       "has_stick": "2025-06-04 20:52:26 +0000"
@@ -1451,7 +1475,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:01:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:06:47 +0000"
     },
     "done": false
   },
@@ -1801,7 +1825,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:01:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:06:47 +0000"
     },
     "done": false
   },
@@ -1873,7 +1897,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:01:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:06:47 +0000"
     },
     "done": false
   },
@@ -1973,6 +1997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-06-04 22:03:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2025-06-04 20:53:13 +0000"
@@ -2017,7 +2047,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:01:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:06:47 +0000"
     },
     "done": false
   },
@@ -2304,6 +2334,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-06-04 22:05:11 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/iron_storage_upgrade": {
     "criteria": {
       "has_template": "2025-06-04 20:43:26 +0000"
@@ -2575,6 +2611,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-06-04 22:03:12 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bamboo_mat": {
     "criteria": {
       "has_bamboo": "2025-06-04 21:52:05 +0000"
@@ -2680,6 +2722,12 @@
   "supplementaries:recipes/spring_launcher": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-06-04 22:05:47 +0000"
     },
     "done": true
   },
@@ -2847,7 +2895,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:01:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:06:47 +0000"
     },
     "done": false
   },
@@ -3055,6 +3103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-06-04 22:05:47 +0000"
+    },
+    "done": true
+  },
   "lamps:recipes/decorations/ceiling_lamp_basic_wide_cyan": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 20:52:20 +0000"
@@ -3233,6 +3287,12 @@
   "storagedrawers:recipes/storagedrawers/shroud_key": {
     "criteria": {
       "has_template": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/cocoabeans_bag": {
+    "criteria": {
+      "has_cocoa_beans": "2025-06-04 22:05:47 +0000"
     },
     "done": true
   },
@@ -3928,6 +3988,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-06-04 22:03:12 +0000"
+    },
+    "done": true
+  },
   "lamps:recipes/decorations/candleholder_golden": {
     "criteria": {
       "has_gold_ingot": "2025-06-04 21:28:32 +0000"
@@ -4008,7 +4074,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:01:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:06:47 +0000"
     },
     "done": false
   },
@@ -4424,7 +4490,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:01:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:06:47 +0000"
     },
     "done": false
   },

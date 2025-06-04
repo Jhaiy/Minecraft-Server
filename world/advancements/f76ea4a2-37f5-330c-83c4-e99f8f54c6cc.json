@@ -85,7 +85,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:01:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:06:48 +0000"
     },
     "done": false
   },
@@ -116,6 +116,12 @@
   "lamps:recipes/decorations/pendant_lamp_basic_magenta": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 20:51:55 +0000"
+    },
+    "done": true
+  },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2025-06-04 22:05:43 +0000"
     },
     "done": true
   },
@@ -467,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-04 22:05:43 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/sandstone_corner_trim": {
     "criteria": {
       "has_sandstone_corner_trim": "2025-06-04 21:30:23 +0000"
@@ -539,6 +551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-04 22:05:43 +0000"
+    },
+    "done": true
+  },
   "umbrellas:recipes/tools/umbrella": {
     "criteria": {
       "has_stick": "2025-06-04 20:51:55 +0000"
@@ -560,6 +578,12 @@
   "lamps:recipes/decorations/ceiling_lamp_basic_wide_cap_light_blue": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 20:51:55 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/butterfly_wings": {
+    "criteria": {
+      "has_string": "2025-06-04 22:05:43 +0000"
     },
     "done": true
   },
@@ -631,7 +655,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:01:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:06:48 +0000"
     },
     "done": false
   },
@@ -833,6 +857,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-06-04 22:04:19 +0000"
+    },
+    "done": true
+  },
   "clutter:recipes/misc/tiara": {
     "criteria": {
       "has_emerald": "2025-06-04 21:24:13 +0000"
@@ -925,7 +955,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:01:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:06:48 +0000"
     },
     "done": false
   },
@@ -1171,7 +1201,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:01:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:06:48 +0000"
     },
     "done": false
   },
@@ -1213,7 +1243,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:01:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:06:48 +0000"
     },
     "done": false
   },
@@ -1617,6 +1647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-04 22:05:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-06-04 21:30:23 +0000"
@@ -1643,7 +1679,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:01:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:06:48 +0000"
     },
     "done": false
   },
@@ -2001,7 +2037,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:01:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:06:48 +0000"
     },
     "done": false
   },
@@ -2067,7 +2103,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:01:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:06:48 +0000"
     },
     "done": false
   },
@@ -2229,7 +2265,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:01:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:06:48 +0000"
     },
     "done": false
   },
@@ -2844,6 +2880,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-04 22:05:52 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/lime_painted_planks": {
     "criteria": {
       "has_planks": "2025-06-04 20:55:58 +0000"
@@ -3206,7 +3248,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:01:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:06:48 +0000"
     },
     "done": false
   },
@@ -3925,6 +3967,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "has_string": "2025-06-04 22:05:43 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_gold_ingot": {
     "criteria": {
       "has_gold_ingot": "2025-06-04 21:26:44 +0000"
@@ -4295,6 +4343,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-06-04 22:05:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-06-04 21:31:14 +0000"
@@ -4507,7 +4561,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:01:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:06:48 +0000"
     },
     "done": false
   },
@@ -4763,6 +4817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-04 22:05:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-06-04 21:16:46 +0000"
@@ -4923,7 +4983,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:01:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:06:48 +0000"
     },
     "done": false
   },
@@ -5551,6 +5611,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-04 22:05:52 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/ironwood_boat": {
     "criteria": {
       "in_water": "2025-06-04 21:09:08 +0000"
@@ -5592,6 +5658,12 @@
       "log_spam_fixer": "2025-06-04 20:42:18 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-04 22:05:43 +0000"
+    },
+    "done": true
   },
   "biomeswevegone:recipes/building_blocks/pink_sand": {
     "criteria": {
@@ -5834,6 +5906,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-06-04 21:16:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-04 22:05:43 +0000"
     },
     "done": true
   },
