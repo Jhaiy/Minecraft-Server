@@ -1,7 +1,37 @@
 {
+  "farm_and_charm:recipes/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/floor_lamp_basic_purple": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_catwalk_stairs_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_lime": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
     },
     "done": true
   },
@@ -13,13 +43,37 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 20:48:38 +0000"
+      "log_spam_fixer": "2025-06-04 20:53:38 +0000"
     },
     "done": false
+  },
+  "lamps:recipes/decorations/wall_umbrella_lamp_magenta": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/pendant_lamp_basic_magenta": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
   },
   "storagedrawers:recipes/storagedrawers/one_stack_upgrade": {
     "criteria": {
       "has_template": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_magenta": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
     },
     "done": true
   },
@@ -35,15 +89,63 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/hammer": {
+    "criteria": {
+      "has_hammer": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/floor_lamp_basic_brown": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/magnolia_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
     },
     "done": true
   },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_blue": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-06-04 20:53:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_gray": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-04 20:52:34 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/blue_umbrella_lamp": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
     },
     "done": true
   },
@@ -59,9 +161,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-06-04 20:53:13 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/remote_upgrade": {
     "criteria": {
       "has_template": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_pink": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_catwalk_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-04 20:52:20 +0000"
     },
     "done": true
   },
@@ -71,15 +191,81 @@
     },
     "done": true
   },
+  "beautify:iron_blinds": {
+    "criteria": {
+      "requirement": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/oak_big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_branch_from_maple_log": {
+    "criteria": {
+      "has_log": "2025-06-04 20:51:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_light_gray": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy": {
+    "criteria": {
+      "has_item": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-04 20:52:34 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/pendant_lamp_basic_purple": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "umbrellas:recipes/tools/umbrella": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/personal_key_cofh": {
     "criteria": {
       "has_template": "2025-06-04 20:43:26 +0000"
     },
     "done": true
   },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_cap_light_blue": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-06-04 20:53:12 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "herbalbrews:recipes/tea_kettle": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
     },
     "done": true
   },
@@ -91,13 +277,25 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 20:48:38 +0000"
+      "log_spam_fixer": "2025-06-04 20:53:38 +0000"
     },
     "done": false
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_cap_cyan": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
   },
   "biomeswevegone:recipes/transportation/rainbow_eucalyptus_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/night_light_basic_green": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
     },
     "done": true
   },
@@ -107,21 +305,147 @@
     },
     "done": true
   },
+  "lamps:recipes/decorations/night_light_basic_red": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/iron_window": {
+    "criteria": {
+      "has_item": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_cap_red": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_orange": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/netherite_diamond_block": {
     "criteria": {
       "has_ingredients": "2025-06-04 20:43:26 +0000"
     },
     "done": true
   },
+  "farm_and_charm:recipes/potato_bag": {
+    "criteria": {
+      "has_potato": "2025-06-04 20:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/wall_umbrella_lamp_cyan": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/wall_umbrella_lamp_light_gray": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/night_light_basic_black": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/tiara": {
+    "criteria": {
+      "has_emerald": "2025-06-04 20:53:11 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/crown": {
+    "criteria": {
+      "has_emerald": "2025-06-04 20:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_red": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bubble_blower": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-06-04 20:52:10 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 20:48:38 +0000"
+      "log_spam_fixer": "2025-06-04 20:53:38 +0000"
     },
     "done": false
+  },
+  "candlelight:recipes/crimson_big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/floor_lamp_basic_pink": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_yellow": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
   },
   "biomeswevegone:recipes/transportation/aspen_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/night_light_basic_white": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2025-06-04 20:53:12 +0000"
     },
     "done": true
   },
@@ -137,15 +461,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/night_light_basic_blue": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/floor_lamp_basic_white": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/flags/flag_black": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/corn": {
+    "criteria": {
+      "has_kernels": "2025-06-04 20:53:11 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/night_light_basic_lime": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/floor_lamp_basic_light_blue": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
     },
     "done": true
   },
@@ -161,17 +533,35 @@
     },
     "done": true
   },
+  "meadow:recipes/cheese_bread": {
+    "criteria": {
+      "has_bread": "2025-06-04 20:52:35 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 20:48:38 +0000"
+      "log_spam_fixer": "2025-06-04 20:53:38 +0000"
     },
     "done": false
   },
+  "supplementaries:recipes/flags/flag_green": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 20:48:38 +0000"
+      "log_spam_fixer": "2025-06-04 20:53:38 +0000"
     },
     "done": false
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_gray": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
   },
   "biomeswevegone:recipes/transportation/cypress_boat": {
     "criteria": {
@@ -184,6 +574,54 @@
       "has_wheel": "2025-06-04 20:43:26 +0000"
     },
     "done": true
+  },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_magenta": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_purple": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/dark_oak_big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/warped_big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/mailbox": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "maple_log": "2025-06-04 20:51:46 +0000"
+    },
+    "done": false
   },
   "farm_and_charm:main/find_wild_crops": {
     "criteria": {
@@ -218,6 +656,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flags/flag_white": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
@@ -230,9 +674,27 @@
     },
     "done": true
   },
+  "lamps:recipes/decorations/pendant_lamp_basic_red": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/gold_storage_upgrade": {
     "criteria": {
       "has_template": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/wall_umbrella_lamp_gray": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/light_gray_umbrella_lamp": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
     },
     "done": true
   },
@@ -242,9 +704,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_hoe": "2025-06-04 20:50:47 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/pet_bed": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 20:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-04 20:52:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/industrial_iron_block_from_iron_ingots_stonecutting": {
+    "criteria": {
+      "has_iron_ingots": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/bench": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-06-04 20:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_gray": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/faucet": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
     },
     "done": true
   },
@@ -256,9 +784,21 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 20:48:38 +0000"
+      "log_spam_fixer": "2025-06-04 20:53:38 +0000"
     },
     "done": false
+  },
+  "lamps:recipes/decorations/wall_umbrella_lamp_orange": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_pink": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
   },
   "natures_spirit:recipes/transportation/saxaul_boat": {
     "criteria": {
@@ -266,9 +806,63 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-06-04 20:53:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-06-04 20:53:13 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/wall_umbrella_lamp_light_blue": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_white": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_bars_overlay_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-04 20:53:11 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/supply_cart": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/birch_trim": {
     "criteria": {
       "has_planks": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/pendant_lamp_basic_light_gray": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
     },
     "done": true
   },
@@ -290,6 +884,30 @@
     },
     "done": true
   },
+  "beautify:blinds": {
+    "criteria": {
+      "requirement": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_cap_pink": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_light_blue": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_purple": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
@@ -302,9 +920,39 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_fence": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
+    "criteria": {
+      "has_item": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/night_light_basic_brown": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-06-04 20:53:13 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_brown": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 20:48:38 +0000"
+      "log_spam_fixer": "2025-06-04 20:53:38 +0000"
     },
     "done": false
   },
@@ -314,9 +962,39 @@
     },
     "done": true
   },
+  "lamps:recipes/decorations/ceiling_lamp_basic_cyan": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/chandelier_basic_iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/pendant_lamp_basic_gray": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/night_light_basic_purple": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_brown": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 20:48:38 +0000"
+      "log_spam_fixer": "2025-06-04 20:53:38 +0000"
     },
     "done": false
   },
@@ -332,9 +1010,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/iron_gate": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_black": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_cap_purple": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
     },
     "done": true
   },
@@ -344,15 +1064,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-06-04 20:53:13 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/faucet": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/transportation/olive_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
     },
     "done": true
   },
+  "meadow:recipes/cheese_stick": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 20:48:38 +0000"
+      "log_spam_fixer": "2025-06-04 20:53:38 +0000"
     },
     "done": false
   },
@@ -362,9 +1100,27 @@
     },
     "done": false
   },
+  "farm_and_charm:recipes/corn_bag": {
+    "criteria": {
+      "has_corn": "2025-06-04 20:53:11 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/netherite_ingots": {
     "criteria": {
       "has_ingredients": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_green": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/light_blue_umbrella_lamp": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
     },
     "done": true
   },
@@ -375,9 +1131,69 @@
     },
     "done": false
   },
+  "beachparty:recipes/mini_fridge": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_red": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-04 20:52:34 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/feeding_trough": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_cyan": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/green_enchanted_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/floor_lamp_basic_magenta": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/wall_umbrella_lamp_red": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
     },
     "done": true
   },
@@ -400,6 +1216,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/water_sprinkler": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/emerald_storage_upgrade": {
     "criteria": {
       "has_template": "2025-06-04 20:43:26 +0000"
@@ -412,12 +1240,42 @@
     },
     "done": true
   },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_cap_brown": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:pioneer": {
     "criteria": {
       "towering_cliffs": "2025-06-04 20:43:27 +0000",
       "temperate_grove": "2025-06-04 20:43:46 +0000"
     },
     "done": false
+  },
+  "lamps:recipes/decorations/green_umbrella_lamp": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_white": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/tools/ceramic_screwdriver": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_magenta": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
   },
   "storagedrawers:recipes/storagedrawers/iron_storage_upgrade": {
     "criteria": {
@@ -431,15 +1289,105 @@
     },
     "done": true
   },
+  "lamps:recipes/decorations/yellow_umbrella_lamp": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
   "vanilla_refresh:first_join": {
     "criteria": {
       "s": "2025-06-04 20:43:26 +0000"
     },
     "done": true
   },
+  "lamps:recipes/decorations/floor_lamp_basic_lime": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_red": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/crafting_bowl": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/mangrove_big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/floor_lamp_basic_blue": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/pendant_lamp_basic_cyan": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_cap_gray": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/toolrack": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/oil_lantern": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/night_light_basic_light_gray": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/pendant_lamp_basic_brown": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_yellow": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
     },
     "done": true
   },
@@ -455,9 +1403,51 @@
     },
     "done": true
   },
+  "lamps:recipes/decorations/white_umbrella_lamp": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/floor_lamp_basic_orange": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_green": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/netherite_gold_block": {
     "criteria": {
       "has_ingredients": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/magenta_umbrella_lamp": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "comforts:rope_and_nail": {
+    "criteria": {
+      "has_iron": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_red": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_black": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
     },
     "done": true
   },
@@ -479,9 +1469,51 @@
     },
     "done": true
   },
+  "supplementaries:recipes/spring_launcher": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_blue": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_orange": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_lime": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/night_light_basic_gray": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2025-06-04 20:53:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lock_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
     },
     "done": true
   },
@@ -491,11 +1523,71 @@
     },
     "done": true
   },
+  "lamps:recipes/decorations/night_light_basic_magenta": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/bamboo_big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_light_blue": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/wall_umbrella_lamp_yellow": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_blast_furnace": {
+    "criteria": {
+      "has_iron": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 20:48:38 +0000"
+      "log_spam_fixer": "2025-06-04 20:53:38 +0000"
     },
     "done": false
+  },
+  "farm_and_charm:recipes/plow": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/pendant_lamp_basic_orange": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_white": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_light_blue": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-06-04 20:53:13 +0000"
+    },
+    "done": true
   },
   "storagedrawers:recipes/storagedrawers/remote_group_upgrade": {
     "criteria": {
@@ -515,9 +1607,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cage": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-04 20:53:15 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_cap_blue": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/mincer": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "beautify:progression/root": {
     "criteria": {
       "Install": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_cap_magenta": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/brown_umbrella_lamp": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
     },
     "done": true
   },
@@ -527,9 +1673,63 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/iron_mesh_fence_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_ladder_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/wooden_cauldron": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_cyan": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/cap_wide_basic_lamp": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/spruce_big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/wall_umbrella_lamp_pink": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_purple": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
     },
     "done": true
   },
@@ -551,15 +1751,63 @@
     },
     "done": true
   },
+  "master_cutter:recipes/metal/iron": {
+    "criteria": {
+      "requirement": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/new_player": {
     "criteria": {
       "requirement": "2025-06-04 20:43:26 +0000"
     },
     "done": true
   },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_brown": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/cowboy_hat": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-04 20:53:15 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/cherry_big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-06-04 20:52:10 +0000"
+    },
+    "done": false
+  },
   "storagedrawers:recipes/storagedrawers/shroud_key": {
     "criteria": {
       "has_template": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_purple": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_pink": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "spawn:recipes/tuna/tuna_sandwich_from_bread": {
+    "criteria": {
+      "has_item": "2025-06-04 20:52:35 +0000"
     },
     "done": true
   },
@@ -575,6 +1823,24 @@
     },
     "done": true
   },
+  "cratedelight:recipes/building_blocks/apple_crate": {
+    "criteria": {
+      "has_apple": "2025-06-04 20:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/floor_lamp_basic_red": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/larch_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
@@ -587,9 +1853,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/transportation/ghaf_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/night_light_basic_cyan": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/viking_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/night_light_basic_orange": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-06-04 20:51:46 +0000"
     },
     "done": true
   },
@@ -599,15 +1895,87 @@
     },
     "done": true
   },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_orange": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/campfire": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/tools/iron_machete": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2025-06-04 20:51:46 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/floor_lamp_basic_light_gray": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
   "niftycarts:recipes/supply_cart": {
     "criteria": {
       "has_wheel": "2025-06-04 20:43:26 +0000"
     },
     "done": true
   },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "apple": "2025-06-04 20:53:12 +0000"
+    },
+    "done": false
+  },
+  "lamps:recipes/decorations/pendant_lamp_basic_white": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/roaster": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_lime": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-06-04 20:51:46 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/stick": {
+    "criteria": {
+      "has_item": "2025-06-04 20:52:26 +0000"
     },
     "done": true
   },
@@ -629,6 +1997,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/crop_collector": {
+    "criteria": {
+      "farm_and_charm:corn": "2025-06-04 20:53:11 +0000"
+    },
+    "done": false
+  },
   "biomeswevegone:recipes/transportation/skyris_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
@@ -641,9 +2021,93 @@
     },
     "done": true
   },
+  "meadow:recipes/can": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/pendant_lamp_basic_green": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_gray": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_cap_black": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "herbalbrews:recipes/cauldron": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_catwalk_railing_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-06-04 20:53:13 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/white_mangrove_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-06-04 20:53:13 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/wide_basic_lamp": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_cap_white": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_cap_yellow": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_cap_green": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/pendant_lamp_basic_black": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
     },
     "done": true
   },
@@ -665,15 +2129,39 @@
     },
     "done": false
   },
+  "umbrellas:recipes/decorations/umbrella_stand": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/wall_umbrella_lamp_brown": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/keyring": {
     "criteria": {
       "has_template": "2025-06-04 20:43:26 +0000"
     },
     "done": true
   },
+  "meadow:recipes/camera": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/ebony_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/emerald": {
+    "criteria": {
+      "has_item": "2025-06-04 20:53:11 +0000"
     },
     "done": true
   },
@@ -689,21 +2177,159 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/blackwood_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
     },
     "done": true
   },
+  "lamps:recipes/decorations/pendant_lamp_basic_pink": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/pendant_lamp_basic_yellow": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/floor_lamp_basic_green": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/wall_umbrella_lamp_white": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 20:48:38 +0000"
+      "log_spam_fixer": "2025-06-04 20:53:38 +0000"
     },
     "done": false
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_magenta": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
   },
   "regions_unexplored:recipes/transportation/eucalyptus_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-06-04 20:53:13 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/floor_lamp_basic_black": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/birch_big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/acacia_big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_brown": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/floor_lamp_basic_yellow": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/pink_umbrella_lamp": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_pink": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/gray_umbrella_lamp": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-06-04 20:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/pendant_lamp_basic_light_blue": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-04 20:52:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-04 20:53:15 +0000"
     },
     "done": true
   },
@@ -719,9 +2345,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-06-04 20:53:13 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/orange_umbrella_lamp": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/sakura_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/basic_lamp": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-06-04 20:53:13 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/floor_lamp_basic_gray": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-06-04 20:51:46 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_blue": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
     },
     "done": true
   },
@@ -737,9 +2405,27 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/iron_support_wedge_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_lattice": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/warped_trim": {
     "criteria": {
       "has_planks": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
     },
     "done": true
   },
@@ -761,6 +2447,12 @@
     },
     "done": true
   },
+  "trowel:recipes/trowel": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-06-04 20:43:26 +0000"
@@ -769,9 +2461,15 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 20:48:38 +0000"
+      "log_spam_fixer": "2025-06-04 20:53:38 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
   },
   "farm_and_charm:main/root": {
     "criteria": {
@@ -785,6 +2483,24 @@
     },
     "done": true
   },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "has_emerald": "2025-06-04 20:53:11 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_emerald": "2025-06-04 20:53:11 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/wall_umbrella_lamp_blue": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
@@ -794,6 +2510,12 @@
   "storagedrawers:recipes/storagedrawers/bamboo_trim": {
     "criteria": {
       "has_planks": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/wall_umbrella_lamp_lime": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
     },
     "done": true
   },
@@ -815,15 +2537,51 @@
     },
     "done": true
   },
+  "candlelight:recipes/typewriter_iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/transportation/wisteria_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/goblet": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_support": {
+    "criteria": {
+      "has_item": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/mangrove_trim": {
     "criteria": {
       "has_planks": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "sawmill:recipes/sawmill": {
+    "criteria": {
+      "has_iron": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_cap_orange": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_blue": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
     },
     "done": true
   },
@@ -839,11 +2597,23 @@
     },
     "done": true
   },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_black": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
       "log_spam_fixer": "2025-06-04 20:43:27 +0000"
     },
     "done": false
+  },
+  "lamps:recipes/decorations/floor_lamp_basic_cyan": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
   },
   "storagedrawers:recipes/storagedrawers/redstone_upgrade": {
     "criteria": {
@@ -857,9 +2627,33 @@
     },
     "done": true
   },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_green": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/lime_umbrella_lamp": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-04 20:53:15 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/mauve_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-06-04 20:53:13 +0000"
     },
     "done": true
   },
@@ -875,9 +2669,33 @@
     },
     "done": true
   },
+  "candlelight:recipes/jungle_big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-04 20:52:34 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/zelkova_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/night_light_basic_light_blue": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bench": {
+    "criteria": {
+      "has_bench": "2025-06-04 20:52:20 +0000"
     },
     "done": true
   },
@@ -887,9 +2705,27 @@
     },
     "done": true
   },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_cap_lime": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/quantify_key": {
     "criteria": {
       "has_template": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_orange": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/candleholder_iron": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
     },
     "done": true
   },
@@ -899,9 +2735,51 @@
     },
     "done": true
   },
+  "lamps:recipes/decorations/night_light_basic_yellow": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/purple_umbrella_lamp": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/night_light_basic_pink": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_yellow": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_light_blue": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
   "brewery:main/root": {
     "criteria": {
       "seeds": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/cyan_umbrella_lamp": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/black_umbrella_lamp": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
     },
     "done": true
   },
@@ -911,11 +2789,83 @@
     },
     "done": true
   },
+  "lamps:recipes/decorations/wall_umbrella_lamp_green": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_light_gray": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-06-04 20:53:13 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-06-04 20:43:27 +0000"
     },
     "done": false
+  },
+  "lamps:recipes/decorations/pendant_lamp_basic_blue": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_cyan": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/lantern_outside": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_hoe": "2025-06-04 20:50:47 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/pendant_lamp_basic_lime": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-06-04 20:52:54 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-06-04 20:53:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pulley": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/ceiling_lamp_basic_wide_yellow": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
   },
   "storagedrawers:recipes/storagedrawers/balance_fill_upgrade": {
     "criteria": {
@@ -923,9 +2873,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "beautify:trellis": {
+    "criteria": {
+      "requirement": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/wall_umbrella_lamp_purple": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/red_umbrella_lamp": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_ingot": {
+    "criteria": {
+      "has_iron_ingot": "2025-06-04 20:52:20 +0000"
     },
     "done": true
   },
@@ -941,6 +2921,18 @@
     },
     "done": true
   },
+  "lamps:recipes/decorations/wall_umbrella_lamp_black": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-06-04 20:53:13 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/transportation/larch_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
@@ -950,6 +2942,12 @@
   "things:root": {
     "criteria": {
       "tick": "2025-06-04 20:43:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_lime": {
+    "criteria": {
+      "has_stick": "2025-06-04 20:52:26 +0000"
     },
     "done": true
   },
