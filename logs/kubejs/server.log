@@ -1,15 +1,12 @@
-[18:40:13] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
-[18:40:13] [INIT] Loaded plugins:
-[18:40:13] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
-[18:40:13] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricClientPlugin
-[18:40:13] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
-[18:40:13] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[18:40:13] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[18:40:13] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
-[18:40:13] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[18:40:13] [INFO] Loaded script server_scripts:example.js in 0.001 s
-[18:40:13] [INFO] Loaded 1/1 KubeJS server scripts in 0.014 s with 0 errors and 0 warnings
-[18:40:13] [INFO] Scripts loaded
-[18:40:13] [WARN] Due to the way Minecraft resource loading works, KubeJS' server.log may not contain everything that happened in your server scripts on initial world creation.
-[18:40:13] [WARN] You can still see the full log (including past reloads) in your latest.log file.
-[18:41:23] [INFO] Server resource reload complete!
+[20:37:34] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
+[20:37:34] [INIT] Loaded plugins:
+[20:37:34] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[20:37:34] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
+[20:37:34] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[20:37:34] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[20:37:34] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[20:37:34] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[20:37:34] [INFO] Loaded script server_scripts:example.js in 0.0 s
+[20:37:34] [INFO] Loaded 1/1 KubeJS server scripts in 0.026 s with 0 errors and 0 warnings
+[20:37:34] [INFO] Scripts loaded
+[20:38:26] [INFO] Server resource reload complete!
