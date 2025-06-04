@@ -67,7 +67,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:30:43 +0000"
+      "log_spam_fixer": "2025-06-04 21:35:47 +0000"
     },
     "done": false
   },
@@ -481,7 +481,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:30:43 +0000"
+      "log_spam_fixer": "2025-06-04 21:35:47 +0000"
     },
     "done": false
   },
@@ -721,7 +721,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:30:43 +0000"
+      "log_spam_fixer": "2025-06-04 21:35:47 +0000"
     },
     "done": false
   },
@@ -839,6 +839,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2025-06-04 21:31:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
@@ -943,7 +949,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:30:43 +0000"
+      "log_spam_fixer": "2025-06-04 21:35:47 +0000"
     },
     "done": false
   },
@@ -967,7 +973,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:30:43 +0000"
+      "log_spam_fixer": "2025-06-04 21:35:47 +0000"
     },
     "done": false
   },
@@ -1331,7 +1337,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:30:43 +0000"
+      "log_spam_fixer": "2025-06-04 21:35:47 +0000"
     },
     "done": false
   },
@@ -1593,6 +1599,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2025-06-04 21:31:38 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
     "criteria": {
       "has_planks": "2025-06-04 20:56:59 +0000"
@@ -1655,7 +1667,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:30:43 +0000"
+      "log_spam_fixer": "2025-06-04 21:35:47 +0000"
     },
     "done": false
   },
@@ -1709,7 +1721,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:30:43 +0000"
+      "log_spam_fixer": "2025-06-04 21:35:47 +0000"
     },
     "done": false
   },
@@ -1835,7 +1847,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:30:43 +0000"
+      "log_spam_fixer": "2025-06-04 21:35:47 +0000"
     },
     "done": false
   },
@@ -1883,10 +1895,13 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "willow_forest": "2025-06-04 21:31:47 +0000",
       "grassy_beach": "2025-06-04 21:25:38 +0000",
+      "rocky_meadow": "2025-06-04 21:32:26 +0000",
       "towering_cliffs": "2025-06-04 20:43:27 +0000",
       "temperate_grove": "2025-06-04 20:43:46 +0000",
-      "old_growth_bayou": "2025-06-04 21:24:01 +0000"
+      "old_growth_bayou": "2025-06-04 21:24:01 +0000",
+      "lupine_plains": "2025-06-04 21:31:51 +0000"
     },
     "done": false
   },
@@ -2055,10 +2070,13 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "willow_forest": "2025-06-04 21:31:47 +0000",
       "grassy_beach": "2025-06-04 21:25:38 +0000",
+      "rocky_meadow": "2025-06-04 21:32:26 +0000",
       "towering_cliffs": "2025-06-04 20:43:27 +0000",
       "temperate_grove": "2025-06-04 20:43:46 +0000",
-      "old_growth_bayou": "2025-06-04 21:24:01 +0000"
+      "old_growth_bayou": "2025-06-04 21:24:01 +0000",
+      "lupine_plains": "2025-06-04 21:31:51 +0000"
     },
     "done": false
   },
@@ -2214,7 +2232,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-06-04 21:09:54 +0000"
+      "bread": "2025-06-04 21:09:54 +0000",
+      "cooked_salmon": "2025-06-04 21:32:40 +0000"
     },
     "done": false
   },
@@ -2622,7 +2641,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:30:43 +0000"
+      "log_spam_fixer": "2025-06-04 21:35:47 +0000"
     },
     "done": false
   },
@@ -2887,6 +2906,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-06-04 21:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-06-04 21:30:57 +0000"
     },
     "done": true
   },
@@ -3212,6 +3237,12 @@
   "farm_and_charm:recipes/roaster": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2025-06-04 21:31:21 +0000"
     },
     "done": true
   },
@@ -3643,7 +3674,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:30:43 +0000"
+      "log_spam_fixer": "2025-06-04 21:35:47 +0000"
     },
     "done": false
   },
@@ -4003,7 +4034,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:30:43 +0000"
+      "log_spam_fixer": "2025-06-04 21:35:47 +0000"
     },
     "done": false
   },
@@ -4645,6 +4676,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-06-04 21:33:28 +0000",
       "minecraft:beach": "2025-06-04 21:25:37 +0000",
       "minecraft:dark_forest": "2025-06-04 21:15:46 +0000",
       "minecraft:mangrove_swamp": "2025-06-04 21:16:14 +0000",
@@ -4655,7 +4687,8 @@
       "minecraft:swamp": "2025-06-04 21:15:57 +0000",
       "minecraft:forest": "2025-06-04 20:52:54 +0000",
       "minecraft:windswept_forest": "2025-06-04 21:15:18 +0000",
-      "minecraft:ocean": "2025-06-04 21:25:51 +0000"
+      "minecraft:ocean": "2025-06-04 21:25:51 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-04 21:35:54 +0000"
     },
     "done": false
   },
