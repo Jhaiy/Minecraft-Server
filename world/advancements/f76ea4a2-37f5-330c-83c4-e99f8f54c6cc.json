@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-04 21:56:13 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 20:51:55 +0000"
@@ -79,7 +85,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:50:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:56:48 +0000"
     },
     "done": false
   },
@@ -305,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-04 21:56:13 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_gray": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 20:51:55 +0000"
@@ -392,6 +404,12 @@
   "storagedrawers:recipes/storagedrawers/illumination_upgrade": {
     "criteria": {
       "has_template": "2025-06-04 20:42:21 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2025-06-04 21:55:07 +0000"
     },
     "done": true
   },
@@ -545,6 +563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-04 21:56:13 +0000"
+    },
+    "done": true
+  },
   "beachparty:main/get_all_music_discs": {
     "criteria": {
       "beachparty:music_disc_pridelands": "2025-06-04 21:31:29 +0000"
@@ -607,7 +631,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:50:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:56:48 +0000"
     },
     "done": false
   },
@@ -698,6 +722,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-06-04 21:07:20 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/beef_tartare": {
+    "criteria": {
+      "has_beef": "2025-06-04 21:56:13 +0000"
     },
     "done": true
   },
@@ -881,6 +911,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-04 21:56:13 +0000"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-06-04 20:43:25 +0000"
@@ -889,7 +925,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:50:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:56:48 +0000"
     },
     "done": false
   },
@@ -1135,9 +1171,15 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:50:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:56:48 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-04 21:56:13 +0000"
+    },
+    "done": true
   },
   "supplementaries:recipes/flags/flag_green": {
     "criteria": {
@@ -1171,7 +1213,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:50:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:56:48 +0000"
     },
     "done": false
   },
@@ -1601,7 +1643,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:50:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:56:48 +0000"
     },
     "done": false
   },
@@ -1959,7 +2001,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:50:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:56:48 +0000"
     },
     "done": false
   },
@@ -2025,7 +2067,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:50:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:56:48 +0000"
     },
     "done": false
   },
@@ -2187,7 +2229,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:50:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:56:48 +0000"
     },
     "done": false
   },
@@ -2254,6 +2296,7 @@
       "temperate_grove": "2025-06-04 20:44:28 +0000",
       "old_growth_bayou": "2025-06-04 21:23:37 +0000",
       "grassland": "2025-06-04 20:59:17 +0000",
+      "redwoods": "2025-06-04 21:51:54 +0000",
       "lupine_plains": "2025-06-04 21:31:52 +0000"
     },
     "done": false
@@ -2366,6 +2409,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-06-04 21:56:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-04 21:07:20 +0000"
@@ -2466,6 +2515,7 @@
       "temperate_grove": "2025-06-04 20:44:28 +0000",
       "old_growth_bayou": "2025-06-04 21:23:37 +0000",
       "grassland": "2025-06-04 20:59:17 +0000",
+      "redwoods": "2025-06-04 21:51:54 +0000",
       "lupine_plains": "2025-06-04 21:31:52 +0000"
     },
     "done": false
@@ -3156,10 +3206,9 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-06-04 21:51:35 +0000",
-      "log_spam_fixer": "2025-06-04 21:50:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:56:48 +0000"
     },
-    "done": true
+    "done": false
   },
   "farm_and_charm:recipes/plow": {
     "criteria": {
@@ -3455,6 +3504,12 @@
     },
     "done": true
   },
+  "trinketlantern:recipes/tools/carry_lantern": {
+    "criteria": {
+      "has_lantern": "2025-06-04 21:55:05 +0000"
+    },
+    "done": true
+  },
   "lamps:recipes/decorations/wall_umbrella_lamp_pink": {
     "criteria": {
       "has_stick": "2025-06-04 20:51:55 +0000"
@@ -3539,6 +3594,12 @@
     },
     "done": true
   },
+  "clutter:recipes/misc/cowboy_hat": {
+    "criteria": {
+      "has_leather": "2025-06-04 21:56:13 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/harvest_plate": {
     "criteria": {
       "has_carrot": "2025-06-04 21:28:09 +0000"
@@ -3569,6 +3630,18 @@
       "opened_chest": "2025-06-04 21:22:39 +0000"
     },
     "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-06-04 21:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-04 21:56:13 +0000"
+    },
+    "done": true
   },
   "storagedrawers:recipes/storagedrawers/shroud_key": {
     "criteria": {
@@ -3789,6 +3862,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 20:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-04 21:56:13 +0000"
     },
     "done": true
   },
@@ -4282,6 +4361,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-04 21:56:13 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/gray_painted_planks": {
     "criteria": {
       "has_planks": "2025-06-04 20:55:58 +0000"
@@ -4366,6 +4451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-04 21:56:13 +0000"
+    },
+    "done": true
+  },
   "lamps:recipes/decorations/floor_lamp_basic_green": {
     "criteria": {
       "has_stick": "2025-06-04 20:51:55 +0000"
@@ -4410,7 +4501,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:50:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:56:48 +0000"
     },
     "done": false
   },
@@ -4826,7 +4917,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:50:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:56:48 +0000"
     },
     "done": false
   },
@@ -5001,6 +5092,12 @@
   "natures_spirit:recipes/transportation/wisteria_boat": {
     "criteria": {
       "in_water": "2025-06-04 21:09:08 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/barrel_main": {
+    "criteria": {
+      "has_barrel": "2025-06-04 21:55:07 +0000"
     },
     "done": true
   },
@@ -5271,6 +5368,12 @@
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-06-04 21:28:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-06-04 21:55:07 +0000"
     },
     "done": true
   },
@@ -5714,6 +5817,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-06-04 21:55:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-06-04 21:16:46 +0000"
@@ -5795,6 +5904,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-06-04 21:26:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-04 21:56:13 +0000"
     },
     "done": true
   },
