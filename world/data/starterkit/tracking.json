@@ -1,4 +1,7 @@
 {
   "singleplayer": {},
-  "multiplayer": {}
+  "multiplayer": {
+    "4211d0ba-5b07-32d5-94a3-fa9371f872e6": true,
+    "f76ea4a2-37f5-330c-83c4-e99f8f54c6cc": true
+  }
 }

@@ -1,0 +1,17 @@
+{
+	id: "4211d0ba-5b07-32d5-94a3-fa9371f872e6"
+	type: "player"
+	player_name: "Meruxz"
+	ranks: {
+		4211d0ba-5b07-32d5-94a3-fa9371f872e6: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Meruxz"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6759FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
