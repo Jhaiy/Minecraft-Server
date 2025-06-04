@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "master_cutter:recipes/stone/mossy_stone_bricks": {
+    "criteria": {
+      "requirement": "2025-06-04 21:16:46 +0000"
+    },
+    "done": true
+  },
   "lamps:recipes/decorations/floor_lamp_basic_purple": {
     "criteria": {
       "has_stick": "2025-06-04 20:51:55 +0000"
@@ -61,7 +67,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:14:38 +0000"
+      "log_spam_fixer": "2025-06-04 21:19:38 +0000"
     },
     "done": false
   },
@@ -212,6 +218,18 @@
   "lamps:recipes/decorations/blue_umbrella_lamp": {
     "criteria": {
       "has_stick": "2025-06-04 20:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-04 21:16:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mangrove_shrub": {
+    "criteria": {
+      "has_mangrove_propagule": "2025-06-04 21:17:14 +0000"
     },
     "done": true
   },
@@ -391,7 +409,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:14:38 +0000"
+      "log_spam_fixer": "2025-06-04 21:19:38 +0000"
     },
     "done": false
   },
@@ -464,6 +482,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-06-04 21:07:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-06-04 21:19:13 +0000"
     },
     "done": true
   },
@@ -583,7 +607,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:14:38 +0000"
+      "log_spam_fixer": "2025-06-04 21:19:38 +0000"
     },
     "done": false
   },
@@ -757,7 +781,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:14:38 +0000"
+      "log_spam_fixer": "2025-06-04 21:19:38 +0000"
     },
     "done": false
   },
@@ -781,7 +805,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:14:38 +0000"
+      "log_spam_fixer": "2025-06-04 21:19:38 +0000"
     },
     "done": false
   },
@@ -1103,7 +1127,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:14:38 +0000"
+      "log_spam_fixer": "2025-06-04 21:19:38 +0000"
     },
     "done": false
   },
@@ -1206,6 +1230,12 @@
   "regions_unexplored:recipes/building_blocks/light_gray_painted_planks": {
     "criteria": {
       "has_planks": "2025-06-04 20:55:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "has_bamboo": "2025-06-04 21:19:13 +0000"
     },
     "done": true
   },
@@ -1391,7 +1421,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:14:38 +0000"
+      "log_spam_fixer": "2025-06-04 21:19:38 +0000"
     },
     "done": false
   },
@@ -1439,7 +1469,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:14:38 +0000"
+      "log_spam_fixer": "2025-06-04 21:19:38 +0000"
     },
     "done": false
   },
@@ -1571,7 +1601,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:14:38 +0000"
+      "log_spam_fixer": "2025-06-04 21:19:38 +0000"
     },
     "done": false
   },
@@ -1646,6 +1676,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-06-04 20:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-04 21:16:46 +0000"
     },
     "done": true
   },
@@ -1868,6 +1904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-06-04 21:19:13 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/cobblestone": {
     "criteria": {
       "has_wood": "2025-06-04 21:00:05 +0000"
@@ -1877,6 +1919,12 @@
   "lamps:recipes/decorations/pendant_lamp_basic_cyan": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 20:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-06-04 21:19:13 +0000"
     },
     "done": true
   },
@@ -1979,6 +2027,12 @@
   "lamps:recipes/decorations/ceiling_lamp_basic_green": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 20:51:55 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bamboo_mat": {
+    "criteria": {
+      "has_bamboo": "2025-06-04 21:19:13 +0000"
     },
     "done": true
   },
@@ -2132,6 +2186,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-04 21:16:46 +0000"
+    },
+    "done": true
+  },
   "lamps:recipes/decorations/night_light_basic_magenta": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 20:51:55 +0000"
@@ -2194,7 +2254,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:14:38 +0000"
+      "log_spam_fixer": "2025-06-04 21:19:38 +0000"
     },
     "done": false
   },
@@ -2249,6 +2309,12 @@
   "biomeswevegone:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2025-06-04 21:09:08 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/bamboo_stove": {
+    "criteria": {
+      "has_bamboo": "2025-06-04 21:19:13 +0000"
     },
     "done": true
   },
@@ -2378,6 +2444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-04 21:16:46 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/wooden_cauldron": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 20:51:55 +0000"
@@ -2399,6 +2471,12 @@
   "regions_unexplored:recipes/building_blocks/black_painted_planks": {
     "criteria": {
       "has_planks": "2025-06-04 20:55:58 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bamboo_thatch/bamboo_thatch": {
+    "criteria": {
+      "has_bamboo_leaves": "2025-06-04 21:19:13 +0000"
     },
     "done": true
   },
@@ -2636,6 +2714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-04 21:16:46 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-06-04 21:09:08 +0000"
@@ -2750,6 +2834,12 @@
     },
     "done": true
   },
+  "candlelight:recipes/bamboo_kitchen_sink": {
+    "criteria": {
+      "has_bamboo": "2025-06-04 21:19:13 +0000"
+    },
+    "done": true
+  },
   "lamps:recipes/decorations/lantern_paper_green": {
     "criteria": {
       "has_torch": "2025-06-04 20:56:52 +0000"
@@ -2765,6 +2855,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-06-04 20:51:55 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/misc/brown_dye_from_cattail": {
+    "criteria": {
+      "has_cattail": "2025-06-04 21:19:10 +0000"
     },
     "done": true
   },
@@ -2918,6 +3014,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-04 21:16:46 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/cika_boat": {
     "criteria": {
       "in_water": "2025-06-04 21:09:08 +0000"
@@ -3014,6 +3116,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-04 21:16:46 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/gray_painted_planks": {
     "criteria": {
       "has_planks": "2025-06-04 20:55:58 +0000"
@@ -3082,7 +3190,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:14:38 +0000"
+      "log_spam_fixer": "2025-06-04 21:19:38 +0000"
     },
     "done": false
   },
@@ -3212,6 +3320,12 @@
     },
     "done": true
   },
+  "candlelight:recipes/bamboo_counter": {
+    "criteria": {
+      "has_bamboo": "2025-06-04 21:19:13 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/personal_key": {
     "criteria": {
       "has_template": "2025-06-04 20:42:21 +0000"
@@ -3263,6 +3377,12 @@
   "lamps:recipes/decorations/floor_lamp_basic_gray": {
     "criteria": {
       "has_stick": "2025-06-04 20:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-06-04 21:16:46 +0000"
     },
     "done": true
   },
@@ -3382,7 +3502,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:14:38 +0000"
+      "log_spam_fixer": "2025-06-04 21:19:38 +0000"
     },
     "done": false
   },
@@ -3952,8 +4072,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:dark_forest": "2025-06-04 21:15:44 +0000",
+      "minecraft:mangrove_swamp": "2025-06-04 21:16:10 +0000",
+      "minecraft:jungle": "2025-06-04 21:20:12 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-04 21:15:13 +0000",
+      "natures_spirit:bamboo_wetlands": "2025-06-04 21:18:58 +0000",
       "minecraft:windswept_hills": "2025-06-04 21:00:00 +0000",
-      "minecraft:forest": "2025-06-04 20:52:47 +0000"
+      "minecraft:swamp": "2025-06-04 21:15:56 +0000",
+      "minecraft:forest": "2025-06-04 20:52:47 +0000",
+      "minecraft:windswept_forest": "2025-06-04 21:15:17 +0000"
     },
     "done": false
   },
@@ -4041,6 +4168,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-04 21:16:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-06-04 21:19:13 +0000"
+    },
+    "done": true
+  },
   "candlelight:main/root": {
     "criteria": {
       "seeds": "2025-06-04 20:42:21 +0000"
@@ -4062,6 +4201,12 @@
   "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2025-06-04 21:08:51 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/woven_bamboo": {
+    "criteria": {
+      "has_item": "2025-06-04 21:19:13 +0000"
     },
     "done": true
   },

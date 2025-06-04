@@ -61,7 +61,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:14:38 +0000"
+      "log_spam_fixer": "2025-06-04 21:19:38 +0000"
     },
     "done": false
   },
@@ -212,6 +212,12 @@
   "lamps:recipes/decorations/blue_umbrella_lamp": {
     "criteria": {
       "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/mangrove_shrub": {
+    "criteria": {
+      "has_mangrove_propagule": "2025-06-04 21:16:59 +0000"
     },
     "done": true
   },
@@ -397,7 +403,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:14:38 +0000"
+      "log_spam_fixer": "2025-06-04 21:19:38 +0000"
     },
     "done": false
   },
@@ -607,7 +613,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:14:38 +0000"
+      "log_spam_fixer": "2025-06-04 21:19:38 +0000"
     },
     "done": false
   },
@@ -805,7 +811,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:14:38 +0000"
+      "log_spam_fixer": "2025-06-04 21:19:38 +0000"
     },
     "done": false
   },
@@ -829,7 +835,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:14:38 +0000"
+      "log_spam_fixer": "2025-06-04 21:19:38 +0000"
     },
     "done": false
   },
@@ -1175,7 +1181,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:14:38 +0000"
+      "log_spam_fixer": "2025-06-04 21:19:38 +0000"
     },
     "done": false
   },
@@ -1457,7 +1463,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:14:38 +0000"
+      "log_spam_fixer": "2025-06-04 21:19:38 +0000"
     },
     "done": false
   },
@@ -1505,7 +1511,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:14:38 +0000"
+      "log_spam_fixer": "2025-06-04 21:19:38 +0000"
     },
     "done": false
   },
@@ -1625,7 +1631,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:14:38 +0000"
+      "log_spam_fixer": "2025-06-04 21:19:38 +0000"
     },
     "done": false
   },
@@ -2312,7 +2318,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:14:38 +0000"
+      "log_spam_fixer": "2025-06-04 21:19:38 +0000"
     },
     "done": false
   },
@@ -2946,6 +2952,12 @@
     },
     "done": false
   },
+  "natures_spirit:recipes/misc/brown_dye_from_cattail": {
+    "criteria": {
+      "has_cattail": "2025-06-04 21:19:13 +0000"
+    },
+    "done": true
+  },
   "lamps:recipes/decorations/lantern_paper_orange": {
     "criteria": {
       "has_torch": "2025-06-04 20:57:24 +0000"
@@ -3242,7 +3254,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:14:38 +0000"
+      "log_spam_fixer": "2025-06-04 21:19:38 +0000"
     },
     "done": false
   },
@@ -3560,7 +3572,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:14:38 +0000"
+      "log_spam_fixer": "2025-06-04 21:19:38 +0000"
     },
     "done": false
   },
@@ -4032,6 +4044,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-06-04 21:17:33 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/stick_from_twig": {
     "criteria": {
       "has_item": "2025-06-04 20:56:28 +0000"
@@ -4160,8 +4178,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:dark_forest": "2025-06-04 21:15:46 +0000",
+      "minecraft:mangrove_swamp": "2025-06-04 21:16:14 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-04 21:15:15 +0000",
+      "natures_spirit:bamboo_wetlands": "2025-06-04 21:19:00 +0000",
       "minecraft:windswept_hills": "2025-06-04 20:59:46 +0000",
-      "minecraft:forest": "2025-06-04 20:52:54 +0000"
+      "minecraft:swamp": "2025-06-04 21:15:57 +0000",
+      "minecraft:forest": "2025-06-04 20:52:54 +0000",
+      "minecraft:windswept_forest": "2025-06-04 21:15:18 +0000"
     },
     "done": false
   },
