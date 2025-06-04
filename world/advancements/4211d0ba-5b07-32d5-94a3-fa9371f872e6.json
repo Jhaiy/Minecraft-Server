@@ -73,7 +73,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:11:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:17:47 +0000"
     },
     "done": false
   },
@@ -92,6 +92,12 @@
   "lamps:recipes/decorations/pendant_lamp_basic_magenta": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2025-06-04 22:16:39 +0000"
     },
     "done": true
   },
@@ -134,6 +140,18 @@
   "handcrafted:recipes/misc/dark_oak_side_table": {
     "criteria": {
       "has_dark_oak_side_table": "2025-06-04 21:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-06-04 22:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-06-04 22:16:39 +0000"
     },
     "done": true
   },
@@ -329,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-06-04 22:16:39 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/illumination_upgrade": {
     "criteria": {
       "has_template": "2025-06-04 20:43:26 +0000"
@@ -503,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-06-04 22:16:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-06-04 21:38:59 +0000"
@@ -551,9 +581,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2025-06-04 22:16:39 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:11:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:17:47 +0000"
     },
     "done": false
   },
@@ -737,6 +773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_red_rock_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2025-06-04 22:16:39 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/oak_table": {
     "criteria": {
       "has_bamboo": "2025-06-04 20:56:59 +0000"
@@ -815,6 +857,12 @@
     },
     "done": true
   },
+  "meadow:recipes/mossy_limestone_bricks": {
+    "criteria": {
+      "has_vine": "2025-06-04 22:16:39 +0000"
+    },
+    "done": true
+  },
   "master_cutter:recipes/wood/oak": {
     "criteria": {
       "requirement": "2025-06-04 20:55:56 +0000"
@@ -829,7 +877,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:11:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:17:47 +0000"
     },
     "done": false
   },
@@ -902,6 +950,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-06-04 21:28:32 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
+    "criteria": {
+      "has_diamond": "2025-06-04 22:16:39 +0000"
     },
     "done": true
   },
@@ -1069,7 +1123,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:11:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:17:47 +0000"
     },
     "done": false
   },
@@ -1085,6 +1139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-06-04 22:16:39 +0000"
+    },
+    "done": true
+  },
   "lamps:recipes/decorations/lantern_paper_purple": {
     "criteria": {
       "has_torch": "2025-06-04 20:57:24 +0000"
@@ -1093,7 +1153,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:11:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:17:47 +0000"
     },
     "done": false
   },
@@ -1475,7 +1535,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:11:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:17:47 +0000"
     },
     "done": false
   },
@@ -1825,7 +1885,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:11:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:17:47 +0000"
     },
     "done": false
   },
@@ -1897,7 +1957,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:11:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:17:47 +0000"
     },
     "done": false
   },
@@ -1910,6 +1970,12 @@
   "handcrafted:recipes/misc/spider_trophy": {
     "criteria": {
       "has_spider_trophy": "2025-06-04 20:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-04 22:16:39 +0000"
     },
     "done": true
   },
@@ -2047,7 +2113,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:11:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:17:47 +0000"
     },
     "done": false
   },
@@ -2072,6 +2138,12 @@
   "farm_and_charm:recipes/corn_bag": {
     "criteria": {
       "has_corn": "2025-06-04 20:53:11 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mossy_bricks_from_vine": {
+    "criteria": {
+      "has_item": "2025-06-04 22:16:39 +0000"
     },
     "done": true
   },
@@ -2174,6 +2246,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-06-04 21:06:22 +0000"
+    },
+    "done": true
+  },
+  "umbrellas:recipes/misc/globe_umbrella_pattern": {
+    "criteria": {
+      "has_globe_banner_pattern": "2025-06-04 22:16:39 +0000"
     },
     "done": true
   },
@@ -2460,6 +2538,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/mossy_stone": {
+    "criteria": {
+      "has_vine": "2025-06-04 22:16:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-06-04 21:09:54 +0000",
@@ -2630,6 +2714,12 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/building_blocks/mossy_travertine_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2025-06-04 22:16:39 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/netherite_gold_block": {
     "criteria": {
       "has_ingredients": "2025-06-04 20:43:26 +0000"
@@ -2762,6 +2852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-06-04 22:16:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-06-04 20:59:53 +0000"
@@ -2783,6 +2879,12 @@
   "handcrafted:recipes/misc/oak_fancy_bed": {
     "criteria": {
       "has_oak_fancy_bed": "2025-06-04 20:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_from_vine": {
+    "criteria": {
+      "has_vine": "2025-06-04 22:16:39 +0000"
     },
     "done": true
   },
@@ -2896,7 +2998,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:11:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:17:47 +0000"
     },
     "done": false
   },
@@ -3143,6 +3245,12 @@
   "handcrafted:recipes/misc/salmon_trophy": {
     "criteria": {
       "has_salmon_trophy": "2025-06-04 20:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-06-04 22:16:39 +0000"
     },
     "done": true
   },
@@ -3513,6 +3621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-04 22:16:39 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_cupboard": {
     "criteria": {
       "has_dark_oak_cupboard": "2025-06-04 21:38:59 +0000"
@@ -3636,6 +3750,12 @@
   "lamps:recipes/decorations/lantern_paper_green": {
     "criteria": {
       "has_torch": "2025-06-04 20:57:24 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/mossy_cobbled_travertine_from_vine": {
+    "criteria": {
+      "has_vine": "2025-06-04 22:16:39 +0000"
     },
     "done": true
   },
@@ -3899,9 +4019,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-04 22:16:39 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/transportation/ebony_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_from_vine": {
+    "criteria": {
+      "has_vine": "2025-06-04 22:16:39 +0000"
     },
     "done": true
   },
@@ -3995,6 +4127,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-06-04 22:16:39 +0000"
+    },
+    "done": true
+  },
   "lamps:recipes/decorations/candleholder_golden": {
     "criteria": {
       "has_gold_ingot": "2025-06-04 21:28:32 +0000"
@@ -4043,6 +4181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-04 22:16:39 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-06-04 21:36:49 +0000"
@@ -4075,7 +4219,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:11:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:17:47 +0000"
     },
     "done": false
   },
@@ -4447,6 +4591,12 @@
     },
     "done": true
   },
+  "spelunkery:recipes/diamond": {
+    "criteria": {
+      "has_item": "2025-06-04 22:16:39 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
     "criteria": {
       "has_planks": "2025-06-04 20:56:59 +0000"
@@ -4491,7 +4641,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 22:11:47 +0000"
+      "log_spam_fixer": "2025-06-04 22:17:47 +0000"
     },
     "done": false
   },
@@ -4642,6 +4792,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-06-04 20:59:50 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/silver_tiara": {
+    "criteria": {
+      "has_diamond": "2025-06-04 22:16:39 +0000"
     },
     "done": true
   },
@@ -4828,6 +4984,12 @@
   "lamps:recipes/decorations/lime_umbrella_lamp": {
     "criteria": {
       "has_stick": "2025-06-04 20:52:26 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/tools/diamond_machete": {
+    "criteria": {
+      "has_diamond": "2025-06-04 22:16:39 +0000"
     },
     "done": true
   },
@@ -5283,6 +5445,12 @@
   "create:recipes/misc/crafting/kinetics/item_vault": {
     "criteria": {
       "has_item": "2025-06-04 21:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-06-04 22:16:39 +0000"
     },
     "done": true
   },
