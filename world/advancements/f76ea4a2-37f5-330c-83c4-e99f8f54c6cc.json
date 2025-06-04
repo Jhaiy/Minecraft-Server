@@ -73,7 +73,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:40:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:45:48 +0000"
     },
     "done": false
   },
@@ -595,7 +595,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:40:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:45:48 +0000"
     },
     "done": false
   },
@@ -871,7 +871,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:40:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:45:48 +0000"
     },
     "done": false
   },
@@ -1111,7 +1111,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:40:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:45:48 +0000"
     },
     "done": false
   },
@@ -1147,7 +1147,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:40:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:45:48 +0000"
     },
     "done": false
   },
@@ -1577,7 +1577,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:40:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:45:48 +0000"
     },
     "done": false
   },
@@ -1734,6 +1734,7 @@
   "beachparty:main/get_all_artifacts": {
     "criteria": {
       "beachparty:floaty_boat": "2025-06-04 21:37:17 +0000",
+      "beachparty:swim_wings": "2025-06-04 21:43:29 +0000",
       "beachparty:beach_ball": "2025-06-04 21:26:47 +0000",
       "beachparty:rubber_ring_pink": "2025-06-04 21:37:03 +0000",
       "beachparty:rubber_ring_axolotl": "2025-06-04 21:39:19 +0000"
@@ -1934,7 +1935,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:40:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:45:48 +0000"
     },
     "done": false
   },
@@ -2000,7 +2001,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:40:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:45:48 +0000"
     },
     "done": false
   },
@@ -2162,7 +2163,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:40:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:45:48 +0000"
     },
     "done": false
   },
@@ -3119,7 +3120,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:40:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:45:48 +0000"
     },
     "done": false
   },
@@ -3901,6 +3902,7 @@
   "beachparty:main/hoarder": {
     "criteria": {
       "beachparty:floaty_boat": "2025-06-04 21:37:17 +0000",
+      "beachparty:swim_wings": "2025-06-04 21:43:29 +0000",
       "beachparty:beach_ball": "2025-06-04 21:26:47 +0000",
       "beachparty:rubber_ring_axolotl": "2025-06-04 21:39:19 +0000",
       "beachparty:rubber_ring_pink": "2025-06-04 21:37:03 +0000"
@@ -3982,6 +3984,12 @@
   "lamps:recipes/decorations/ceiling_lamp_basic_wide_cap_black": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 20:51:55 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:lush_stacks": "2025-06-04 21:46:22 +0000"
     },
     "done": true
   },
@@ -4359,7 +4367,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:40:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:45:48 +0000"
     },
     "done": false
   },
@@ -4639,6 +4647,12 @@
     },
     "done": true
   },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:lush_stacks": "2025-06-04 21:46:22 +0000"
+    },
+    "done": false
+  },
   "natures_spirit:recipes/transportation/aspen_boat": {
     "criteria": {
       "in_water": "2025-06-04 21:09:08 +0000"
@@ -4767,7 +4781,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:40:48 +0000"
+      "log_spam_fixer": "2025-06-04 21:45:48 +0000"
     },
     "done": false
   },
@@ -5513,6 +5527,7 @@
       "minecraft:old_growth_birch_forest": "2025-06-04 21:15:13 +0000",
       "natures_spirit:bamboo_wetlands": "2025-06-04 21:18:58 +0000",
       "minecraft:windswept_hills": "2025-06-04 21:00:00 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-04 21:45:36 +0000",
       "minecraft:swamp": "2025-06-04 21:15:56 +0000",
       "minecraft:forest": "2025-06-04 20:52:47 +0000",
       "minecraft:windswept_forest": "2025-06-04 21:15:17 +0000",

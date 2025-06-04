@@ -73,7 +73,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:40:47 +0000"
+      "log_spam_fixer": "2025-06-04 21:45:47 +0000"
     },
     "done": false
   },
@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2025-06-04 21:46:14 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/chocolate_box": {
     "criteria": {
       "has_chest": "2025-06-04 21:03:01 +0000"
@@ -541,7 +547,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:40:47 +0000"
+      "log_spam_fixer": "2025-06-04 21:45:47 +0000"
     },
     "done": false
   },
@@ -799,7 +805,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:40:47 +0000"
+      "log_spam_fixer": "2025-06-04 21:45:47 +0000"
     },
     "done": false
   },
@@ -1033,7 +1039,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:40:47 +0000"
+      "log_spam_fixer": "2025-06-04 21:45:47 +0000"
     },
     "done": false
   },
@@ -1057,7 +1063,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:40:47 +0000"
+      "log_spam_fixer": "2025-06-04 21:45:47 +0000"
     },
     "done": false
   },
@@ -1433,7 +1439,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:40:47 +0000"
+      "log_spam_fixer": "2025-06-04 21:45:47 +0000"
     },
     "done": false
   },
@@ -1578,6 +1584,7 @@
   "beachparty:main/get_all_artifacts": {
     "criteria": {
       "beachparty:floaty_boat": "2025-06-04 21:37:32 +0000",
+      "beachparty:rubber_ring_axolotl": "2025-06-04 21:41:41 +0000",
       "beachparty:rubber_ring_pelican": "2025-06-04 21:26:46 +0000"
     },
     "done": false
@@ -1776,7 +1783,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:40:47 +0000"
+      "log_spam_fixer": "2025-06-04 21:45:47 +0000"
     },
     "done": false
   },
@@ -1848,7 +1855,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:40:47 +0000"
+      "log_spam_fixer": "2025-06-04 21:45:47 +0000"
     },
     "done": false
   },
@@ -1992,7 +1999,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:40:47 +0000"
+      "log_spam_fixer": "2025-06-04 21:45:47 +0000"
     },
     "done": false
   },
@@ -2804,7 +2811,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:40:47 +0000"
+      "log_spam_fixer": "2025-06-04 21:45:47 +0000"
     },
     "done": false
   },
@@ -3039,6 +3046,12 @@
   "candlelight:recipes/spruce_big_table": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "trinketlantern:recipes/tools/carry_lantern": {
+    "criteria": {
+      "has_lantern": "2025-06-04 21:46:13 +0000"
     },
     "done": true
   },
@@ -3379,6 +3392,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-06-04 21:43:33 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_cupboard": {
     "criteria": {
       "has_dark_oak_cupboard": "2025-06-04 21:38:59 +0000"
@@ -3508,6 +3527,7 @@
   "beachparty:main/hoarder": {
     "criteria": {
       "beachparty:floaty_boat": "2025-06-04 21:37:32 +0000",
+      "beachparty:rubber_ring_axolotl": "2025-06-04 21:41:41 +0000",
       "beachparty:rubber_ring_pelican": "2025-06-04 21:26:46 +0000"
     },
     "done": false
@@ -3593,6 +3613,12 @@
   "lamps:recipes/decorations/ceiling_lamp_basic_wide_cap_black": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 20:52:20 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:lush_stacks": "2025-06-04 21:46:22 +0000"
     },
     "done": true
   },
@@ -3916,7 +3942,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:40:47 +0000"
+      "log_spam_fixer": "2025-06-04 21:45:47 +0000"
     },
     "done": false
   },
@@ -4202,6 +4228,12 @@
     },
     "done": true
   },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:lush_stacks": "2025-06-04 21:46:22 +0000"
+    },
+    "done": false
+  },
   "natures_spirit:recipes/transportation/aspen_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
@@ -4312,7 +4344,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-04 21:40:47 +0000"
+      "log_spam_fixer": "2025-06-04 21:45:47 +0000"
     },
     "done": false
   },
@@ -4451,6 +4483,12 @@
   "natures_spirit:recipes/transportation/wisteria_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/barrel_main": {
+    "criteria": {
+      "has_barrel": "2025-06-04 21:46:14 +0000"
     },
     "done": true
   },
@@ -4697,6 +4735,12 @@
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-06-04 20:52:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-06-04 21:46:14 +0000"
     },
     "done": true
   },
@@ -4986,6 +5030,7 @@
       "minecraft:old_growth_birch_forest": "2025-06-04 21:15:15 +0000",
       "natures_spirit:bamboo_wetlands": "2025-06-04 21:19:00 +0000",
       "minecraft:windswept_hills": "2025-06-04 20:59:46 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-04 21:45:35 +0000",
       "minecraft:swamp": "2025-06-04 21:15:57 +0000",
       "minecraft:forest": "2025-06-04 20:52:54 +0000",
       "minecraft:windswept_forest": "2025-06-04 21:15:18 +0000",
@@ -5081,6 +5126,12 @@
   "natures_spirit:recipes/transportation/cedar_boat": {
     "criteria": {
       "in_water": "2025-06-04 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-06-04 21:46:14 +0000"
     },
     "done": true
   },
