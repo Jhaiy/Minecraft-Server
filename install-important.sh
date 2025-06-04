@@ -14,3 +14,4 @@ curl -sSL https://ngrok-agent.s3.amazonaws.com/ngrok.asc \
 
 sudo apt update
 sudo apt install playit
+sudo apt install screen

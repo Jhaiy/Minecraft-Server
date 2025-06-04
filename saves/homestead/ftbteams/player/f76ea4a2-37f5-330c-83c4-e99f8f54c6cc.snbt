@@ -1,0 +1,17 @@
+{
+	id: "f76ea4a2-37f5-330c-83c4-e99f8f54c6cc"
+	type: "player"
+	player_name: "Raijinn"
+	ranks: {
+		f76ea4a2-37f5-330c-83c4-e99f8f54c6cc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Raijinn"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59C8FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

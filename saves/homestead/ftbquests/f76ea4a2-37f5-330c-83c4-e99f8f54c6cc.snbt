@@ -1,0 +1,19 @@
+{
+	version: 1
+	uuid: "f76ea4a237f5330c83c4e99f8f54c6cc"
+	name: "Raijinn#f76ea4a2"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		07DAFE773DDBAF28: 6673
+	}
+	started: {
+		07DAFE773DDBAF28: 1749033744075L
+		0000000000000001: 1749033744075L
+		1793D9CDA5CB10C7: 1749033744075L
+		3E5E175DD327839E: 1749033744075L
+	}
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
