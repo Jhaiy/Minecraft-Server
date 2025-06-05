@@ -4355,6 +4355,7 @@
   },
   "spelunkery:spelunkery/every_fungus": {
     "criteria": {
+      "mushgloom": "2025-06-05 23:08:02 +0000",
       "brown_mushroom": "2025-06-04 21:21:09 +0000",
       "red_mushroom": "2025-06-05 14:09:18 +0000",
       "inkcap_mushroom": "2025-06-05 13:46:27 +0000"
@@ -7814,73 +7815,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:06:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:11:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:06:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:11:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:06:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:11:46 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:06:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:11:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:06:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:11:46 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:06:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:11:46 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:06:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:11:46 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:06:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:11:46 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:06:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:11:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:06:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:11:46 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:06:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:11:46 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:06:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:11:46 +0000"
     },
     "done": false
   },
@@ -7893,6 +7894,12 @@
   "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-06-05 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-05 23:08:49 +0000"
     },
     "done": true
   },
@@ -7917,6 +7924,18 @@
   "lootr:1cart": {
     "criteria": {
       "opened_cart": "2025-06-05 22:30:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-06-05 23:09:58 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-05 23:08:49 +0000"
     },
     "done": true
   },
@@ -7968,6 +7987,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-06-05 23:09:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-06-05 23:05:34 +0000"
@@ -8004,6 +8029,24 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_slab": {
+    "criteria": {
+      "has_item": "2025-06-05 23:08:49 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/mushgloom": {
+    "criteria": {
+      "has_item": "2025-06-05 23:08:02 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-05 23:08:49 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-06-05 23:02:48 +0000"
@@ -8016,9 +8059,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-06-05 23:09:58 +0000"
+    },
+    "done": true
+  },
   "things:arm_extender": {
     "criteria": {
       "arm_extender": "2025-06-05 22:45:54 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-05 23:08:49 +0000"
     },
     "done": true
   },
@@ -8088,6 +8143,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-06-05 23:08:49 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
     "criteria": {
       "has_daisy": "2025-06-05 22:45:54 +0000"
@@ -8097,6 +8158,12 @@
   "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-06-05 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_cinnabar_shard": {
+    "criteria": {
+      "has_item": "2025-06-05 23:09:33 +0000"
     },
     "done": true
   },
@@ -8112,6 +8179,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite_wall": {
+    "criteria": {
+      "has_item": "2025-06-05 23:08:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-06-05 23:05:34 +0000"
@@ -8124,9 +8197,21 @@
     },
     "done": true
   },
+  "spelunkery:recipes/raw_magnetite_nugget": {
+    "criteria": {
+      "has_item": "2025-06-05 23:07:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-06-05 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/rough_gem": {
+    "criteria": {
+      "item": "2025-06-05 23:09:33 +0000"
     },
     "done": true
   },
@@ -8139,6 +8224,24 @@
   "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-06-05 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite": {
+    "criteria": {
+      "has_item": "2025-06-05 23:08:49 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs": {
+    "criteria": {
+      "has_item": "2025-06-05 23:08:49 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_cinnabar": {
+    "criteria": {
+      "has_item": "2025-06-05 23:09:33 +0000"
     },
     "done": true
   },
