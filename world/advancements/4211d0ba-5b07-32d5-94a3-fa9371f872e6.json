@@ -2682,6 +2682,7 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-06-04 21:33:28 +0000",
       "natures_spirit:blooming_sugi_forest": "2025-06-05 14:47:46 +0000",
+      "minecraft:sunflower_plains": "2025-06-05 23:45:31 +0000",
       "minecraft:beach": "2025-06-04 21:25:37 +0000",
       "minecraft:dark_forest": "2025-06-04 21:15:46 +0000",
       "minecraft:mangrove_swamp": "2025-06-04 21:16:14 +0000",
@@ -7818,73 +7819,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:43:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:43:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:43:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:43:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:43:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:43:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:43:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:43:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:43:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:43:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:43:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:43:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
     },
     "done": false
   },
@@ -7975,6 +7976,12 @@
   "create:recipes/misc/crafting/palettes/scorchia": {
     "criteria": {
       "has_item": "2025-06-05 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-05 23:44:29 +0000"
     },
     "done": true
   },
