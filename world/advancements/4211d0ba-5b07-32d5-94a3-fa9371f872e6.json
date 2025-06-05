@@ -7815,73 +7815,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:11:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:17:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:11:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:17:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:11:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:17:46 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:11:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:17:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:11:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:17:46 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:11:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:17:46 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:11:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:17:46 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:11:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:17:46 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:11:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:17:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:11:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:17:46 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:11:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:17:46 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:11:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:17:46 +0000"
     },
     "done": false
   },
@@ -8131,6 +8131,12 @@
     },
     "done": true
   },
+  "spawn:recipes/ant/ant_farm_from_coarse_dirt": {
+    "criteria": {
+      "has_raw_item": "2025-06-05 23:14:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-06-05 23:06:57 +0000"
@@ -8206,6 +8212,12 @@
   "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-06-05 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-06-05 23:14:01 +0000"
     },
     "done": true
   },
