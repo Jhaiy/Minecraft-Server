@@ -429,6 +429,7 @@
       "willow_forest": "2025-06-04 21:31:47 +0000",
       "grassy_beach": "2025-06-04 21:25:38 +0000",
       "rocky_meadow": "2025-06-04 21:32:26 +0000",
+      "ochard": "2025-06-05 23:21:23 +0000",
       "deciduous_forest": "2025-06-05 13:30:28 +0000",
       "towering_cliffs": "2025-06-04 20:43:27 +0000",
       "temperate_grove": "2025-06-04 20:43:46 +0000",
@@ -444,6 +445,7 @@
       "willow_forest": "2025-06-04 21:31:47 +0000",
       "grassy_beach": "2025-06-04 21:25:38 +0000",
       "rocky_meadow": "2025-06-04 21:32:26 +0000",
+      "ochard": "2025-06-05 23:21:23 +0000",
       "deciduous_forest": "2025-06-05 13:30:28 +0000",
       "towering_cliffs": "2025-06-04 20:43:27 +0000",
       "temperate_grove": "2025-06-04 20:43:46 +0000",
@@ -6127,6 +6129,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-05 13:46:48 +0000",
+      "minecraft:creeper": "2025-06-05 23:18:48 +0000",
       "minecraft:cave_spider": "2025-06-05 22:39:33 +0000",
       "minecraft:silverfish": "2025-06-05 13:55:27 +0000",
       "minecraft:zombie": "2025-06-05 14:39:43 +0000"
@@ -7815,73 +7818,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:17:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:22:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:17:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:22:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:17:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:22:46 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:17:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:22:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:17:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:22:46 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:17:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:22:46 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:17:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:22:46 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:17:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:22:46 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:17:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:22:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:17:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:22:46 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:17:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:22:46 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:17:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:22:46 +0000"
     },
     "done": false
   },
@@ -7978,6 +7981,12 @@
   "minecraft:bronze/got_raw_tin": {
     "criteria": {
       "got_raw_tin": "2025-06-05 23:04:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-05 23:18:50 +0000"
     },
     "done": true
   },
@@ -8107,6 +8116,12 @@
     },
     "done": false
   },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2025-06-05 23:18:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-06-05 22:41:38 +0000"
@@ -8155,6 +8170,12 @@
     },
     "done": true
   },
+  "spelunkery:recipes/raw_gold_nugget": {
+    "criteria": {
+      "has_item": "2025-06-05 23:22:08 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
     "criteria": {
       "has_daisy": "2025-06-05 22:45:54 +0000"
@@ -8182,6 +8203,12 @@
   "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-06-05 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/gunpowder_bag": {
+    "criteria": {
+      "has_gunpowder": "2025-06-05 23:18:50 +0000"
     },
     "done": true
   },
@@ -8245,6 +8272,12 @@
     },
     "done": true
   },
+  "spelunkery:recipes/gunpowder": {
+    "criteria": {
+      "has_item": "2025-06-05 23:18:50 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/rhyolite_stairs": {
     "criteria": {
       "has_item": "2025-06-05 23:08:49 +0000"
@@ -8266,6 +8299,12 @@
   "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-06-05 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-05 23:18:50 +0000"
     },
     "done": true
   },
