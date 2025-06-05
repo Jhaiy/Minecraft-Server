@@ -8037,73 +8037,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:01:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:06:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:01:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:06:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:01:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:06:46 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:01:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:06:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:01:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:06:46 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:01:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:06:46 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:01:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:06:46 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:01:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:06:46 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:01:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:06:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:01:46 +0000"
+      "requirement": "2025-06-05 23:07:17 +0000",
+      "log_spam_fixer": "2025-06-05 23:06:46 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:01:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:06:46 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:01:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:06:46 +0000"
     },
     "done": false
   },
@@ -8128,6 +8129,12 @@
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-06-05 22:46:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-05 23:04:27 +0000"
     },
     "done": true
   },
@@ -8221,6 +8228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-05 23:04:27 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
     "criteria": {
       "has_daisy": "2025-06-05 22:46:18 +0000"
@@ -8242,6 +8255,18 @@
   "ribbits:recipes/mossy_oak_planks_from_vine": {
     "criteria": {
       "has_vine": "2025-06-05 22:46:18 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_copper": {
+    "criteria": {
+      "has_item": "2025-06-05 23:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-05 23:04:27 +0000"
     },
     "done": true
   },
