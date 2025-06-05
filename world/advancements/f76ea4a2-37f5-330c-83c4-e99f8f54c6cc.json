@@ -4281,6 +4281,7 @@
       "minecraft:skeleton": "2025-06-05 13:28:40 +0000",
       "minecraft:vindicator": "2025-06-05 14:25:51 +0000",
       "minecraft:spider": "2025-06-05 13:54:35 +0000",
+      "minecraft:creeper": "2025-06-05 22:32:24 +0000",
       "minecraft:witch": "2025-06-04 21:24:12 +0000",
       "minecraft:zombie": "2025-06-05 13:31:24 +0000"
     },
@@ -7705,73 +7706,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:29:46 +0000"
+      "log_spam_fixer": "2025-06-05 22:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:29:46 +0000"
+      "log_spam_fixer": "2025-06-05 22:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:29:46 +0000"
+      "log_spam_fixer": "2025-06-05 22:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:29:46 +0000"
+      "log_spam_fixer": "2025-06-05 22:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:29:46 +0000"
+      "log_spam_fixer": "2025-06-05 22:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:29:46 +0000"
+      "log_spam_fixer": "2025-06-05 22:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:29:46 +0000"
+      "log_spam_fixer": "2025-06-05 22:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:29:46 +0000"
+      "log_spam_fixer": "2025-06-05 22:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:29:46 +0000"
+      "log_spam_fixer": "2025-06-05 22:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:29:46 +0000"
+      "log_spam_fixer": "2025-06-05 22:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:29:46 +0000"
+      "log_spam_fixer": "2025-06-05 22:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:29:46 +0000"
+      "log_spam_fixer": "2025-06-05 22:34:46 +0000"
     },
     "done": false
   },
@@ -7781,9 +7782,171 @@
     },
     "done": true
   },
+  "master_cutter:recipes/wood/birch": {
+    "criteria": {
+      "requirement": "2025-06-05 22:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_shelf": {
+    "criteria": {
+      "has_birch_shelf": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
   "lootr:1cart": {
     "criteria": {
       "opened_cart": "2025-06-05 22:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_nightstand": {
+    "criteria": {
+      "has_birch_nightstand": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/birch_wine_rack_small": {
+    "criteria": {
+      "has_birch_planks": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_cupboard": {
+    "criteria": {
+      "has_birch_cupboard": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-06-05 22:31:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_counter": {
+    "criteria": {
+      "has_birch_counter": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/birch_table": {
+    "criteria": {
+      "has_birch_planks": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/birch_wall_cupboard": {
+    "criteria": {
+      "has_birch_planks": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_desk": {
+    "criteria": {
+      "has_birch_desk": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/birch_wine_rack_big": {
+    "criteria": {
+      "has_birch_planks": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_fancy_bed": {
+    "criteria": {
+      "has_birch_fancy_bed": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/birch_table": {
+    "criteria": {
+      "has_birch_planks": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/birch_short_bench": {
+    "criteria": {
+      "has_birch_planks": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_drawer": {
+    "criteria": {
+      "has_birch_drawer": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/stripped_birch_table": {
+    "criteria": {
+      "has_stripped_birch_log": "2025-06-05 22:31:17 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/birch_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/birch_bench": {
+    "criteria": {
+      "has_birch_planks": "2025-06-05 22:31:29 +0000"
     },
     "done": true
   },
@@ -7792,6 +7955,138 @@
       "in_mineshaft_birch": "2025-06-05 22:29:58 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-05 22:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_table": {
+    "criteria": {
+      "has_birch_table": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_item": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/birch_shelf": {
+    "criteria": {
+      "has_birch_planks": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_side_table": {
+    "criteria": {
+      "has_birch_side_table": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/birch_cabinet": {
+    "criteria": {
+      "has_birch_planks": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_corner_trim": {
+    "criteria": {
+      "has_birch_corner_trim": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/stripped_birch_chair": {
+    "criteria": {
+      "has_stripped_birch_log": "2025-06-05 22:31:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_couch": {
+    "criteria": {
+      "has_birch_couch": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_birch": {
+    "criteria": {
+      "has_item": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-05 22:31:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_pillar_trim": {
+    "criteria": {
+      "has_birch_pillar_trim": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/stripped_birch_bench": {
+    "criteria": {
+      "has_stripped_birch_log": "2025-06-05 22:31:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_dining_bench": {
+    "criteria": {
+      "has_birch_dining_bench": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_chair": {
+    "criteria": {
+      "has_birch_chair": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_bench": {
+    "criteria": {
+      "has_birch_bench": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/birch_cupboard": {
+    "criteria": {
+      "has_birch_planks": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/birch_table": {
+    "criteria": {
+      "has_bamboo": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-05 22:31:29 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

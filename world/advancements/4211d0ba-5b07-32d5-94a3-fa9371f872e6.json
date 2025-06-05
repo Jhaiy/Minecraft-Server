@@ -2796,7 +2796,8 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "apple": "2025-06-04 20:53:12 +0000"
+      "apple": "2025-06-04 20:53:12 +0000",
+      "golden_apple": "2025-06-05 22:34:38 +0000"
     },
     "done": false
   },
@@ -7812,80 +7813,97 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:29:46 +0000"
+      "log_spam_fixer": "2025-06-05 22:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:29:46 +0000"
+      "log_spam_fixer": "2025-06-05 22:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:29:46 +0000"
+      "log_spam_fixer": "2025-06-05 22:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:29:46 +0000"
+      "log_spam_fixer": "2025-06-05 22:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:29:46 +0000"
+      "log_spam_fixer": "2025-06-05 22:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:29:46 +0000"
+      "log_spam_fixer": "2025-06-05 22:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:29:46 +0000"
+      "log_spam_fixer": "2025-06-05 22:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:29:46 +0000"
+      "log_spam_fixer": "2025-06-05 22:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:29:46 +0000"
+      "log_spam_fixer": "2025-06-05 22:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-06-05 22:29:52 +0000",
-      "log_spam_fixer": "2025-06-05 22:29:46 +0000"
+      "log_spam_fixer": "2025-06-05 22:34:46 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:29:46 +0000"
+      "log_spam_fixer": "2025-06-05 22:34:46 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:29:46 +0000"
+      "log_spam_fixer": "2025-06-05 22:34:46 +0000"
     },
     "done": false
+  },
+  "cratedelight:recipes/building_blocks/golden_apple_crate": {
+    "criteria": {
+      "has_golden_apple": "2025-06-05 22:34:38 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/glowstick": {
+    "criteria": {
+      "item": "2025-06-05 22:34:45 +0000"
+    },
+    "done": true
   },
   "lootr:1cart": {
     "criteria": {
       "opened_cart": "2025-06-05 22:30:19 +0000"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/glowberry_crate": {
+    "criteria": {
+      "has_glow_berries": "2025-06-05 22:34:42 +0000"
     },
     "done": true
   },
@@ -7894,6 +7912,18 @@
       "in_mineshaft_birch": "2025-06-05 22:30:02 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-05 22:34:42 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/glowstick": {
+    "criteria": {
+      "has_item": "2025-06-05 22:34:45 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
