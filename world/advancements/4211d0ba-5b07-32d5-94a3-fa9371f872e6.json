@@ -7819,73 +7819,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:54:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:54:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:54:46 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:54:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:54:46 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:54:46 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:54:46 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:54:46 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:54:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:54:46 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:54:46 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:54:46 +0000"
     },
     "done": false
   },
@@ -7922,6 +7922,12 @@
   "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-06-05 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-06-05 23:49:41 +0000"
     },
     "done": true
   },
@@ -8114,6 +8120,12 @@
   "cratedelight:recipes/building_blocks/glowberry_crate": {
     "criteria": {
       "has_glow_berries": "2025-06-05 22:34:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-06-05 23:49:41 +0000"
     },
     "done": true
   },
@@ -8492,15 +8504,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-06-05 23:49:41 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/rhyolite_wall": {
     "criteria": {
       "has_item": "2025-06-05 23:08:49 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-05 23:49:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-06-05 23:05:34 +0000"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/egg_crate": {
+    "criteria": {
+      "has_egg": "2025-06-05 23:49:41 +0000"
     },
     "done": true
   },
@@ -8555,6 +8585,12 @@
   "simple_copper_pipes:recipes/redstone/copper_fitting": {
     "criteria": {
       "has_copper_ingot": "2025-06-05 23:28:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-05 23:49:41 +0000"
     },
     "done": true
   },
@@ -8663,6 +8699,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-06-05 23:05:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-06-05 23:49:41 +0000"
     },
     "done": true
   },

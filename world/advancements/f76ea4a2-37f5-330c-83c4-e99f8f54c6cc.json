@@ -8040,75 +8040,81 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:54:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:54:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:54:46 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:54:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:54:46 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:54:46 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:54:46 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:54:46 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:54:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:54:46 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:54:46 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 23:48:46 +0000"
+      "log_spam_fixer": "2025-06-05 23:54:46 +0000"
     },
     "done": false
+  },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/polished_deepslate_wall": {
     "criteria": {
@@ -8125,6 +8131,18 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
     "criteria": {
       "has_vine": "2025-06-05 22:46:18 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-05 23:50:48 +0000"
     },
     "done": true
   },
@@ -8146,6 +8164,36 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_side_table": {
+    "criteria": {
+      "has_dark_oak_side_table": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/stripped_dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/spruce_table": {
+    "criteria": {
+      "has_bamboo": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_item": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2025-06-05 23:28:45 +0000"
@@ -8158,9 +8206,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
+    "criteria": {
+      "has_dark_oak_fancy_bed": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
   "clutter:recipes/decorations/jungle_cupboard": {
     "criteria": {
       "has_jungle_planks": "2025-06-05 23:30:01 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/stripped_dark_oak_bench": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-05 23:50:48 +0000"
     },
     "done": true
   },
@@ -8170,9 +8236,33 @@
     },
     "done": true
   },
+  "clutter:recipes/decorations/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2025-06-05 23:28:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-05 23:50:29 +0000"
     },
     "done": true
   },
@@ -8194,6 +8284,12 @@
     },
     "done": true
   },
+  "candlelight:recipes/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
     "criteria": {
       "has_item": "2025-06-05 23:09:18 +0000"
@@ -8206,6 +8302,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-06-05 22:46:18 +0000"
@@ -8215,6 +8323,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-06-05 23:34:19 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/spruce_table": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-05 23:50:29 +0000"
     },
     "done": true
   },
@@ -8290,6 +8404,12 @@
     },
     "done": true
   },
+  "clutter:recipes/decorations/stripped_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/copper_mesh_fence_from_stonecutting": {
     "criteria": {
       "has_item": "2025-06-05 23:28:45 +0000"
@@ -8344,6 +8464,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
   "sootychimneys:recipes/decorations/copper_chimney": {
     "criteria": {
       "has_copper": "2025-06-05 23:28:45 +0000"
@@ -8362,9 +8488,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:bronze/got_tin_ingot": {
     "criteria": {
       "got_tin_ingot": "2025-06-05 23:27:08 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_oak_wine_rack_big": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-05 23:50:48 +0000"
     },
     "done": true
   },
@@ -8410,6 +8548,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_table": {
     "criteria": {
       "has_jungle_table": "2025-06-05 23:30:01 +0000"
@@ -8425,6 +8569,12 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-06-05 22:49:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_bench": {
+    "criteria": {
+      "has_dark_oak_bench": "2025-06-05 23:50:48 +0000"
     },
     "done": true
   },
@@ -8452,6 +8602,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_item": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/spruce_shelf": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
   "clutter:recipes/decorations/dark_oak_bench": {
     "criteria": {
       "has_dark_oak_log": "2025-06-05 23:47:43 +0000"
@@ -8461,6 +8623,12 @@
   "clutter:recipes/decorations/spruce_bench": {
     "criteria": {
       "has_spruce_log": "2025-06-05 23:48:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_drawer": "2025-06-05 23:50:48 +0000"
     },
     "done": true
   },
@@ -8482,6 +8650,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_couch": {
+    "criteria": {
+      "has_dark_oak_couch": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2025-06-05 23:28:45 +0000"
@@ -8491,6 +8671,18 @@
   "createdeco:recipes/decorations/copper_catwalk_from_stonecutting": {
     "criteria": {
       "has_item": "2025-06-05 23:28:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_chair": "2025-06-05 23:50:48 +0000"
     },
     "done": true
   },
@@ -8548,9 +8740,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_desk": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
   "umbrellas:recipes/misc/globe_umbrella_pattern": {
     "criteria": {
       "has_globe_banner_pattern": "2025-06-05 22:46:18 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2025-06-05 23:50:29 +0000"
     },
     "done": true
   },
@@ -8566,6 +8770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-05 23:30:01 +0000"
@@ -8578,9 +8788,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/building_blocks/copper_window": {
     "criteria": {
       "has_item": "2025-06-05 23:28:45 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_dark_oak": {
+    "criteria": {
+      "has_item": "2025-06-05 23:50:48 +0000"
     },
     "done": true
   },
@@ -8599,6 +8821,18 @@
   "createdeco:recipes/decorations/copper_door": {
     "criteria": {
       "has_item": "2025-06-05 23:28:45 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2025-06-05 23:50:29 +0000"
     },
     "done": true
   },
@@ -8704,6 +8938,12 @@
     },
     "done": true
   },
+  "vinery:recipes/spruce_wine_rack_big": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
   "candlelight:recipes/jungle_cabinet": {
     "criteria": {
       "has_jungle_planks": "2025-06-05 23:30:01 +0000"
@@ -8713,6 +8953,12 @@
   "create:copper": {
     "criteria": {
       "0": "2025-06-05 23:28:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2025-06-05 23:50:29 +0000"
     },
     "done": true
   },
@@ -8734,6 +8980,12 @@
     },
     "done": true
   },
+  "vinery:recipes/spruce_wine_rack_small": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/cog_block": {
     "criteria": {
       "has_copper_ingot": "2025-06-05 23:28:45 +0000"
@@ -8746,9 +8998,33 @@
     },
     "done": true
   },
+  "vinery:recipes/grapevine_pot": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_nightstand": {
+    "criteria": {
+      "has_dark_oak_nightstand": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-06-05 22:46:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-05 23:50:29 +0000"
     },
     "done": true
   },
@@ -8758,15 +9034,39 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_shelf": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2025-06-05 23:28:45 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_shelf": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-06-05 23:28:45 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/stripped_spruce_table": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_dining_bench": {
+    "criteria": {
+      "has_dark_oak_dining_bench": "2025-06-05 23:50:48 +0000"
     },
     "done": true
   },
@@ -8782,9 +9082,27 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-06-05 23:28:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2025-06-05 23:50:29 +0000"
     },
     "done": true
   },
@@ -8800,6 +9118,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_cupboard": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
     "criteria": {
       "has_log": "2025-06-05 23:48:21 +0000"
@@ -8812,9 +9136,21 @@
     },
     "done": true
   },
+  "clutter:recipes/decorations/spruce_wall_cupboard": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-06-05 23:30:01 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-05 23:50:48 +0000"
     },
     "done": true
   },
@@ -8833,6 +9169,12 @@
   "natures_spirit:recipes/building_blocks/mossy_cobbled_travertine_from_vine": {
     "criteria": {
       "has_vine": "2025-06-05 22:46:18 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-05 23:50:29 +0000"
     },
     "done": true
   },
@@ -8872,6 +9214,24 @@
     },
     "done": true
   },
+  "clutter:recipes/decorations/stripped_dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/dark_oak_table": {
+    "criteria": {
+      "has_bamboo": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
   "herbalbrews:recipes/copper_tea_kettle": {
     "criteria": {
       "has_copper_ingot": "2025-06-05 23:28:45 +0000"
@@ -8908,6 +9268,30 @@
     },
     "done": true
   },
+  "clutter:recipes/decorations/stripped_spruce_bench": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_corner_trim": {
+    "criteria": {
+      "has_dark_oak_corner_trim": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_scaffolding_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-06-05 23:28:45 +0000"
@@ -8926,9 +9310,33 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_oak_wine_rack_small": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-06-05 23:29:33 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_counter": {
+    "criteria": {
+      "has_dark_oak_counter": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-05 23:50:48 +0000"
     },
     "done": true
   },
@@ -8974,6 +9382,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/copper_catwalk_stairs_from_stonecutting": {
     "criteria": {
       "has_item": "2025-06-05 23:28:45 +0000"
@@ -8992,6 +9406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-05 23:30:01 +0000"
@@ -9001,6 +9421,12 @@
   "candlelight:recipes/jungle_drawer": {
     "criteria": {
       "has_jungle_planks": "2025-06-05 23:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-05 23:50:48 +0000"
     },
     "done": true
   },
@@ -9022,9 +9448,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
   "suppsquared:recipes/decorations/item_shelf_jungle": {
     "criteria": {
       "has_item": "2025-06-05 23:30:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2025-06-05 23:50:29 +0000"
     },
     "done": true
   },
@@ -9058,6 +9496,12 @@
     },
     "done": true
   },
+  "suppsquared:recipes/decorations/item_shelf_spruce": {
+    "criteria": {
+      "has_item": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
   "clutter:recipes/decorations/spruce_short_bench": {
     "criteria": {
       "has_spruce_log": "2025-06-05 23:48:21 +0000"
@@ -9073,6 +9517,18 @@
   "handcrafted:recipes/misc/jungle_couch": {
     "criteria": {
       "has_jungle_couch": "2025-06-05 23:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-05 23:50:29 +0000"
     },
     "done": true
   },
@@ -9118,9 +9574,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_spruce_chair": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
   "lamps:recipes/decorations/chandelier_basic_copper": {
     "criteria": {
       "has_copper_ingot": "2025-06-05 23:28:45 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/spruce_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-05 23:50:29 +0000"
     },
     "done": true
   },
@@ -9130,9 +9604,27 @@
     },
     "done": true
   },
+  "candlelight:recipes/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-06-05 23:04:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_pillar_trim": {
+    "criteria": {
+      "has_dark_oak_pillar_trim": "2025-06-05 23:50:48 +0000"
     },
     "done": true
   },
