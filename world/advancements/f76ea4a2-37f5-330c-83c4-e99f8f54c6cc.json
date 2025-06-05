@@ -7705,77 +7705,17 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "repurposed_structures:mineshafts": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:40:46 +0000"
+      "in_mineshaft_birch": "2025-06-05 22:29:58 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "lootr:1cart": {
     "criteria": {
-      "log_spam_fixer": "2025-06-05 22:40:46 +0000"
+      "opened_cart": "2025-06-05 22:30:12 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-05 22:40:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-05 22:40:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-05 22:40:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-05 22:40:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-05 22:40:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-05 22:40:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-05 22:40:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-05 22:40:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-05 22:40:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-05 22:40:46 +0000"
-    },
-    "done": false
+    "done": true
   },
   "cratedelight:recipes/building_blocks/golden_apple_crate": {
     "criteria": {
@@ -7786,6 +7726,42 @@
   "master_cutter:recipes/wood/birch": {
     "criteria": {
       "requirement": "2025-06-05 22:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-06-05 22:31:17 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/stripped_birch_table": {
+    "criteria": {
+      "has_stripped_birch_log": "2025-06-05 22:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-05 22:31:17 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/stripped_birch_chair": {
+    "criteria": {
+      "has_stripped_birch_log": "2025-06-05 22:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-05 22:31:17 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/stripped_birch_bench": {
+    "criteria": {
+      "has_stripped_birch_log": "2025-06-05 22:31:17 +0000"
     },
     "done": true
   },
@@ -7804,12 +7780,6 @@
   "handcrafted:recipes/misc/birch_shelf": {
     "criteria": {
       "has_birch_shelf": "2025-06-05 22:31:29 +0000"
-    },
-    "done": true
-  },
-  "lootr:1cart": {
-    "criteria": {
-      "opened_cart": "2025-06-05 22:30:12 +0000"
     },
     "done": true
   },
@@ -7840,12 +7810,6 @@
   "handcrafted:recipes/misc/birch_cupboard": {
     "criteria": {
       "has_birch_cupboard": "2025-06-05 22:31:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-06-05 22:31:17 +0000"
     },
     "done": true
   },
@@ -7915,12 +7879,6 @@
     },
     "done": true
   },
-  "clutter:recipes/decorations/stripped_birch_table": {
-    "criteria": {
-      "has_stripped_birch_log": "2025-06-05 22:31:17 +0000"
-    },
-    "done": true
-  },
   "candlelight:recipes/birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-06-05 22:31:29 +0000"
@@ -7948,18 +7906,6 @@
   "clutter:recipes/decorations/birch_bench": {
     "criteria": {
       "has_birch_planks": "2025-06-05 22:31:29 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:mineshafts": {
-    "criteria": {
-      "in_mineshaft_birch": "2025-06-05 22:29:58 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/birch_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-06-05 22:31:17 +0000"
     },
     "done": true
   },
@@ -8011,12 +7957,6 @@
     },
     "done": true
   },
-  "clutter:recipes/decorations/stripped_birch_chair": {
-    "criteria": {
-      "has_stripped_birch_log": "2025-06-05 22:31:17 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/birch_couch": {
     "criteria": {
       "has_birch_couch": "2025-06-05 22:31:29 +0000"
@@ -8029,21 +7969,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_birch_wood": {
-    "criteria": {
-      "has_log": "2025-06-05 22:31:17 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/birch_pillar_trim": {
     "criteria": {
       "has_birch_pillar_trim": "2025-06-05 22:31:29 +0000"
-    },
-    "done": true
-  },
-  "clutter:recipes/decorations/stripped_birch_bench": {
-    "criteria": {
-      "has_stripped_birch_log": "2025-06-05 22:31:17 +0000"
     },
     "done": true
   },
@@ -8088,6 +8016,96 @@
       "has_birch_planks": "2025-06-05 22:31:29 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-06-05 22:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-06-05 22:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-05 22:42:37 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-05 22:45:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-05 22:45:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-05 22:45:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-05 22:45:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-05 22:45:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-05 22:45:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-05 22:45:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-05 22:45:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-05 22:45:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-05 22:45:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-05 22:45:46 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-05 22:45:46 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
