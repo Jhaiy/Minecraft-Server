@@ -5768,12 +5768,16 @@
       "biomeswevegone:temperate_grove": "2025-06-06 21:54:39 +0000",
       "biomeswevegone:jacaranda_jungle": "2025-06-04 21:50:26 +0000",
       "biomeswevegone:lush_stacks": "2025-06-04 21:46:22 +0000",
+      "biomeswevegone:coconino_meadow": "2025-06-06 22:39:57 +0000",
       "biomeswevegone:orchard": "2025-06-06 21:32:27 +0000",
       "biomeswevegone:amaranth_grassland": "2025-06-05 14:05:33 +0000",
       "biomeswevegone:prairie": "2025-06-05 13:24:02 +0000",
       "biomeswevegone:basalt_barrera": "2025-06-06 18:02:15 +0000",
       "biomeswevegone:aspen_boreal": "2025-06-05 14:23:47 +0000",
+      "biomeswevegone:howling_peaks": "2025-06-06 22:37:40 +0000",
       "biomeswevegone:allium_shrubland": "2025-06-05 13:23:59 +0000",
+      "biomeswevegone:pumpkin_valley": "2025-06-06 22:40:16 +0000",
+      "biomeswevegone:overgrowth_woodlands": "2025-06-06 22:38:09 +0000",
       "biomeswevegone:coniferous_forest": "2025-06-06 21:44:14 +0000",
       "biomeswevegone:rainbow_beach": "2025-06-06 22:07:28 +0000"
     },
@@ -11111,7 +11115,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:35:32 +0000"
+      "log_spam_fixer": "2025-06-06 22:41:34 +0000"
     },
     "done": false
   },
@@ -11171,7 +11175,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:35:32 +0000"
+      "log_spam_fixer": "2025-06-06 22:41:34 +0000"
     },
     "done": false
   },
@@ -11213,7 +11217,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:35:32 +0000"
+      "log_spam_fixer": "2025-06-06 22:41:34 +0000"
     },
     "done": false
   },
@@ -11243,13 +11247,13 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:35:32 +0000"
+      "log_spam_fixer": "2025-06-06 22:41:34 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:35:32 +0000"
+      "log_spam_fixer": "2025-06-06 22:41:34 +0000"
     },
     "done": false
   },
@@ -11291,7 +11295,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:35:32 +0000"
+      "log_spam_fixer": "2025-06-06 22:41:34 +0000"
     },
     "done": false
   },
@@ -11315,13 +11319,13 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:35:32 +0000"
+      "log_spam_fixer": "2025-06-06 22:41:34 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:35:32 +0000"
+      "log_spam_fixer": "2025-06-06 22:41:34 +0000"
     },
     "done": false
   },
@@ -11345,7 +11349,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:35:32 +0000"
+      "log_spam_fixer": "2025-06-06 22:41:34 +0000"
     },
     "done": false
   },
@@ -11471,10 +11475,9 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-06-06 22:35:32 +0000",
-      "log_spam_fixer": "2025-06-06 22:35:32 +0000"
+      "log_spam_fixer": "2025-06-06 22:41:34 +0000"
     },
-    "done": true
+    "done": false
   },
   "handcrafted:recipes/misc/terracotta_cup": {
     "criteria": {
@@ -11544,7 +11547,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:35:32 +0000"
+      "log_spam_fixer": "2025-06-06 22:41:34 +0000"
     },
     "done": false
   },
@@ -11586,7 +11589,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:35:32 +0000"
+      "log_spam_fixer": "2025-06-06 22:41:34 +0000"
     },
     "done": false
   },
