@@ -3,19 +3,19 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "minecraft:overworld", x: -3915, y: 82, z: -2999, time: 1749168963013L, xRot: 24.779095f, yRot: 67.628235f }
+	last_seen: { dim: "minecraft:overworld", x: -3915, y: 82, z: -2999, time: 1749229368066L, xRot: 24.779095f, yRot: 67.628235f }
 	recording: "none"
 	teleport_history: [
-		{ dim: "minecraft:overworld", x: -4159, y: 109, z: -3169, time: 1749166972538L }
-		{ dim: "minecraft:overworld", x: -3896, y: 95, z: -2973, time: 1749166977765L }
-		{ dim: "minecraft:overworld", x: -4160, y: 92, z: -3158, time: 1749167068670L }
-		{ dim: "minecraft:overworld", x: -3942, y: 75, z: -3042, time: 1749167237523L }
-		{ dim: "minecraft:overworld", x: -4164, y: 93, z: -3158, time: 1749167253425L }
-		{ dim: "minecraft:overworld", x: -3880, y: 66, z: -3202, time: 1749167756529L }
-		{ dim: "minecraft:overworld", x: -4650, y: 62, z: -3589, time: 1749167817223L }
-		{ dim: "minecraft:overworld", x: -4759, y: 62, z: -3464, time: 1749168332877L }
-		{ dim: "minecraft:overworld", x: -4769, y: 133, z: -3503, time: 1749168356522L }
-		{ dim: "minecraft:overworld", x: -4561, y: 72, z: -3670, time: 1749168415773L }
+		{ dim: "minecraft:overworld", x: -3964, y: 75, z: -3119, time: 1749241975970L }
+		{ dim: "minecraft:overworld", x: -4161, y: 93, z: -3160, time: 1749241986306L }
+		{ dim: "minecraft:overworld", x: -3933, y: 72, z: -3042, time: 1749242050504L }
+		{ dim: "minecraft:overworld", x: -4165, y: 95, z: -3170, time: 1749242142788L }
+		{ dim: "minecraft:overworld", x: -3823, y: 63, z: -3286, time: 1749242184509L }
+		{ dim: "minecraft:overworld", x: -3980, y: 63, z: -2738, time: 1749242267688L }
+		{ dim: "minecraft:overworld", x: -4339, y: 64, z: -2808, time: 1749242330988L }
+		{ dim: "minecraft:overworld", x: -3945, y: 63, z: -1908, time: 1749242351072L }
+		{ dim: "minecraft:overworld", x: -3679, y: 64, z: -1788, time: 1749242463759L }
+		{ dim: "minecraft:overworld", x: -4159, y: 108, z: -3168, time: 1749242598323L }
 	]
 	homes: { }
 	kit_use_times: { }

@@ -1,23 +1,23 @@
-[16:55:23] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.14
-[16:55:23] [ForkJoinPool-1-worker-3/WARN]: Mod recipe_generator uses the version 0.2.7_release which isn't compatible with Loader's extended semantic version format (Could not parse version number component '7_release'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[16:55:23] [ForkJoinPool-1-worker-4/WARN]: The mod "brewery" contains invalid entries in its mod json:
+[20:56:30] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.14
+[20:56:30] [ForkJoinPool-1-worker-3/WARN]: Mod recipe_generator uses the version 0.2.7_release which isn't compatible with Loader's extended semantic version format (Could not parse version number component '7_release'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[20:56:30] [ForkJoinPool-1-worker-3/WARN]: The mod "brewery" contains invalid entries in its mod json:
 - Unsupported root entry "credits" at line 10 column 12
-[16:55:24] [ForkJoinPool-1-worker-4/WARN]: The mod "candlelight" contains invalid entries in its mod json:
+[20:56:30] [ForkJoinPool-1-worker-4/WARN]: The mod "candlelight" contains invalid entries in its mod json:
 - Unsupported root entry "credits" at line 10 column 12
-[16:55:24] [ForkJoinPool-1-worker-2/WARN]: The mod "farm_and_charm" contains invalid entries in its mod json:
+[20:56:31] [ForkJoinPool-1-worker-1/WARN]: The mod "farm_and_charm" contains invalid entries in its mod json:
 - Unsupported root entry "credits" at line 10 column 12
-[16:55:24] [ForkJoinPool-1-worker-1/WARN]: Mod ends_delight uses the version refabricated-1.20.1-2.5 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'refabricated'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[16:55:24] [ForkJoinPool-1-worker-3/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[16:55:24] [ForkJoinPool-1-worker-2/WARN]: Mod com_github_rtyley_animated-gif-lib-for-java uses the version animated-gif-lib-1.7 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'animated'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[16:55:25] [ForkJoinPool-1-worker-4/WARN]: Mod dev_isxander_libsdl4j uses the version 3.1.9.075c033-66 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '075c033'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[16:55:25] [ForkJoinPool-1-worker-3/WARN]: Mod oceansdelight uses the version fdrf-fabric-1.0.2-1.20 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fdrf'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[16:55:25] [ForkJoinPool-1-worker-1/WARN]: Mod globalpacks uses the version 1.16.1_fabric which isn't compatible with Loader's extended semantic version format (Could not parse version number component '1_fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[16:55:25] [ForkJoinPool-1-worker-1/WARN]: Mod stutterfix uses the version mc1.20.1-0.2.0 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'mc1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[16:55:25] [ForkJoinPool-1-worker-1/WARN]: Mod mob_explosion_griefing uses the version 1.1.0_1.20.x which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0_1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[16:55:26] [main/WARN]: Warnings were found!
+[20:56:31] [ForkJoinPool-1-worker-4/WARN]: Mod ends_delight uses the version refabricated-1.20.1-2.5 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'refabricated'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[20:56:31] [ForkJoinPool-1-worker-4/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[20:56:31] [ForkJoinPool-1-worker-2/WARN]: Mod com_github_rtyley_animated-gif-lib-for-java uses the version animated-gif-lib-1.7 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'animated'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[20:56:31] [ForkJoinPool-1-worker-3/WARN]: Mod dev_isxander_libsdl4j uses the version 3.1.9.075c033-66 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '075c033'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[20:56:31] [ForkJoinPool-1-worker-1/WARN]: Mod oceansdelight uses the version fdrf-fabric-1.0.2-1.20 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fdrf'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[20:56:31] [ForkJoinPool-1-worker-4/WARN]: Mod globalpacks uses the version 1.16.1_fabric which isn't compatible with Loader's extended semantic version format (Could not parse version number component '1_fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[20:56:31] [ForkJoinPool-1-worker-2/WARN]: Mod stutterfix uses the version mc1.20.1-0.2.0 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'mc1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[20:56:32] [ForkJoinPool-1-worker-4/WARN]: Mod mob_explosion_griefing uses the version 1.1.0_1.20.x which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0_1'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[20:56:32] [main/WARN]: Warnings were found!
  - Mod 'Debugify' (debugify) 1.20.1+2.0 recommends any 3.x version of yet-another-config-lib, which is missing!
 	 - You should install any 3.x version of yet-another-config-lib for the optimal experience.
-[16:55:26] [main/INFO]: Loading 474 mods:
+[20:56:32] [main/INFO]: Loading 474 mods:
 	- accelerateddecay 3.0.1+mc1.20.1
 	- achiopt 1.0.1
 	- advancednetherite 2.1.3-1.20.1
@@ -571,6 +571,267 @@
 	   \-- org_javassist_javassist 3.29.2-GA
 	- yungsbridges 1.20-Fabric-4.0.3
 	- yungsextras 1.20-Fabric-4.0.3
-[16:55:26] [main/INFO]: Applying default options... (YOSBR)
-[16:55:26] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Minecraft-Server/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[16:55:26] [main/INFO]: Compatibility level set to JAVA_17
+[20:56:32] [main/INFO]: Applying default options... (YOSBR)
+[20:56:33] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Minecraft-Server/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[20:56:33] [main/INFO]: Compatibility level set to JAVA_17
+[20:56:33] [main/WARN]: Reference map 'accelerated-decay-fabric-fabric-refmap.json' for accelerateddecay.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:56:33] [main/WARN]: Reference map 'accelerated-decay-common-refmap.json' for accelerateddecay-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:56:33] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[20:56:33] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[20:56:33] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[20:56:33] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[20:56:33] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[20:56:33] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[20:56:33] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[20:56:33] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
+[20:56:33] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[20:56:33] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[20:56:33] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[20:56:33] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[20:56:33] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[20:56:33] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[20:56:33] [main/INFO]: Disabling config ioSystem.gcFreeChunkSerializer: Incompatible with architectury@9.2.14 (*) (defined in c2me)
+[20:56:33] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[20:56:33] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[20:56:33] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunkio.mixin
+[20:56:33] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[20:56:33] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
+[20:56:33] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[20:56:33] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
+[20:56:34] [main/WARN]: Reference map 'cookedcarrots-refmap.json' for cookedcarrots.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:56:34] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:56:34] [main/WARN]: Reference map 'createdeco-fabric-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:56:34] [main/INFO]: Preloading Debugify
+[20:56:34] [main/WARN]: Reference map 'emi-letsdo-compat-common-refmap.json' for emi_letsdo_compat-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:56:34] [main/WARN]: Reference map 'experienced_crops-fabric-refmap.json' for experienced_crops.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:56:34] [main/WARN]: Reference map 'ftb-filter-system-fabric-refmap.json' for ftbfiltersystem.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:56:35] [main/INFO]: File exists, reading config for elocindev.item_obliterator.fabric_quilt.config.ConfigEntries.
+[20:56:35] [main/INFO]: Config for elocindev.item_obliterator.fabric_quilt.config.ConfigEntries read successfully.
+[20:56:35] [main/INFO]: Loaded configuration file for Lithium: 131 options available, 3 override(s) found
+[20:56:35] [main/WARN]: Reference map 'lmft-fabric-refmap.json' for lmft.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:56:35] [main/WARN]: Reference map 'memoryleakfix-fabric-1.17+-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:56:36] [main/INFO]: Loaded configuration file for ModernFix 5.21.0+mc1.20.1: 65 options available, 5 override(s) found
+[20:56:36] [main/WARN]: Option 'mixin.bugfix.paper_chunk_patches' overriden (by mods [c2me]) to 'false'
+[20:56:36] [main/WARN]: Option 'mixin.perf.dynamic_resources' overriden (by user configuration) to 'true'
+[20:56:36] [main/WARN]: Option 'mixin.perf.cache_strongholds' overriden (by mods [c2me]) to 'false'
+[20:56:36] [main/WARN]: Option 'mixin.perf.nbt_memory_usage' overriden (by mods [c2me]) to 'false'
+[20:56:36] [main/WARN]: Option 'mixin.bugfix.chunk_deadlock' overriden (by mods [c2me]) to 'false'
+[20:56:36] [main/INFO]: Applying Nashorn fix
+[20:56:36] [main/WARN]: Reference map 'oceansdelight-refmap.json' for oceansdelight.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:56:36] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:56:36] [main/WARN]: Reference map 'palegardenbackport-2.0.2-common-1.20.1-palegardenbackport-common-refmap.json' for palegardenbackport-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:56:36] [main/WARN]: Reference map 'pandalib-common-common-refmap.json' for pandalib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:56:36] [main/WARN]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:56:36] [main/WARN]: Reference map 'puzzlesaccessapi.fabric.refmap.json' for puzzlesaccessapi.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:56:37] [main/WARN]: Reference map 'starterkit_fabric.refmap.json' for starterkit_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:56:37] [main/WARN]: Reference map 'structure_layout_optimizer.refmap.json' for structure_layout_optimizer.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:56:37] [main/WARN]: Reference map 'trashcans.mixins.refmap.json' for trashcans.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:56:37] [main/WARN]: Reference map 'wildernature.fabric.mixins.refmap.json' for wildernature.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:56:37] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:56:37] [main/WARN]: Reference map 'yungsextras.refmap.json' for yungsextras_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:56:38] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
+[20:56:38] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
+[20:56:38] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
+[20:56:38] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
+[20:56:39] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[20:56:39] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[20:56:40] [main/WARN]: Error loading class: link/infra/indium/renderer/helper/GeometryHelper (java.lang.ClassNotFoundException: link/infra/indium/renderer/helper/GeometryHelper)
+[20:56:40] [main/WARN]: Error loading class: net/fabricmc/fabric/impl/client/indigo/renderer/helper/GeometryHelper (java.lang.ClassNotFoundException: net/fabricmc/fabric/impl/client/indigo/renderer/helper/GeometryHelper)
+[20:56:40] [main/WARN]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults)
+[20:56:41] [main/INFO]: Loading Faster Random.
+[20:56:41] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[20:56:41] [main/WARN]: @Mixin target net.minecraft.class_906 was not found go-fish.mixins.json:FishingBobberEntityRendererMixin from mod go-fish
+[20:56:41] [main/WARN]: Error loading class: net/minecraft/class_702 (java.lang.ClassNotFoundException: net/minecraft/class_702)
+[20:56:41] [main/WARN]: @Mixin target net.minecraft.class_702 was not found go-fish.mixins.json:ParticleManagerMixin from mod go-fish
+[20:56:42] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[20:56:42] [main/WARN]: Force-disabling mixin 'block.moving_block_shapes.PistonBlockEntityMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
+[20:56:42] [main/WARN]: Force-disabling mixin 'block.moving_block_shapes.VoxelShapeMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
+[20:56:42] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [c2me]) disables it and children
+[20:56:43] [main/WARN]: Error loading class: net/coderbot/iris/Iris (java.lang.ClassNotFoundException: net/coderbot/iris/Iris)
+[20:56:43] [main/WARN]: @Mixin target net.coderbot.iris.Iris was not found notenoughcrashes.fabric.mixins.json:iris.SilentNEC from mod notenoughcrashes
+[20:56:43] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
+[20:56:43] [main/ERROR]: Polymorph failed to correct integration configuration spec
+[20:56:43] [main/WARN]: Error loading class: net/minecraft/class_471 (java.lang.ClassNotFoundException: net/minecraft/class_471)
+[20:56:43] [main/WARN]: @Mixin target net.minecraft.class_471 was not found stendhal.mixins.json:AnvilScreenMixin from mod stendhal
+[20:56:43] [main/WARN]: Error loading class: net/minecraft/class_473 (java.lang.ClassNotFoundException: net/minecraft/class_473)
+[20:56:43] [main/WARN]: @Mixin target net.minecraft.class_473 was not found stendhal.mixins.json:BookEditScreenMixin from mod stendhal
+[20:56:43] [main/WARN]: Error loading class: net/minecraft/class_3872 (java.lang.ClassNotFoundException: net/minecraft/class_3872)
+[20:56:43] [main/WARN]: @Mixin target net.minecraft.class_3872 was not found stendhal.mixins.json:BookScreenMixin from mod stendhal
+[20:56:43] [main/WARN]: Error loading class: net/minecraft/class_408 (java.lang.ClassNotFoundException: net/minecraft/class_408)
+[20:56:43] [main/WARN]: @Mixin target net.minecraft.class_408 was not found stendhal.mixins.json:ChatScreenMixin from mod stendhal
+[20:56:43] [main/WARN]: Error loading class: net/minecraft/class_7743 (java.lang.ClassNotFoundException: net/minecraft/class_7743)
+[20:56:43] [main/WARN]: @Mixin target net.minecraft.class_7743 was not found stendhal.mixins.json:SignEditScreenMixin from mod stendhal
+[20:56:43] [main/WARN]: Error loading class: net/minecraft/class_310 (java.lang.ClassNotFoundException: net/minecraft/class_310)
+[20:56:43] [main/WARN]: @Mixin target net.minecraft.class_310 was not found stutterfix.mixins.json:client.MinecraftClientMixin from mod stutterfix
+[20:56:43] [main/WARN]: Error loading class: net/minecraft/class_310 (java.lang.ClassNotFoundException: net/minecraft/class_310)
+[20:56:43] [main/WARN]: @Mixin target net.minecraft.class_310 was not found stutterfix.mixins.json:client.RemoveYieldMixin from mod stutterfix
+[20:56:43] [main/WARN]: Error loading class: net/minecraft/class_429 (java.lang.ClassNotFoundException: net/minecraft/class_429)
+[20:56:43] [main/WARN]: @Mixin target net.minecraft.class_429 was not found stutterfix.mixins.json:gui.OptionsScreenMixin from mod stutterfix
+[20:56:43] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
+[20:56:44] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[20:56:44] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[20:56:44] [main/ERROR]: blahaj.mixins.json:AnvilScreenHandlerMixin from mod blahaj: Super class 'hibi.blahaj.mixin.ForgingScreenHandlerMixin' of AnvilScreenHandlerMixin was not found in the hierarchy of target class 'net/minecraft/class_1706'
+org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Super class 'hibi.blahaj.mixin.ForgingScreenHandlerMixin' of AnvilScreenHandlerMixin was not found in the hierarchy of target class 'net/minecraft/class_1706'
+	at org.spongepowered.asm.mixin.transformer.MixinInfo$SubType$Standard.validate(MixinInfo.java:593) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo$State.validate(MixinInfo.java:327) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinInfo.validate(MixinInfo.java:913) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinConfig.postInitialise(MixinConfig.java:884) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(MixinProcessor.java:568) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:462) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:438) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:290) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.16.14.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:534) ~[?:?]
+	at java.lang.Class.forName(Class.java:513) ~[?:?]
+	at net.fabricmc.loader.impl.util.DefaultLanguageAdapter.create(DefaultLanguageAdapter.java:50) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointStorage$NewEntry.getOrCreate(EntrypointStorage.java:124) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointContainerImpl.getEntrypoint(EntrypointContainerImpl.java:53) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.FabricLoaderImpl.invokeEntrypoints(FabricLoaderImpl.java:399) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.init(Knot.java:160) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:68) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[server.jar:1.0.3]
+[20:56:46] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
+[20:56:46] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
+[20:56:46] [main/WARN]: Error loading class: net/minecraft/class_3675$class_306 (java.lang.ClassNotFoundException: net/minecraft/class_3675$class_306)
+[20:56:46] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0-beta.4).
+[20:56:51] [main/WARN]: Method overwrite conflict for method_43250 in lazydfu.mixins.json:SharedConstantsMixin from mod lazydfu, previously written by net.dnlayu.fastboot.mixin.SharedConstantsMixin. Skipping method.
+[20:56:52] [main/INFO]: Mixing server.MixinDedicatedServer from mixins/common/nochatreports.mixins.json into net.minecraft.class_3176
+[20:56:53] [main/INFO]: Mixing common.MixinFriendlyByteBuf from mixins/common/nochatreports.mixins.json into net.minecraft.class_2540
+[20:56:53] [main/INFO]: Renaming synthetic method lambda$onWriteJsonWithCodec$1(Ljava/lang/Object;Ljava/lang/String;)Lio/netty/handler/codec/EncoderException; to md2bba7b$nochatreports$lambda$onWriteJsonWithCodec$1$0 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf from mod nochatreports
+[20:56:53] [main/INFO]: Renaming synthetic method lambda$onReadJsonWithCodec$0(Ljava/lang/String;)Lio/netty/handler/codec/DecoderException; to md2bba7b$nochatreports$lambda$onReadJsonWithCodec$0$1 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf from mod nochatreports
+[20:56:53] [main/WARN]: @ModifyConstant conflict. Skipping xlpackets.mixins.json:PacketByteBufMixin from mod thiccpackets->@ModifyConstant::xlPackets(J)J with priority 1000, already redirected by packetfixer.common.mixins.json:FriendlyByteBufMixin from mod packetfixer->@ModifyConstant::newSize(J)J with priority 1000
+[20:56:56] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[20:56:56] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[20:56:56] [main/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[20:56:57] [main/INFO]: Instancing error handler class dev.isxander.debugify.mixinplugin.DebugifyErrorHandler
+[20:56:57] [main/INFO]: Instancing error handler class com.illusivesoulworks.polymorph.mixin.IntegratedMixinPlugin
+[20:56:57] [main/INFO]: Instancing error handler class dev.isxander.mixinconflicthelper.ConflictErrorHandler
+[20:56:57] [main/WARN]: Mixin apply for mod necronomicon failed necronomicon-common.mixins.json:item.AnimatedItemNameMixin from mod necronomicon -> net.minecraft.class_1799: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException Critical injection failure: @Inject annotation on getName could not find any targets matching 'getHoverName' in net/minecraft/class_1799. No refMap loaded. [handler$ecf001$necronomicon$getName(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V -> Parse ->  -> Validate Targets]
+org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Critical injection failure: @Inject annotation on getName could not find any targets matching 'getHoverName' in net/minecraft/class_1799. No refMap loaded. [handler$ecf001$necronomicon$getName(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V -> Parse ->  -> Validate Targets]
+	at org.spongepowered.asm.mixin.injection.selectors.TargetSelectors.validate(TargetSelectors.java:346) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.readAnnotation(InjectionInfo.java:369) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.<init>(InjectionInfo.java:340) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.<init>(InjectionInfo.java:331) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.injection.struct.CallbackInjectionInfo.<init>(CallbackInjectionInfo.java:48) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo$InjectorEntry.create(InjectionInfo.java:196) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.parse(InjectionInfo.java:664) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.prepareInjections(MixinTargetContext.java:1399) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.prepareInjections(MixinApplicatorStandard.java:731) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:315) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:246) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:437) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:418) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.15.5+mixin.0.8.7.jar:0.15.5+mixin.0.8.7]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.16.14.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.minecraft.class_5620.method_32211(class_5620.java:39) ~[server-intermediary.jar:?]
+	at net.minecraft.class_156.method_654(class_156.java:436) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5620.method_32206(class_5620.java:39) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5620.<clinit>(class_5620.java:33) ~[server-intermediary.jar:?]
+	at net.minecraft.class_5546.<init>(class_5546.java:17) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2246.<clinit>(class_2246.java:477) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2358.method_10199(class_2358.java:326) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2966.method_12851(class_2966.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:109) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[server.jar:1.0.3]
+[20:56:58] [main/WARN]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=1 on palladiumcore-common.mixins.json:LightningBoltMixin from mod palladiumcore::handler$egn001$palladiumcore$tick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[20:56:59] [main/WARN]: Method overwrite conflict for scheduleRandomTick in ohthetreesyoullgrow.mixins.json:chunk.MixinChunkAccess from mod ohthetreesyoullgrow, previously written by corgitaco.corgilib.mixin.chunk.MixinChunkAccess. Skipping method.
+[20:56:59] [main/WARN]: Method overwrite conflict for getScheduledRandomTicks in ohthetreesyoullgrow.mixins.json:chunk.MixinChunkAccess from mod ohthetreesyoullgrow, previously written by corgitaco.corgilib.mixin.chunk.MixinChunkAccess. Skipping method.
+[20:57:02] [main/INFO]: Mixing server.MixinServerGamePacketListenerImpl from mixins/common/nochatreports.mixins.json into net.minecraft.class_3244
+[20:57:04] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[20:57:04] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[20:57:06] [main/INFO]: Vanilla bootstrap took 13899 milliseconds
+[20:57:07] [main/INFO]: fabric loader environment detected
+[20:57:09] [main/INFO]: [Regions Unexplored] generating and loading config
+[20:57:09] [main/INFO]: Config loaded
+[20:57:09] [main/INFO]: Mixing server.MixinPlayerList from mixins/common/nochatreports.mixins.json into net.minecraft.class_3324
+[20:57:09] [main/INFO]: Initializing platform helper for Advanced Netherite!
+[20:57:09] [main/INFO]: Initializing recipes for AlcoCraftPlus
+[20:57:09] [main/INFO]: Loaded config amendments-common.json
+[20:57:09] [main/INFO]: [Animal Feeding Trough] Load Complete! Enjoy :D
+[20:57:09] [main/INFO]: Constructing common components for armorstatues:main
+[20:57:10] [main/INFO]: Better Compatibility Checker starting
+[20:57:10] [main/INFO]: Loading config file
+[20:57:10] [main/INFO]: Config file loaded
+[20:57:11] [main/INFO]: Reflections took 73 ms to scan 1 urls, producing 1 keys and 3 values
+[20:57:11] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 3 values
+[20:57:11] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[20:57:11] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[20:57:11] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[20:57:11] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[20:57:11] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[20:57:11] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[20:57:11] [main/INFO]: Initializing network...
+[20:57:11] [main/INFO]: Initialized network!
+[20:57:11] [main/INFO]: Registering Oh The Biomes We've Gone items
+[20:57:11] [main/INFO]: Registering Oh The Biomes We've Gone Blocks
+[20:57:11] [main/INFO]: Registering Oh The Biomes We've Gone Wood
+[20:57:12] [main/INFO]: Bypassed Mojang DFU
+[20:57:12] [main/INFO]: Instantiating Mojang DFU
+[20:57:12] [main/ERROR]: No data fixer registered for biomeswevegone:sign
+[20:57:12] [main/ERROR]: No data fixer registered for biomeswevegone:hanging_sign
+[20:57:12] [main/INFO]: Registering Oh The Biomes We've Gone Block Entities
+[20:57:12] [main/INFO]: Registering Oh The Biomes We've Gone Entities
+[20:57:12] [main/INFO]: Registering Oh The Biomes We've Gone Creative Tabs
+[20:57:12] [main/INFO]: Registering Oh The Biomes We've Gone Sounds
+[20:57:12] [main/INFO]: Registering Oh The Biomes We've Gone Block Predicate
+[20:57:12] [main/INFO]: Registering Oh The Biomes We've Gone State Providers
+[20:57:12] [main/INFO]: Registering Oh The Biomes We've Gone Tree Decorators
+[20:57:12] [main/INFO]: Registering Oh The Biomes We've Gone Custom Features
+[20:57:12] [main/INFO]: Registering Oh The Biomes We've Gone Structure Pieces
+[20:57:12] [main/INFO]: Registering Oh The Biomes We've Gone Custom Structure Types
+[20:57:12] [main/INFO]: Registering Oh The Biomes We've Gone Configured Features
+[20:57:12] [main/INFO]: Creating and Registering Overworld Vegetation Configured Features
+[20:57:12] [main/INFO]: Registering Oh The Biomes We've Gone Tree Configured Features
+[20:57:12] [main/INFO]: Creating and Registering Vanilla Configured Features
+[20:57:12] [main/INFO]: Registering Oh The Biomes You'll Go Overworld Configured Features
+[20:57:12] [main/INFO]: Registering Oh The Biomes We've Gone Placed Features
+[20:57:12] [main/INFO]: Creating and Registering Overworld Tree Placed Features
+[20:57:12] [main/INFO]: Creating and Registering Overworld Vegetation Placed Features
+[20:57:12] [main/INFO]: Creating and Registering Vanilla Placed Features
+[20:57:12] [main/INFO]: Registering Oh The Biomes We've Gone Custom Surface Rules
+[20:57:12] [main/INFO]: Registering Oh The Biomes We've Gone Template Pools
+[20:57:12] [main/INFO]: Registering Oh The Biome's We've Gone Village Template Pools
+[20:57:12] [main/INFO]: Registering Oh The Biomes We've Gone Poi Types
+[20:57:12] [main/INFO]: Registering Oh The Biomes We've Gone Villager Professions
+[20:57:12] [main/INFO]: Registering Oh The Biomes We've Gone Custom Structure Processors
+[20:57:12] [main/INFO]: Creating and Registering BWG Biome Modifiers for Vanilla Biomes
+[20:57:12] [main/INFO]: Constructing common components for blockrunner:main
+[20:57:12] [main/INFO]: BoatBreakFix initialized
+[20:57:13] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[20:57:13] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[20:57:13] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[20:57:13] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[20:57:13] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[20:57:13] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[20:57:13] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[20:57:13] [main/INFO]: Registering C2S receiver with id brewery:alcohol_sync_request
+[20:57:13] [main/INFO]: Registering C2S receiver with id brewery:drink_alcohol
+[20:57:13] [main/INFO]: Initializing Main Registry
+[20:57:13] [main/INFO]: [Bronze] Finished Loading!
+[20:57:13] [main/INFO]: Cactus Config is being initialized.
+[20:57:13] [main/INFO]: Registering C2S receiver with id candlelight:typewriter_sync
+[20:57:13] [main/INFO]: Registering C2S receiver with id candlelight:sign_note
+[20:57:13] [main/INFO]: Hello Fabric world!
+[20:57:13] [main/INFO]: [STDOUT]: All 6 have been set properly
