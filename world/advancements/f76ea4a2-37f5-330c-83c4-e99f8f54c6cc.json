@@ -5760,7 +5760,8 @@
       "biomeswevegone:basalt_barrera": "2025-06-06 18:02:15 +0000",
       "biomeswevegone:aspen_boreal": "2025-06-05 14:23:47 +0000",
       "biomeswevegone:allium_shrubland": "2025-06-05 13:23:59 +0000",
-      "biomeswevegone:coniferous_forest": "2025-06-06 21:44:14 +0000"
+      "biomeswevegone:coniferous_forest": "2025-06-06 21:44:14 +0000",
+      "biomeswevegone:rainbow_beach": "2025-06-06 22:07:28 +0000"
     },
     "done": false
   },
@@ -11096,7 +11097,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:02:28 +0000"
+      "log_spam_fixer": "2025-06-06 22:08:29 +0000"
     },
     "done": false
   },
@@ -11106,9 +11107,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_medium_pot": {
+    "criteria": {
+      "has_terracotta_medium_pot": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:02:28 +0000"
+      "log_spam_fixer": "2025-06-06 22:08:29 +0000"
     },
     "done": false
   },
@@ -11130,6 +11149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-06-06 21:36:04 +0000"
@@ -11138,7 +11163,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:02:28 +0000"
+      "log_spam_fixer": "2025-06-06 22:08:29 +0000"
     },
     "done": false
   },
@@ -11148,35 +11173,89 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:02:28 +0000"
+      "log_spam_fixer": "2025-06-06 22:08:29 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:02:28 +0000"
+      "log_spam_fixer": "2025-06-06 22:08:29 +0000"
     },
     "done": false
+  },
+  "handcrafted:recipes/misc/terracotta_plate": {
+    "criteria": {
+      "has_terracotta_plate": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:02:28 +0000"
+      "log_spam_fixer": "2025-06-06 22:08:29 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_wide_pot": {
+    "criteria": {
+      "has_terracotta_wide_pot": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
+  },
+  "sootychimneys:recipes/decorations/terracotta_chimney": {
+    "criteria": {
+      "has_terracotta": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:02:28 +0000"
+      "log_spam_fixer": "2025-06-06 22:08:29 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:02:28 +0000"
+      "log_spam_fixer": "2025-06-06 22:08:29 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-06-06 22:04:04 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
@@ -11186,9 +11265,15 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:02:28 +0000"
+      "log_spam_fixer": "2025-06-06 22:08:29 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
   },
   "repurposed_structures:pyramids": {
     "criteria": {
@@ -11199,6 +11284,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-06-06 21:52:09 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/terracotta_bricks": {
+    "criteria": {
+      "has_item": "2025-06-06 22:06:35 +0000"
     },
     "done": true
   },
@@ -11214,9 +11305,27 @@
     },
     "done": true
   },
+  "hearth_and_home:recipes/shingles": {
+    "criteria": {
+      "has_item": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-06-06 22:00:39 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-06-06 22:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-06 22:06:35 +0000"
     },
     "done": true
   },
@@ -11226,9 +11335,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
       "has_pumpkin": "2025-06-06 21:29:08 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/tiles": {
+    "criteria": {
+      "has_item": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_thin_pot": {
+    "criteria": {
+      "has_terracotta_thin_pot": "2025-06-06 22:06:35 +0000"
     },
     "done": true
   },
@@ -11238,10 +11365,34 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-06-06 22:02:50 +0000",
-      "log_spam_fixer": "2025-06-06 22:02:28 +0000"
+      "requirement": "2025-06-06 22:08:29 +0000",
+      "log_spam_fixer": "2025-06-06 22:08:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_cup": {
+    "criteria": {
+      "has_terracotta_cup": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-06 22:06:35 +0000"
     },
     "done": true
   },
@@ -11257,6 +11408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-06-06 21:36:04 +0000"
@@ -11265,9 +11422,15 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:02:28 +0000"
+      "log_spam_fixer": "2025-06-06 22:08:29 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-06 22:04:04 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
@@ -11278,6 +11441,12 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-06-06 21:29:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_bowl": {
+    "criteria": {
+      "has_terracotta_bowl": "2025-06-06 22:06:35 +0000"
     },
     "done": true
   },
@@ -11295,7 +11464,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:02:28 +0000"
+      "log_spam_fixer": "2025-06-06 22:08:29 +0000"
     },
     "done": false
   },
@@ -11305,9 +11474,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/iron_hull": {
     "criteria": {
       "has_item": "2025-06-06 21:08:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_thick_pot": {
+    "criteria": {
+      "has_terracotta_thick_pot": "2025-06-06 22:06:35 +0000"
     },
     "done": true
   },
