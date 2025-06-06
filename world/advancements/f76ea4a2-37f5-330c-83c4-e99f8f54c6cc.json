@@ -8040,73 +8040,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 00:04:46 +0000"
+      "log_spam_fixer": "2025-06-06 00:10:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 00:04:46 +0000"
+      "log_spam_fixer": "2025-06-06 00:10:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 00:04:46 +0000"
+      "log_spam_fixer": "2025-06-06 00:10:46 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 00:04:46 +0000"
+      "log_spam_fixer": "2025-06-06 00:10:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 00:04:46 +0000"
+      "log_spam_fixer": "2025-06-06 00:10:46 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 00:04:46 +0000"
+      "log_spam_fixer": "2025-06-06 00:10:46 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 00:04:46 +0000"
+      "log_spam_fixer": "2025-06-06 00:10:46 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 00:04:46 +0000"
+      "log_spam_fixer": "2025-06-06 00:10:46 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 00:04:46 +0000"
+      "log_spam_fixer": "2025-06-06 00:10:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 00:04:46 +0000"
+      "log_spam_fixer": "2025-06-06 00:10:46 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 00:04:46 +0000"
+      "log_spam_fixer": "2025-06-06 00:10:46 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 00:04:46 +0000"
+      "log_spam_fixer": "2025-06-06 00:10:46 +0000"
     },
     "done": false
   },
@@ -8170,6 +8170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-06 00:10:08 +0000"
+    },
+    "done": true
+  },
   "clutter:recipes/decorations/stripped_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-06-05 23:50:48 +0000"
@@ -8203,6 +8209,12 @@
   "handcrafted:recipes/misc/jungle_side_table": {
     "criteria": {
       "has_jungle_side_table": "2025-06-05 23:30:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-06 00:10:08 +0000"
     },
     "done": true
   },
@@ -8677,6 +8689,12 @@
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-06 00:10:08 +0000"
     },
     "done": true
   },
@@ -9499,6 +9517,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-06-05 23:47:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-06 00:10:08 +0000"
     },
     "done": true
   },
