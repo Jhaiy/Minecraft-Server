@@ -22,6 +22,7 @@
       "blackwood_taiga": "2025-06-06 17:37:49 +0000",
       "ochard": "2025-06-05 23:19:49 +0000",
       "maple_forest": "2025-06-06 21:40:48 +0000",
+      "eucalyptus_forest": "2025-06-06 21:48:45 +0000",
       "mountains": "2025-06-06 21:39:17 +0000",
       "deciduous_forest": "2025-06-05 14:03:34 +0000",
       "towering_cliffs": "2025-06-04 20:42:18 +0000",
@@ -44,6 +45,7 @@
       "blackwood_taiga": "2025-06-06 17:37:49 +0000",
       "ochard": "2025-06-05 23:19:49 +0000",
       "maple_forest": "2025-06-06 21:40:48 +0000",
+      "eucalyptus_forest": "2025-06-06 21:48:45 +0000",
       "mountains": "2025-06-06 21:39:17 +0000",
       "deciduous_forest": "2025-06-05 14:03:34 +0000",
       "towering_cliffs": "2025-06-04 20:42:18 +0000",
@@ -2312,6 +2314,7 @@
       "minecraft:deep_ocean": "2025-06-04 21:33:28 +0000",
       "natures_spirit:blooming_sugi_forest": "2025-06-05 14:36:21 +0000",
       "minecraft:sunflower_plains": "2025-06-05 23:21:45 +0000",
+      "minecraft:wooded_badlands": "2025-06-06 21:48:14 +0000",
       "minecraft:beach": "2025-06-04 21:25:52 +0000",
       "minecraft:dark_forest": "2025-06-04 21:15:44 +0000",
       "minecraft:mangrove_swamp": "2025-06-04 21:16:10 +0000",
@@ -2338,6 +2341,7 @@
       "natures_spirit:sugi_forest": "2025-06-05 15:00:11 +0000",
       "natures_spirit:chaparral": "2025-06-06 18:00:03 +0000",
       "minecraft:forest": "2025-06-04 20:52:47 +0000",
+      "minecraft:desert": "2025-06-06 21:47:52 +0000",
       "minecraft:windswept_forest": "2025-06-04 21:15:17 +0000",
       "minecraft:ocean": "2025-06-04 21:25:57 +0000",
       "minecraft:windswept_savanna": "2025-06-05 14:03:59 +0000",
@@ -11086,19 +11090,25 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 21:46:29 +0000"
+      "log_spam_fixer": "2025-06-06 21:51:29 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 21:46:29 +0000"
+      "log_spam_fixer": "2025-06-06 21:51:29 +0000"
     },
     "done": false
   },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-06-06 21:29:08 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/obsidian": {
+    "criteria": {
+      "has_item": "2025-06-06 21:52:09 +0000"
     },
     "done": true
   },
@@ -11110,7 +11120,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 21:46:29 +0000"
+      "log_spam_fixer": "2025-06-06 21:51:29 +0000"
     },
     "done": false
   },
@@ -11122,31 +11132,31 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 21:46:29 +0000"
+      "log_spam_fixer": "2025-06-06 21:51:29 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 21:46:29 +0000"
+      "log_spam_fixer": "2025-06-06 21:51:29 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 21:46:29 +0000"
+      "log_spam_fixer": "2025-06-06 21:51:29 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 21:46:29 +0000"
+      "log_spam_fixer": "2025-06-06 21:51:29 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 21:46:29 +0000"
+      "log_spam_fixer": "2025-06-06 21:51:29 +0000"
     },
     "done": false
   },
@@ -11158,9 +11168,21 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 21:46:29 +0000"
+      "log_spam_fixer": "2025-06-06 21:51:29 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-06-06 21:52:09 +0000"
+    },
+    "done": true
+  },
+  "obsidianequipment:recipes/misc/obsidian": {
+    "criteria": {
+      "has_ingredient": "2025-06-06 21:52:09 +0000"
+    },
+    "done": true
   },
   "createdeco:recipes/decorations/iron_hull_from_stonecutting": {
     "criteria": {
@@ -11182,8 +11204,13 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-06-06 21:46:55 +0000",
-      "log_spam_fixer": "2025-06-06 21:46:29 +0000"
+      "log_spam_fixer": "2025-06-06 21:51:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-06 21:52:09 +0000"
     },
     "done": true
   },
@@ -11195,7 +11222,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 21:46:29 +0000"
+      "log_spam_fixer": "2025-06-06 21:51:29 +0000"
     },
     "done": false
   },
@@ -11225,7 +11252,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 21:46:29 +0000"
+      "log_spam_fixer": "2025-06-06 21:51:29 +0000"
     },
     "done": false
   },
@@ -11244,6 +11271,12 @@
   "railways:recipes/misc/stonecutting/riveted_locometal": {
     "criteria": {
       "has_item": "2025-06-06 21:08:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-06 21:52:09 +0000"
     },
     "done": true
   },
