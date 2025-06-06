@@ -2338,6 +2338,7 @@
       "minecraft:lush_caves": "2025-06-05 22:29:58 +0000",
       "natures_spirit:wooded_drylands": "2025-06-05 14:03:55 +0000",
       "minecraft:jungle": "2025-06-04 21:20:12 +0000",
+      "minecraft:warm_ocean": "2025-06-06 22:56:21 +0000",
       "minecraft:flower_forest": "2025-06-05 14:57:20 +0000",
       "minecraft:frozen_peaks": "2025-06-06 21:31:20 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-04 21:15:13 +0000",
@@ -4330,6 +4331,7 @@
       "minecraft:creeper": "2025-06-05 22:32:24 +0000",
       "minecraft:evoker": "2025-06-06 17:31:46 +0000",
       "minecraft:witch": "2025-06-04 21:24:12 +0000",
+      "minecraft:husk": "2025-06-06 22:52:59 +0000",
       "minecraft:cave_spider": "2025-06-05 22:39:07 +0000",
       "minecraft:silverfish": "2025-06-06 22:02:54 +0000",
       "minecraft:vex": "2025-06-06 17:32:00 +0000",
@@ -11118,7 +11120,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:51:57 +0000"
+      "log_spam_fixer": "2025-06-06 22:57:57 +0000"
     },
     "done": false
   },
@@ -11146,6 +11148,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-06-06 22:57:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-06 22:06:35 +0000"
@@ -11155,6 +11163,12 @@
   "handcrafted:recipes/misc/terracotta_medium_pot": {
     "criteria": {
       "has_terracotta_medium_pot": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-06 22:55:27 +0000"
     },
     "done": true
   },
@@ -11178,7 +11192,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:51:57 +0000"
+      "log_spam_fixer": "2025-06-06 22:57:57 +0000"
     },
     "done": false
   },
@@ -11220,7 +11234,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:51:57 +0000"
+      "log_spam_fixer": "2025-06-06 22:57:57 +0000"
     },
     "done": false
   },
@@ -11250,13 +11264,13 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:51:57 +0000"
+      "log_spam_fixer": "2025-06-06 22:57:57 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:51:57 +0000"
+      "log_spam_fixer": "2025-06-06 22:57:57 +0000"
     },
     "done": false
   },
@@ -11304,7 +11318,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:51:57 +0000"
+      "log_spam_fixer": "2025-06-06 22:57:57 +0000"
     },
     "done": false
   },
@@ -11328,13 +11342,13 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:51:57 +0000"
+      "log_spam_fixer": "2025-06-06 22:57:57 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:51:57 +0000"
+      "log_spam_fixer": "2025-06-06 22:57:57 +0000"
     },
     "done": false
   },
@@ -11358,7 +11372,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:51:57 +0000"
+      "log_spam_fixer": "2025-06-06 22:57:57 +0000"
     },
     "done": false
   },
@@ -11482,12 +11496,17 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
-      "requirement": "2025-06-06 22:52:48 +0000",
-      "log_spam_fixer": "2025-06-06 22:51:57 +0000"
+      "has_rabbit": "2025-06-06 22:57:48 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 22:57:57 +0000"
+    },
+    "done": false
   },
   "handcrafted:recipes/misc/terracotta_cup": {
     "criteria": {
@@ -11516,6 +11535,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-06 22:17:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-06-06 22:57:48 +0000"
     },
     "done": true
   },
@@ -11557,7 +11582,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:51:57 +0000"
+      "log_spam_fixer": "2025-06-06 22:57:57 +0000"
     },
     "done": false
   },
@@ -11576,6 +11601,18 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-06-06 21:29:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-06 22:56:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-06-06 22:57:48 +0000"
     },
     "done": true
   },
@@ -11599,9 +11636,15 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:51:57 +0000"
+      "log_spam_fixer": "2025-06-06 22:57:57 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-06 22:55:27 +0000"
+    },
+    "done": true
   },
   "cratedelight:recipes/building_blocks/salmon_crate": {
     "criteria": {
