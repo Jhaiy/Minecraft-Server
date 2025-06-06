@@ -11147,3 +11147,18 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	... 29 more
 [23:19:48] [Server thread/INFO]: Saving the game (this may take a moment!)
 [23:19:48] [Server thread/INFO]: Saved the game
+[23:20:04] [Server thread/INFO]: [Raijinn: Teleported Raijinn to Meruxz]
+[23:21:07] [Server thread/INFO]: [Raijinn: Teleported Raijinn to -3917.500000, 82.500000, -2998.500000]
+[23:21:08] [Server thread/INFO]: [Meruxz: Teleported Meruxz to -3938.500000, 74.500000, -3054.500000]
+[23:22:31] [Server thread/INFO]: [Raijinn: Teleported Raijinn to -6703.500000, 77.500000, 1189.500000]
+[23:22:36] [Server thread/INFO]: [Raijinn: Teleported Raijinn to -6596.500000, 82.500000, 1222.500000]
+[23:22:55] [Server thread/INFO]: [Meruxz: Teleported Meruxz to -4407.500000, 69.500000, -4583.500000]
+[23:23:10] [Server thread/INFO]: [Meruxz: Teleported Meruxz to -4541.500000, 69.500000, -4579.500000]
+[23:23:15] [Server thread/INFO]: [Raijinn: Teleported Raijinn to -3917.500000, 82.500000, -2998.500000]
+[23:23:56] [Server thread/INFO]: [Meruxz: Teleported Meruxz to -4455.500000, 63.500000, -4779.500000]
+[23:24:04] [Server thread/INFO]: [Raijinn: Teleported Raijinn to -6598.500000, 80.500000, 1203.500000]
+[23:24:11] [Server thread/INFO]: [Raijinn: Teleported Raijinn to -6551.500000, 78.500000, 1117.500000]
+[23:24:31] [Server thread/INFO]: [Raijinn: Teleported Raijinn to -6487.500000, 75.500000, 1109.500000]
+[23:24:42] [Server thread/INFO]: [Raijinn: Teleported Raijinn to Meruxz]
+[23:25:33] [Server thread/INFO]: Saving the game (this may take a moment!)
+[23:25:33] [Server thread/INFO]: Saved the game
