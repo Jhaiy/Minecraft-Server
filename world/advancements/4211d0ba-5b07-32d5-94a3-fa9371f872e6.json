@@ -10728,6 +10728,30 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 23:19:30 +0000"
+    },
+    "done": false
+  },
+  "clutter:recipes/decorations/crimson_wall_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-06 23:19:40 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/cherry_wall_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-06 23:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-06 23:19:40 +0000"
+    },
+    "done": true
+  },
   "labels:recipes/label": {
     "criteria": {
       "has_paper": "2025-06-06 23:09:53 +0000"
@@ -10740,11 +10764,53 @@
     },
     "done": false
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 23:19:30 +0000"
+    },
+    "done": false
+  },
+  "clutter:recipes/decorations/redwood_wall_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-06 23:19:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 23:19:30 +0000"
+    },
+    "done": false
+  },
   "candlelight:recipes/letter_open": {
     "criteria": {
       "has_paper": "2025-06-06 23:09:53 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 23:19:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 23:19:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-06 23:19:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 23:19:30 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/decorations/dark_oak_cabinet": {
     "criteria": {
@@ -10758,9 +10824,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-06 23:19:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 23:19:30 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-06-06 22:35:01 +0000"
+    },
+    "done": true
+  },
+  "beautify:bookstack": {
+    "criteria": {
+      "requirement": "2025-06-06 23:19:40 +0000"
     },
     "done": true
   },
@@ -10770,9 +10854,39 @@
     },
     "done": true
   },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 23:19:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 23:19:30 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-06-06 22:35:01 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/warped_wall_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-06 23:19:40 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/birch_wall_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-06 23:19:40 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/mangrove_wall_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-06 23:19:40 +0000"
     },
     "done": true
   },
@@ -10788,15 +10902,39 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 23:19:30 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "campfire": "2025-06-06 22:17:47 +0000"
     },
     "done": true
   },
+  "clutter:recipes/decorations/acacia_wall_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-06 23:19:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-06-06 21:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-06 23:19:40 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/spruce_wall_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-06 23:19:40 +0000"
     },
     "done": true
   },
@@ -10818,6 +10956,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2025-06-06 23:19:40 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/present": {
     "criteria": {
       "has_paper": "2025-06-06 23:09:53 +0000"
@@ -10829,6 +10973,18 @@
       "has_item": "2025-06-06 23:09:53 +0000"
     },
     "done": true
+  },
+  "clutter:recipes/decorations/bamboo_wall_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-06 23:19:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 23:19:30 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/book": {
     "criteria": {
@@ -10853,6 +11009,12 @@
       "killed_mauler": "2025-06-06 22:57:10 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-06 23:19:30 +0000"
+    },
+    "done": false
   },
   "clutter:recipes/misc/red_present": {
     "criteria": {
