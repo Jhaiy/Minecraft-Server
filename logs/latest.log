@@ -835,3 +835,872 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [20:57:13] [main/INFO]: Registering C2S receiver with id candlelight:sign_note
 [20:57:13] [main/INFO]: Hello Fabric world!
 [20:57:13] [main/INFO]: [STDOUT]: All 6 have been set properly
+[20:57:15] [main/INFO]: [Clutter] Finished initializing.
+[20:57:15] [main/INFO]: Loading Collective version 8.3.
+[20:57:15] [main/INFO]: Initialized entity types.
+[20:57:15] [main/INFO]: ConstructionWand says hello - may the odds be ever in your favor.
+[20:57:28] [main/INFO]: Reflections took 8469 ms to scan 502 urls, producing 13971 keys and 93156 values
+[20:57:34] [main/INFO]: Registering items for Create Deco
+[20:57:34] [main/INFO]: Registering blocks for Create Deco
+[20:57:34] [main/INFO]: Create Deco is accessing Porting Lib on a Fabric server!
+[20:57:35] [main/INFO]: placard tooltip was null
+[20:57:35] [main/INFO]: placard tooltip was null
+[20:57:35] [main/INFO]: placard tooltip was null
+[20:57:35] [main/INFO]: placard tooltip was null
+[20:57:35] [main/INFO]: placard tooltip was null
+[20:57:35] [main/INFO]: placard tooltip was null
+[20:57:35] [main/INFO]: placard tooltip was null
+[20:57:35] [main/INFO]: placard tooltip was null
+[20:57:35] [main/INFO]: placard tooltip was null
+[20:57:35] [main/INFO]: placard tooltip was null
+[20:57:35] [main/INFO]: placard tooltip was null
+[20:57:35] [main/INFO]: placard tooltip was null
+[20:57:35] [main/INFO]: placard tooltip was null
+[20:57:35] [main/INFO]: placard tooltip was null
+[20:57:35] [main/INFO]: placard tooltip was null
+[20:57:35] [main/INFO]: general
+[20:57:35] [main/INFO]: individual
+[20:57:35] [main/INFO]: Saving config because the loaded bug fixes are different to stored json.
+[20:57:35] [main/INFO]: Saving Debugify
+[20:57:35] [main/INFO]: Enabled 2 bug fixes: [MC-89146, MC-199467]
+[20:57:35] [main/INFO]: Successfully Debugify'd your game!
+[20:57:35] [main/ERROR]: No data fixer registered for crystallized_amber
+[20:57:35] [main/ERROR]: No data fixer registered for sculk_jaw
+[20:57:35] [main/INFO]: Constructing common components for diagonalblocks:main
+[20:57:35] [main/INFO]: Constructing common components for diagonalfences:main
+[20:57:35] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 48ms
+[20:57:35] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 63ms
+[20:57:35] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 147ms
+[20:57:35] [main/INFO]: Constructing common components for diagonalwalls:main
+[20:57:35] [main/INFO]: Constructing shapes for DiagonalWallBlock[NodeWidth=0.0,ExtensionWidth=3.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 42ms
+[20:57:35] [main/INFO]: Constructing shapes for DiagonalWallBlock[NodeWidth=0.0,ExtensionWidth=3.0,NodeTop=0.0,ExtensionBottom=0.0,ExtensionTop=14.0] took 84ms
+[20:57:35] [main/INFO]: Constructing shapes for DiagonalWallBlock[NodeWidth=4.0,ExtensionWidth=3.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=14.0] took 112ms
+[20:57:36] [main/INFO]: Constructing shapes for DiagonalWallBlock[NodeWidth=4.0,ExtensionWidth=3.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 43ms
+[20:57:36] [main/INFO]: Constructing common components for diagonalwindows:main
+[20:57:36] [main/INFO]: Constructing shapes for DiagonalStainedGlassPaneBlock[NodeWidth=1.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 30ms
+[20:57:37] [main/INFO]: Initializing DriedGhastMod
+[20:57:37] [main/INFO]: [DRIPPY LOADING SCREEN] Loading v3.0.12 in server-side mode on FABRIC!
+[20:57:37] [main/INFO]: Loaded config dummmmmmy-common.json
+[20:57:37] [main/WARN]: Lithium detected. MmmMmmMmmMmm scarecrow mode might not work well due to a lithium bug (the mod doesnt have a way to add goals to new entities)
+[20:57:37] [main/INFO]: Constructing common components for easyanvils:main
+[20:57:37] [main/INFO]: Constructing common components for easymagic:main
+[20:57:37] [main/INFO]: Registering Item Group for ends_delight
+[20:57:37] [main/INFO]: Registering Mod Blocks for ends_delight
+[20:57:37] [main/INFO]: Registering Mod Features for ends_delight
+[20:57:37] [main/INFO]: Successfully loaded config 'fallingtrees_common'
+[20:57:37] [main/INFO]: Successfully saved config 'fallingtrees_common'
+[20:57:37] [main/INFO]: [FANCYMENU] Loading v3.5.0 in server-side mode on FABRIC!
+[20:57:37] [main/INFO]: Farmer's Knives loaded!
+[20:57:39] [main/INFO]: Registering Particles for frozenlib
+[20:57:41] [main/INFO]: Loading config FrozenLibConfig from frozenlib
+[20:57:41] [main/INFO]: Saving config FrozenLibConfig from frozenlib
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbfiltersystem:sync_filter
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbquests:submit_task
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbquests:claim_reward
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbquests:get_emergency_items
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbquests:claim_all_rewards
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbquests:claim_choice_reward
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbquests:toggle_pinned
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbquests:toggle_chapter_pinned
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbquests:toggle_editing_mode
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbquests:force_save
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbquests:set_custom_image
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbquests:task_screen_config_resp
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbquests:change_progress
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbquests:create_object
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbquests:create_task_at
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbquests:delete_object
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbquests:edit_object
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbquests:move_chapter
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbquests:move_quest
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbquests:change_chapter_group
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbquests:move_chapter_group
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbquests:copy_quest
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbquests:copy_chapter_image
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbquests:sync_structures_request
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbquests:request_team_data
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbteams:open_gui
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbteams:update_settings
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbteams:send_message
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbteams:create_party
+[20:57:41] [main/INFO]: Registering C2S receiver with id ftbteams:player_gui_operation
+[20:57:42] [main/INFO]: Hello Fabric world!
+[20:57:42] [main/INFO]: Registering Mod Entities for homestead
+[20:57:42] [main/INFO]: File exists, reading config for elocindev.item_obliterator.fabric_quilt.config.ConfigEntries.
+[20:57:42] [main/INFO]: Config for elocindev.item_obliterator.fabric_quilt.config.ConfigEntries read successfully.
+[20:57:42] [main/INFO]: Item Obliterator Config Loaded
+[20:57:42] [main/INFO]: Initializing JamLib on Fabric
+[20:57:42] [main/INFO]: Hello Fabric world!
+[20:57:42] [main/INFO]: Processing 5 KiwiModule annotations
+[20:57:42] [main/INFO]: Module [kiwi:contributors] initialized
+[20:57:42] [main/INFO]: Module [kiwi:block_templates] initialized
+[20:57:42] [main/INFO]: Module [kiwi:block_components] initialized
+[20:57:42] [main/INFO]: Module [kiwi:data] initialized
+[20:57:42] [main/INFO]: 		recipe_serializer: 3
+[20:57:42] [main/INFO]: Module [kiwi:item_templates] initialized
+[20:57:42] [main/INFO]: [KONKRETE] Successfully initialized!
+[20:57:42] [main/INFO]: [KONKRETE] Server-side libs ready to use!
+[20:57:42] [main/INFO]: Ksyxis: Booting... (platform: Fabric, manual: false)
+[20:57:42] [main/INFO]: Ksyxis: Found Mixin library. (version: 0.8.7)
+[20:57:42] [main/INFO]: Ksyxis: Ready. As always, this mod will speed up your world loading and might or might not break it. (1 ms)
+[20:57:42] [main/INFO]: Loaded common.properties
+[20:57:42] [main/INFO]: Loaded dev.properties
+[20:57:42] [main/INFO]: Looking for KubeJS plugins...
+[20:57:42] [main/INFO]: Found plugin source kubejs
+[20:57:42] [main/WARN]: Plugin dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricClientPlugin does not load on server side, skipping
+[20:57:42] [main/INFO]: Found plugin source sawmill
+[20:57:42] [main/INFO]: Found plugin source ftbxmodcompat
+[20:57:42] [main/WARN]: Plugin dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin does not have required mod ftbchunks loaded, skipping
+[20:57:42] [main/INFO]: Done in 29.16 ms
+[20:57:42] [main/INFO]: [FTB Quests] Enabled KubeJS integration
+[20:57:42] [main/INFO]: Loading Rhino Minecraft remapper...
+[20:57:42] [main/INFO]: Rhino properties loaded.
+[20:57:42] [main/INFO]: Loading mappings for 1.20.1
+[20:57:42] [main/INFO]: Done in 0.104 s
+[20:57:43] [main/INFO]: Loaded script startup_scripts:homestead.js in 0.049 s
+[20:57:43] [main/INFO]: example.js#5: Hello, World! (Loaded startup scripts)
+[20:57:43] [main/INFO]: Loaded script startup_scripts:example.js in 0.001 s
+[20:57:43] [main/INFO]: Loaded 2/2 KubeJS startup scripts in 0.989 s with 0 errors and 0 warnings
+[20:57:43] [main/INFO]: Registering C2S receiver with id kubejs:send_data_from_client
+[20:57:43] [main/INFO]: Registering C2S receiver with id kubejs:first_click
+[20:57:43] [main/INFO]: Lamps: Hello from Decorative Lamps!
+[20:57:43] [main/INFO]: Lamps: Register Item Groups
+[20:57:43] [main/INFO]: lamps Register Items
+[20:57:44] [main/INFO]: Lamps: Register Blocks
+[20:57:44] [main/INFO]: lamps: Register Effects
+[20:57:44] [main/INFO]: lamps: Load Configs
+[20:57:44] [main/INFO]: You shall not Json my recipes !
+[20:57:44] [main/INFO]: Initialize mod Library Ferret
+[20:57:44] [main/INFO]: Initialized mod Library Ferret
+[20:57:44] [main/INFO]: [LMFT]: Loaded Config File!
+[20:57:44] [main/INFO]: Initializing LuphieclutteredmodMod
+[20:57:45] [main/INFO]: [MELODY] Disabling Melody since it's loaded server-side.
+[20:57:45] [main/INFO]: Definitely not up to no good
+[20:57:45] [main/INFO]: MobExplosionGriefingGamerule is loaded!
+[20:57:45] [main/WARN]: [MODERN WORLD CREATION] Disabling 'Modern World Creation' since it's a client-side mod and current environment is server!
+[20:57:45] [main/INFO]: Initializing ModrinthLogoModMod
+[20:57:45] [main/INFO]: Registering Mythic Items for mythicupgrades
+[20:57:45] [main/INFO]: Registering Mythic Blocks for mythicupgrades
+[20:57:45] [main/INFO]: Registering resource pack 32x...
+[20:57:45] [main/INFO]: Successfully registered resource pack 32x.
+[20:57:45] [main/INFO]: Mythic Upgrades works properly! CAN, ANNENE SELAMLAR KARDESIM! <3
+[20:57:45] [main/INFO]: Chase your dreams, no matter the cost. Don't wait for invitations, take action. Making a decision, starting something - that's half the battle of achieving success.
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: sugi_forest
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: windswept_sugi_forest
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: blooming_sugi_forest
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: lavender_fields
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: marsh
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: bamboo_wetlands
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: wisteria_forest
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: redwood_forest
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: snowy_redwood_forest
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: aspen_forest
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: maple_woodlands
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: golden_wilds
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: marigold_meadows
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: fir_forest
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: snowy_fir_forest
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: cypress_fields
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: carnation_fields
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: stratified_desert
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: blooming_dunes
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: lively_dunes
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: drylands
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: wooded_drylands
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: xeric_plains
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: cedar_thicket
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: white_cliffs
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: prairie
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: oak_savanna
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: heather_fields
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: tundra
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: alpine_clearings
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: alpine_highlands
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: coniferous_covert
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: boreal_taiga
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: tropical_shores
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: tropical_woods
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: sparse_tropical_woods
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: tropical_basin
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: arid_savanna
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: scorched_dunes
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: flowering_shrubland
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: shrubland
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: arid_highlands
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: shrubby_highlands
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: woody_highlands
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: red_peaks
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: dusty_slopes
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: snowcapped_red_peaks
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: sleeted_slopes
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: blooming_highlands
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: chaparral
+[20:57:45] [main/INFO]: [STDOUT]: Registered Resource Key for biome: floral_ridges
+[20:57:45] [main/INFO]: Necronomicon Initialized
+[20:57:45] [main/INFO]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
+[20:57:45] [main/INFO]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
+[20:57:45] [main/INFO]: KONNICHIWA ZA WARUDO!
+[20:57:45] [main/INFO]: Default JVM text encoding is: UTF-8
+[20:57:45] [main/INFO]: Reading config file NoChatReports/NCR-Common.json...
+[20:57:45] [main/INFO]: Writing config file NoChatReports/NCR-Common.json...
+[20:57:45] [main/INFO]: Loading Noisium.
+[20:57:45] [main/INFO]: Registering Items for oceansdelight
+[20:57:45] [main/INFO]: Registering Blocks for oceansdelight
+[20:57:45] [main/INFO]: Registering tabs for oceansdelight
+[20:57:45] [main/INFO]: [Omnilib] [OmniLib] A new frontier begins.
+[20:57:45] [main/INFO]: Noaaan: I'm talking to my inner demons. Which is all of you
+[20:57:45] [main/INFO]: Packet Fixer has been initialized successfully
+[20:57:46] [main/INFO]: Hello Fabric world!
+[20:57:46] [main/INFO]: Initializing PneumonoCore
+[20:57:46] [main/INFO]: Constructing common components for puzzlesapi:iteminteractions
+[20:57:46] [main/INFO]: Constructing common components for puzzlesapi:slotcycling
+[20:57:46] [main/INFO]: Constructing common components for puzzlesapi:limitlesscontainers
+[20:57:46] [main/INFO]: Constructing common components for puzzlesapi:statues
+[20:57:46] [main/INFO]: Constructing common components for puzzleslib:main
+[20:57:46] [main/INFO]: Registering C2S receiver with id questsadditions:submit_structure
+[20:57:46] [main/INFO]: Steam 'n' Rails v1.6.9 initializing! Commit hash: 1219c3f788bf8add5c41073bcf9326c5815c2818 on Create version: 0.5.1j on platform: Fabric
+[20:57:46] [main/INFO]: Registered bogey styles from railways
+[20:57:46] [main/INFO]: Registering data fixers
+[20:57:46] [main/INFO]: 0 Datafixer optimizations took 0 milliseconds
+[20:57:46] [main/INFO]: Registering tracks for Hex Casting
+[20:57:46] [main/INFO]: Registering tracks for Oh The Biomes You'll Go
+[20:57:46] [main/INFO]: Registering tracks for Blue Skies
+[20:57:46] [main/INFO]: Registering tracks for Twilight Forest
+[20:57:46] [main/INFO]: Registering tracks for Biomes O' Plenty
+[20:57:46] [main/INFO]: Registering tracks for Nature's Spirit
+[20:57:46] [main/INFO]: Registering tracks for Dreams and Desires
+[20:57:46] [main/INFO]: Registering tracks for Quark
+[20:57:46] [main/INFO]: Registering tracks for TerraFirmaCraft
+[20:57:46] [main/INFO]: Initializing RecipeGeneratorMod
+[20:57:47] [main/INFO]: Reflections took 7 ms to scan 1 urls, producing 6 keys and 40 values
+[20:57:47] [main/INFO]: Reflections took 8 ms to scan 1 urls, producing 6 keys and 40 values
+[20:57:47] [main/INFO]: Registering Ribbit instruments...
+[20:57:47] [main/INFO]: Registering Ribbit umbrella types...
+[20:57:47] [main/INFO]: Registering Ribbit professions...
+[20:57:47] [main/INFO]: Registering Ribbit data serializers...
+[20:57:47] [main/INFO]: Updated config file at /workspaces/Minecraft-Server/config/rightclickharvest.json5
+[20:57:47] [main/INFO]: Initializing Right Click Harvest on FABRIC
+[20:57:47] [main/INFO]: Loading config SimpleCopperPipesConfig from simple_copper_pipes
+[20:57:47] [main/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[20:57:47] [main/INFO]: [Spawn Animations] MidnightLib detected!
+[20:57:47] [main/INFO]: [Spawn Animations] Registering server started event ...
+[20:57:47] [main/INFO]: [Spawn Animations] Loaded Spawn Animations by Tschipcraft successfully!
+[20:57:47] [main/INFO]: Loaded config spelunkery-common.json
+[20:57:47] [main/INFO]: Creating asynchronous mapping cache executor...
+[20:57:47] [Mappings Cache Thread #1/INFO]: Verifying cache of yarn mappings...
+[20:57:47] [Mappings Cache Thread #1/INFO]: Refreshing latest yarn build (last refresh was 49 hour(s) ago)...
+[20:57:47] [Mappings Cache Thread #1/INFO]: Fetching latest yarn build...
+[20:57:48] [Mappings Cache Thread #1/INFO]: Trying to request GET https://maven.fabricmc.net/net/fabricmc/yarn/maven-metadata.xml... (try #0)
+[20:57:48] [main/INFO]: [Stendhal] Initializing
+[20:57:48] [main/INFO]: New compacting rule 4 clay_ball = 1 clay
+[20:57:48] [main/INFO]: New compacting rule 4 snowball = 1 snow_block
+[20:57:48] [main/INFO]: New compacting rule 4 glowstone_dust = 1 glowstone
+[20:57:48] [main/INFO]: New compacting rule 4 brick = 1 bricks
+[20:57:48] [main/INFO]: New compacting rule 4 nether_brick = 1 nether_bricks
+[20:57:48] [main/INFO]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[20:57:48] [main/INFO]: New compacting rule 4 quartz = 1 quartz_block
+[20:57:48] [main/INFO]: New compacting rule 9 melon_slice = 1 melon
+[20:57:48] [main/INFO]: New compacting rule 4 clay_ball = 1 clay
+[20:57:48] [main/INFO]: Loaded config supplementaries-common.json
+[20:57:48] [Mappings Cache Thread #1/INFO]: Received 132484 bytes (129 KB) with status 200 from GET https://maven.fabricmc.net/net/fabricmc/yarn/maven-metadata.xml in 551ms
+[20:57:48] [main/INFO]: Loaded config suppsquared-common.json
+[20:57:48] [main/INFO]: TameableMinisheep by thecolonel63 initialized!
+[20:57:48] [main/INFO]: TameableMossbloom by thecolonel63 initialized!
+[20:57:48] [Mappings Cache Thread #1/INFO]: Cached latest yarn build version: 1.20.1+build.10
+[20:57:48] [Mappings Cache Thread #1/INFO]: Mappings for yarn build 1.20.1+build.10 are already downloaded
+[20:57:48] [Mappings Cache Thread #1/INFO]: Verified cache of yarn mappings (took 1065ms)
+[20:57:48] [Mappings Cache Thread #1/INFO]: Parsing yarn mappings...
+[20:57:48] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[20:57:48] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[20:57:48] [main/INFO]: Registered region biomeswevegone:region_0 to index 1 for type OVERWORLD
+[20:57:48] [main/INFO]: Registered region biomeswevegone:region_1 to index 2 for type OVERWORLD
+[20:57:48] [main/INFO]: Registered region biomeswevegone:region_2 to index 3 for type OVERWORLD
+[20:57:48] [main/INFO]: Registered region clutter:overworld to index 4 for type OVERWORLD
+[20:57:48] [main/INFO]: Registered region natures_spirit:terra_ferax to index 5 for type OVERWORLD
+[20:57:48] [main/INFO]: Registered region natures_spirit:terra_solaris to index 6 for type OVERWORLD
+[20:57:48] [main/INFO]: Registered region natures_spirit:terra_flava to index 7 for type OVERWORLD
+[20:57:48] [main/INFO]: Registered region natures_spirit:terra_mater to index 8 for type OVERWORLD
+[20:57:48] [main/INFO]: Registered region natures_spirit:terra_laeta to index 9 for type OVERWORLD
+[20:57:48] [main/INFO]: Registered region palegardenbackport:overworld to index 10 for type OVERWORLD
+[20:57:48] [main/INFO]: Registered region regions_unexplored:primary to index 11 for type OVERWORLD
+[20:57:48] [main/INFO]: Registered region regions_unexplored:secondary to index 12 for type OVERWORLD
+[20:57:48] [main/INFO]: Registered region regions_unexplored:nether to index 1 for type NETHER
+[20:57:49] [main/INFO]: Tom's Storage Setup starting
+[20:57:49] [Mappings Cache Thread #1/INFO]: Parsed yarn mappings (took 431ms)
+[20:57:49] [Mappings Cache Thread #1/INFO]: Caching yarn mappings...
+[20:57:49] [Mappings Cache Thread #1/INFO]: Cached yarn mappings (took 68ms)
+[20:57:49] [Mappings Cache Thread #1/INFO]: Cached mappings have been built (took 1569ms)
+[20:57:49] [Mappings Cache Thread #1/INFO]:   Classes: 6741
+[20:57:49] [Mappings Cache Thread #1/INFO]:   Methods: 24982
+[20:57:49] [Mappings Cache Thread #1/INFO]:   Fields: 28829
+[20:57:49] [ForkJoinPool.commonPool-worker-1/INFO]: Shutting down asynchronous mapping cache executor...
+[20:57:49] [ForkJoinPool.commonPool-worker-1/INFO]: Injecting into root logger...
+[20:57:49] [main/INFO]: Seizing the means of block placement!
+[20:57:49] [main/INFO]: [STDOUT]: TxniLib onInitialize!
+[20:57:49] [main/INFO]: Initialising Umbrellas
+[20:57:49] [main/INFO]: Constructing common components for universalbonemeal:main
+[20:57:49] [main/INFO]: Registered JSON trade offer adapter.
+[20:57:50] [main/INFO]: [voicechat] Compatibility version 18
+[20:57:50] [main/INFO]: [voicechat] Loading plugins
+[20:57:50] [main/INFO]: [voicechat] Loaded 1 plugin(s)
+[20:57:50] [main/INFO]: [voicechat] Initializing plugins
+[20:57:50] [main/INFO]: Initializing Simple Voice Chat integration
+[20:57:50] [main/INFO]: [voicechat] Initialized 1 plugin(s)
+[20:57:50] [main/INFO]: [voicechat] Registering events for 'sound_physics_remastered'
+[20:57:50] [main/INFO]: File exists, reading config for elocindev.welcomescreen.config.entries.MainConfig.
+[20:57:50] [main/INFO]: Config for elocindev.welcomescreen.config.entries.MainConfig read successfully.
+[20:57:50] [main/INFO]: Registering C2S receiver with id wildernature:screen_action
+[20:57:50] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 4 values
+[20:57:50] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 4 values
+[20:57:50] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[20:57:50] [main/INFO]: Reflections took 0 ms to scan 1 urls, producing 1 keys and 2 values
+[20:57:50] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[20:57:50] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[20:57:50] [main/INFO]: Setting game stages provider implementation to: KubeJS Stages
+[20:57:50] [main/INFO]: Chose [KubeJS Stages] as the active game stages implementation
+[20:57:50] [main/INFO]: Chose [FALLBACK] as the active permissions implementation
+[20:57:50] [main/INFO]: [FTB Quests] recipe helper provider is [NO-OP]
+[20:57:50] [main/INFO]: [FTB Quests] Enabled FTB Filter System integration
+[20:57:50] [main/INFO]: Deserializing ControlifyServerConfig from './config/controlify.json'
+[20:57:50] [main/INFO]: Serializing class dev.isxander.controlify.server.ControlifyServerConfig to './config/controlify.json'
+[20:57:50] [main/INFO]: Reach-around policy: true
+[20:57:50] [main/INFO]: No-fly drift policy: true
+[20:57:50] [main/INFO]: Enforce keyboard-like movement: false
+[20:57:51] [main/INFO]: Initialized block sets in 86ms
+[20:57:51] [main/INFO]: Loaded config smarterfarmers-common.json
+[20:57:51] [main/INFO]: Loaded config moonlight-common.json
+[20:57:51] [main/INFO]: Loaded config sawmill-common.json
+[20:57:51] [main/INFO]: Initialized color sets in 170ms
+[20:57:51] [main/INFO]: Finished mod setup in: [0] ms
+[20:57:51] [main/INFO]: Finished mod setup in: [0, 0, 0, 1, 0, 0, 17, 9, 1] ms
+[20:57:51] [main/INFO]: Reloaded configs for mousewheelie (server/highest)
+[20:57:51] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[20:57:51] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[20:57:51] [main/INFO]: Preparing Data Pack injection.
+[20:57:51] [main/INFO]: Loaded archive Data Pack from /workspaces/Minecraft-Server/./config/openloader/data/Homestead DarkSmelting.zip.
+[20:57:51] [main/WARN]: Missing metadata in pack data/Homestead Spelunkery.zip
+[20:57:51] [main/INFO]: Loaded archive Data Pack from /workspaces/Minecraft-Server/./config/openloader/data/Repurposed_Structures-Farmers_Delight_v6.zip.
+[20:57:51] [main/INFO]: Loaded archive Data Pack from /workspaces/Minecraft-Server/./config/openloader/data/Repurposed_Structures-VillagersPlus_v3.zip.
+[20:57:51] [main/INFO]: Loaded archive Data Pack from /workspaces/Minecraft-Server/./config/openloader/data/Homestead Lunar Events.zip.
+[20:57:51] [main/INFO]: Loaded archive Data Pack from /workspaces/Minecraft-Server/./config/openloader/data/Tokimis-Terrain-v1.1.zip.
+[20:57:51] [main/INFO]: Loaded archive Data Pack from /workspaces/Minecraft-Server/./config/openloader/data/tokimi.-Tokimi-emojiful-datapack.zip.
+[20:57:51] [main/INFO]: Loaded archive Data Pack from /workspaces/Minecraft-Server/./config/openloader/data/Repurposed_Structures-Better_Dungeons_v5.zip.
+[20:57:51] [main/INFO]: Loaded archive Data Pack from /workspaces/Minecraft-Server/./config/openloader/data/Repurposed_Structures-Chef's_Delight_v3.zip.
+[20:57:51] [main/INFO]: Successfully injected 8/8 packs from /workspaces/Minecraft-Server/./config/openloader/data.
+[20:57:51] [main/INFO]: Preparing Data Pack injection.
+[20:57:51] [main/INFO]: Loaded archive Data Pack from /workspaces/Minecraft-Server/./config/openloader/data/Homestead DarkSmelting.zip.
+[20:57:51] [main/WARN]: Missing metadata in pack data/Homestead Spelunkery.zip
+[20:57:51] [main/INFO]: Loaded archive Data Pack from /workspaces/Minecraft-Server/./config/openloader/data/Repurposed_Structures-Farmers_Delight_v6.zip.
+[20:57:51] [main/INFO]: Loaded archive Data Pack from /workspaces/Minecraft-Server/./config/openloader/data/Repurposed_Structures-VillagersPlus_v3.zip.
+[20:57:51] [main/INFO]: Loaded archive Data Pack from /workspaces/Minecraft-Server/./config/openloader/data/Homestead Lunar Events.zip.
+[20:57:51] [main/INFO]: Loaded archive Data Pack from /workspaces/Minecraft-Server/./config/openloader/data/Tokimis-Terrain-v1.1.zip.
+[20:57:51] [main/INFO]: Loaded archive Data Pack from /workspaces/Minecraft-Server/./config/openloader/data/tokimi.-Tokimi-emojiful-datapack.zip.
+[20:57:51] [main/INFO]: Loaded archive Data Pack from /workspaces/Minecraft-Server/./config/openloader/data/Repurposed_Structures-Better_Dungeons_v5.zip.
+[20:57:51] [main/INFO]: Loaded archive Data Pack from /workspaces/Minecraft-Server/./config/openloader/data/Repurposed_Structures-Chef's_Delight_v3.zip.
+[20:57:51] [main/INFO]: Successfully injected 8/8 packs from /workspaces/Minecraft-Server/./config/openloader/data.
+[20:57:51] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:57:52] [main/INFO]: Preparing Data Pack injection.
+[20:57:52] [main/INFO]: Loaded archive Data Pack from /workspaces/Minecraft-Server/./config/openloader/data/Homestead DarkSmelting.zip.
+[20:57:52] [main/WARN]: Missing metadata in pack data/Homestead Spelunkery.zip
+[20:57:52] [main/INFO]: Loaded archive Data Pack from /workspaces/Minecraft-Server/./config/openloader/data/Repurposed_Structures-Farmers_Delight_v6.zip.
+[20:57:52] [main/INFO]: Loaded archive Data Pack from /workspaces/Minecraft-Server/./config/openloader/data/Repurposed_Structures-VillagersPlus_v3.zip.
+[20:57:52] [main/INFO]: Loaded archive Data Pack from /workspaces/Minecraft-Server/./config/openloader/data/Homestead Lunar Events.zip.
+[20:57:52] [main/INFO]: Loaded archive Data Pack from /workspaces/Minecraft-Server/./config/openloader/data/Tokimis-Terrain-v1.1.zip.
+[20:57:52] [main/INFO]: Loaded archive Data Pack from /workspaces/Minecraft-Server/./config/openloader/data/tokimi.-Tokimi-emojiful-datapack.zip.
+[20:57:52] [main/INFO]: Loaded archive Data Pack from /workspaces/Minecraft-Server/./config/openloader/data/Repurposed_Structures-Better_Dungeons_v5.zip.
+[20:57:52] [main/INFO]: Loaded archive Data Pack from /workspaces/Minecraft-Server/./config/openloader/data/Repurposed_Structures-Chef's_Delight_v3.zip.
+[20:57:52] [main/INFO]: Successfully injected 8/8 packs from /workspaces/Minecraft-Server/./config/openloader/data.
+[20:57:52] [main/INFO]: Generated runtime resources for 4 packs in a total of: 68 ms
+[20:57:52] [main/INFO]: Generated runtime resources for 4 packs in a total of: 24 ms
+[20:57:52] [main/INFO]: example.js#5: Hello, World! (Loaded server scripts)
+[20:57:52] [main/INFO]: Loaded script server_scripts:example.js in 0.001 s
+[20:57:52] [main/INFO]: Loaded 1/1 KubeJS server scripts in 0.017 s with 0 errors and 0 warnings
+[20:57:52] [main/INFO]: Scripts loaded
+[20:57:54] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[20:57:55] [Worker-Main-3/ERROR]: [Load My Fucking Tags] Couldn't load certain entries with the tag supplementaries:tipped_spikes_blacklist: minecraft:oozing (from fabric), minecraft:infested (from fabric)
+[20:57:55] [Worker-Main-3/ERROR]: [Load My Fucking Tags] Couldn't load certain entries with the tag letsdoaddon-structures:has_structure/mangrove_hut: #bloomingnature:mangrove_swamp (from fabric)
+[20:57:55] [Worker-Main-3/ERROR]: [Load My Fucking Tags] Couldn't load certain entries with the tag letsdoaddon-structures:has_structure/crimson_vinery: #nethervinery:spawns_crimson_grape (from fabric)
+[20:57:55] [Worker-Main-3/ERROR]: [Load My Fucking Tags] Couldn't load certain entries with the tag letsdoaddon-structures:has_structure/warped_vinery: #nethervinery:spawns_warped_grape (from fabric)
+[20:57:55] [Worker-Main-3/ERROR]: [Load My Fucking Tags] Couldn't load certain entries with the tag letsdoaddon-structures:has_structure/mangrove_pond: #bloomingnature:mangrove_swamp (from fabric)
+[20:57:55] [Worker-Main-3/ERROR]: [Load My Fucking Tags] Couldn't load certain entries with the tag letsdoaddon-structures:has_structure/swamp_well: #bloomingnature:mangrove_swamp (from fabric), #bloomingnature:swamp (from fabric)
+[20:57:55] [Worker-Main-3/ERROR]: [Load My Fucking Tags] Couldn't load certain entries with the tag letsdoaddon-structures:has_structure/mangrove_outpost: #bloomingnature:mangrove_swamp (from fabric)
+[20:57:56] [Worker-Main-0/ERROR]: [Load My Fucking Tags] Couldn't load certain entries with the tag bronze:mineable/sickle: minecraft:short_grass (from fabric)
+[20:57:56] [Worker-Main-2/ERROR]: [Load My Fucking Tags] Couldn't load certain entries with the tag morecompvarsns:logs: #natures_spirit:alluaudia_bundles (from fabric)
+[20:57:56] [Worker-Main-2/ERROR]: [Load My Fucking Tags] Couldn't load certain entries with the tag fetzisasiandeco:epic_samurai_weapon: epicsamurai:katana (from fabric), epicsamurai:wakizashi (from fabric), epicsamurai:naginata (from fabric), epicsamurai:nagamaki (from fabric), epicsamurai:shuko (from fabric), epicsamurai:tetsubo (from fabric), epicsamurai:odachi (from fabric), epicsamurai:tonbukiri (from fabric), epicsamurai:kamayari (from fabric), epicsamurai:tanegashima (from fabric), epicsamurai:kunai (from fabric), epicsamurai:kama (from fabric), epicsamurai:sai (from fabric), epicsamurai:shuriken (from fabric), epicsamurai:katana_netherite (from fabric), epicsamurai:wakizashi_netherite (from fabric), epicsamurai:katana_oni (from fabric), epicsamurai:katana_kitsune (from fabric), epicsamurai:katana_kitsune_blue (from fabric), epicsamurai:katana_akaname (from fabric), epicsamurai:katana_jorogumo (from fabric), epicsamurai:naginata_netherite (from fabric), epicsamurai:nagamaki_netherite (from fabric), epicsamurai:shuko_netherite (from fabric), epicsamurai:tetsubo_netherite (from fabric), epicsamurai:odachi_netherite (from fabric), epicsamurai:tonbukiri_netherite (from fabric), epicsamurai:kamayari_netherite (from fabric), epicsamurai:kunai_netherite (from fabric), epicsamurai:kama_netherite (from fabric), epicsamurai:sai_netherite (from fabric)
+[20:57:57] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:letsdoaddon-structures:chests/warped_vinery
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'nethervinery:warped_grape'
+	at net.minecraft.util.JsonHelper.method_17995(JsonHelper.java:145) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.JsonHelper.asItem(JsonHelper.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.util.JsonHelper.getItem(JsonHelper.java:153) ~[server-intermediary.jar:?]
+	at net.minecraft.loot.entry.ItemEntry$Serializer.fromJson(ItemEntry.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.loot.entry.ItemEntry$Serializer.fromJson(ItemEntry.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.loot.entry.LeafEntry$Serializer.fromJson(LeafEntry.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.loot.entry.LeafEntry$Serializer.fromJson(LeafEntry.java:129) ~[server-intermediary.jar:?]
+	at net.minecraft.loot.entry.LootPoolEntry$Serializer.fromJson(LootPoolEntry.java:86) ~[server-intermediary.jar:?]
+	at net.minecraft.loot.entry.LootPoolEntry$Serializer.fromJson(LootPoolEntry.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.util.JsonSerializing$GsonSerializer.deserialize(JsonSerializing.java:102) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.util.JsonHelper.deserialize(JsonHelper.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.util.JsonHelper.deserialize(JsonHelper.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:169) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.util.JsonHelper.deserialize(JsonHelper.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.util.JsonHelper.deserialize(JsonHelper.java:481) ~[server-intermediary.jar:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:250) ~[server-intermediary.jar:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:246) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at net.minecraft.loot.LootDataType.method_51205(LootDataType.java:64) ~[server-intermediary.jar:?]
+	at net.minecraft.loot.LootDataType.parse(LootDataType.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.loot.LootManager.method_51195(LootManager.java:55) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.loot.LootManager.method_51189(LootManager.java:55) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[20:57:57] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:letsdoaddon-structures:chests/crimson_vinery
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'nethervinery:crimson_grape'
+	at net.minecraft.util.JsonHelper.method_17995(JsonHelper.java:145) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.JsonHelper.asItem(JsonHelper.java:145) ~[server-intermediary.jar:?]
+	at net.minecraft.util.JsonHelper.getItem(JsonHelper.java:153) ~[server-intermediary.jar:?]
+	at net.minecraft.loot.entry.ItemEntry$Serializer.fromJson(ItemEntry.java:55) ~[server-intermediary.jar:?]
+	at net.minecraft.loot.entry.ItemEntry$Serializer.fromJson(ItemEntry.java:40) ~[server-intermediary.jar:?]
+	at net.minecraft.loot.entry.LeafEntry$Serializer.fromJson(LeafEntry.java:151) ~[server-intermediary.jar:?]
+	at net.minecraft.loot.entry.LeafEntry$Serializer.fromJson(LeafEntry.java:129) ~[server-intermediary.jar:?]
+	at net.minecraft.loot.entry.LootPoolEntry$Serializer.fromJson(LootPoolEntry.java:86) ~[server-intermediary.jar:?]
+	at net.minecraft.loot.entry.LootPoolEntry$Serializer.fromJson(LootPoolEntry.java:74) ~[server-intermediary.jar:?]
+	at net.minecraft.util.JsonSerializing$GsonSerializer.deserialize(JsonSerializing.java:102) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.util.JsonHelper.deserialize(JsonHelper.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.util.JsonHelper.deserialize(JsonHelper.java:471) ~[server-intermediary.jar:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:173) ~[server-intermediary.jar:?]
+	at net.minecraft.loot.LootPool$Serializer.deserialize(LootPool.java:169) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar:?]
+	at net.minecraft.util.JsonHelper.deserialize(JsonHelper.java:463) ~[server-intermediary.jar:?]
+	at net.minecraft.util.JsonHelper.deserialize(JsonHelper.java:481) ~[server-intermediary.jar:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:250) ~[server-intermediary.jar:?]
+	at net.minecraft.loot.LootTable$Serializer.deserialize(LootTable.java:246) ~[server-intermediary.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar:?]
+	at net.minecraft.loot.LootDataType.method_51205(LootDataType.java:64) ~[server-intermediary.jar:?]
+	at net.minecraft.loot.LootDataType.parse(LootDataType.java:48) ~[server-intermediary.jar:?]
+	at net.minecraft.loot.LootManager.method_51195(LootManager.java:55) ~[server-intermediary.jar:?]
+	at java.util.HashMap.forEach(HashMap.java:1429) ~[?:?]
+	at net.minecraft.loot.LootManager.method_51189(LootManager.java:55) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[20:57:58] [main/INFO]: Intercepted tag results
+[20:57:59] [main/ERROR]: Error while reading recipe container
+[20:57:59] [main/INFO]: Added 82 compatibility recipes !
+[20:58:00] [main/ERROR]: Parsing error loading recipe supplementaries:integration/ash_bricks_fd
+com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
+	at net.minecraft.recipe.Ingredient.entryFromJson(Ingredient.java:167) ~[server-intermediary.jar:?]
+	at net.minecraft.recipe.Ingredient.fromJson(Ingredient.java:143) ~[server-intermediary.jar:?]
+	at net.minecraft.recipe.Ingredient.fromJson(Ingredient.java:135) ~[server-intermediary.jar:?]
+	at vectorwing.farmersdelight.common.crafting.CuttingBoardRecipe$Serializer.fromJson(CuttingBoardRecipe.java:176) ~[FarmersDelight-1.20.1-2.3.0+refabricated.jar:?]
+	at vectorwing.farmersdelight.common.crafting.CuttingBoardRecipe$Serializer.read(CuttingBoardRecipe.java:166) ~[FarmersDelight-1.20.1-2.3.0+refabricated.jar:?]
+	at net.minecraft.recipe.RecipeManager.deserialize(RecipeManager.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.recipe.RecipeManager.apply(RecipeManager.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.recipe.RecipeManager.apply(RecipeManager.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.resource.SinglePreparationResourceReloader.method_18790(SinglePreparationResourceReloader.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.resource.SimpleResourceReload.method_18365(SimpleResourceReload.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.util.Util.waitAndApply(Util.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.util.Util.waitAndApply(Util.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[server.jar:1.0.3]
+[20:58:00] [main/ERROR]: Parsing error loading recipe supplementaries:integration/lapis_bricks_fd
+com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
+	at net.minecraft.recipe.Ingredient.entryFromJson(Ingredient.java:167) ~[server-intermediary.jar:?]
+	at net.minecraft.recipe.Ingredient.fromJson(Ingredient.java:143) ~[server-intermediary.jar:?]
+	at net.minecraft.recipe.Ingredient.fromJson(Ingredient.java:135) ~[server-intermediary.jar:?]
+	at vectorwing.farmersdelight.common.crafting.CuttingBoardRecipe$Serializer.fromJson(CuttingBoardRecipe.java:176) ~[FarmersDelight-1.20.1-2.3.0+refabricated.jar:?]
+	at vectorwing.farmersdelight.common.crafting.CuttingBoardRecipe$Serializer.read(CuttingBoardRecipe.java:166) ~[FarmersDelight-1.20.1-2.3.0+refabricated.jar:?]
+	at net.minecraft.recipe.RecipeManager.deserialize(RecipeManager.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.recipe.RecipeManager.apply(RecipeManager.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.recipe.RecipeManager.apply(RecipeManager.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.resource.SinglePreparationResourceReloader.method_18790(SinglePreparationResourceReloader.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.resource.SimpleResourceReload.method_18365(SimpleResourceReload.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.util.Util.waitAndApply(Util.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.util.Util.waitAndApply(Util.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[server.jar:1.0.3]
+[20:58:00] [main/ERROR]: Parsing error loading recipe obsidianequipment:obsidian_hammer_recipe
+com.google.gson.JsonSyntaxException: Unknown item 'warhammersmod:hammer_obsidian'
+	at net.minecraft.recipe.ShapedRecipe.method_17878(ShapedRecipe.java:272) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.recipe.ShapedRecipe.getItem(ShapedRecipe.java:272) ~[server-intermediary.jar:?]
+	at net.minecraft.recipe.ShapedRecipe.outputFromJson(ShapedRecipe.java:259) ~[server-intermediary.jar:?]
+	at net.minecraft.recipe.ShapedRecipe$Serializer.read(ShapedRecipe.java:293) ~[server-intermediary.jar:?]
+	at net.minecraft.recipe.ShapedRecipe$Serializer.read(ShapedRecipe.java:279) ~[server-intermediary.jar:?]
+	at net.minecraft.recipe.RecipeManager.deserialize(RecipeManager.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.recipe.RecipeManager.apply(RecipeManager.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.recipe.RecipeManager.apply(RecipeManager.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.resource.SinglePreparationResourceReloader.method_18790(SinglePreparationResourceReloader.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.resource.SimpleResourceReload.method_18365(SimpleResourceReload.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.util.Util.waitAndApply(Util.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.util.Util.waitAndApply(Util.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[server.jar:1.0.3]
+[20:58:00] [main/ERROR]: Parsing error loading recipe obsidianequipment:obsidian_shard_recipe
+com.google.gson.JsonSyntaxException: Unknown item 'exlinecraft:obsidian_ingot'
+	at net.minecraft.recipe.ShapedRecipe.method_17878(ShapedRecipe.java:272) ~[server-intermediary.jar:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.recipe.ShapedRecipe.getItem(ShapedRecipe.java:272) ~[server-intermediary.jar:?]
+	at net.minecraft.recipe.Ingredient.entryFromJson(Ingredient.java:160) ~[server-intermediary.jar:?]
+	at net.minecraft.recipe.Ingredient.fromJson(Ingredient.java:143) ~[server-intermediary.jar:?]
+	at net.minecraft.recipe.ShapelessRecipe$Serializer.getIngredients(ShapelessRecipe.java:107) ~[server-intermediary.jar:?]
+	at net.minecraft.recipe.ShapelessRecipe$Serializer.read(ShapelessRecipe.java:92) ~[server-intermediary.jar:?]
+	at net.minecraft.recipe.ShapelessRecipe$Serializer.read(ShapelessRecipe.java:87) ~[server-intermediary.jar:?]
+	at net.minecraft.recipe.RecipeManager.deserialize(RecipeManager.java:135) ~[server-intermediary.jar:?]
+	at net.minecraft.recipe.RecipeManager.apply(RecipeManager.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.recipe.RecipeManager.apply(RecipeManager.java:35) ~[server-intermediary.jar:?]
+	at net.minecraft.resource.SinglePreparationResourceReloader.method_18790(SinglePreparationResourceReloader.java:13) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.resource.SimpleResourceReload.method_18365(SimpleResourceReload.java:69) ~[server-intermediary.jar:?]
+	at net.minecraft.util.Util.waitAndApply(Util.java:950) ~[server-intermediary.jar:?]
+	at net.minecraft.util.Util.waitAndApply(Util.java:938) ~[server-intermediary.jar:?]
+	at net.minecraft.server.Main.main(Main.java:160) ~[server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[server.jar:1.0.3]
+[20:58:00] [main/INFO]: Generating Sawmill Recipes
+[20:58:02] [main/INFO]: Generated Sawmill recipes in 2061 milliseconds
+[20:58:02] [main/WARN]: Generating Sawmill recipes took a long time. Consider disabling dynamic recipes in the configs and adding them statically via datapack. You can turn on save_recipe configs to help you with that
+[20:58:02] [main/INFO]: Loaded 53 recipes
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_slope: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_layer: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_iron_trapdoor: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_vertical_half_layer: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_beam: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_stairs_from_conversion: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_step_from_conversion: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_byte: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_folding_door_from_conversion: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_wooden_button: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_shaft: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_pane: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_layer_from_half_layers: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_folding_door: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_sliding_door: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_ghost_block: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_stone_pressure_plate: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_byte_panel: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_panel_from_half_panels: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_stacked_half_layer_from_conversion: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_half_layer_from_conversion: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_sliding_door_from_conversion: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_vertical_stairs: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_wall: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_trapdoor: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_vertical_step: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_trapdoor_from_conversion: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_vertical_slice_from_conversion: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_wooden_pressure_plate: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_cogwheel: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_fluid_pipe: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_slope_layer: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_vertical_slope: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement naturescompass:natures_compass: Expected items to be a JsonArray, was "min...ss"
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_flat_pane: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_half_panel: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_slice_from_conversion: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_flat_pane_from_conversion: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_slope_from_conversion: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_slab_from_steps: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_panel_from_conversion: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass: Expected items to be a JsonArray, was "min...ss"
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_light_weighted_pressure_plate: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_board: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_fence: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_vertical_stairs_from_conversion: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_half_layer: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_block_from_slabs: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_vertical_slope_from_conversion: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_stairs: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_iron_door: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_block: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_vertical_step_from_conversion: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_slab: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_catwalk: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_stacked_half_layer: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_heavy_weighted_pressure_plate: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_stone_button: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_corner_slice: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_door: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_box: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass_cobweb: Expected items to be a JsonArray, was "min...eb"
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_pane_from_conversion: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_slice: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement explorerscompass:explorers_compass_cracked_stone_bricks: Expected items to be a JsonArray, was "min...ks"
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_slab_from_beams: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_vertical_slice: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_fence_gate: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_ladder: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_large_cogwheel: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_vertical_half_layer_from_conversion: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/ERROR]: Parsing error loading custom advancement copycats:recipes/crafting/copycat_slab_from_panels: Missing criteria, expected to find a JsonObject
+[20:58:02] [main/INFO]: Loaded 10422 advancements
+[20:58:02] [main/WARN]: @ModifyConstant conflict. Skipping xlpackets.mixins.json:ClientboundCustomPayloadPacketMixin from mod thiccpackets->@ModifyConstant::xlPackets(I)I with priority 1000, already redirected by packetfixer.common.mixins.json:ClientboundCustomPayloadPacketMixin from mod packetfixer->@ModifyConstant::newSize(I)I with priority 1000
+[20:58:02] [main/WARN]: @ModifyConstant conflict. Skipping xlpackets.mixins.json:ClientboundCustomPayloadPacketMixin from mod thiccpackets->@ModifyConstant::xlPackets(I)I with priority 1000, already redirected by packetfixer.common.mixins.json:ClientboundCustomPayloadPacketMixin from mod packetfixer->@ModifyConstant::newSize(I)I with priority 1000
+[20:58:02] [main/INFO]: Mixing common.MixinServerStatus from mixins/common/nochatreports.mixins.json into net.minecraft.class_2926
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_plains_house_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_desert_house_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:archaeology_trail_ruins_rare_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_arch_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_tannery_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:underwater_ruin_big_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_weaponsmith_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_armorer_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_fisher_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:archaeology_desert_pyramid_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_arch_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_desert_house_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_temple_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_toolsmith_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_plains_house_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_savanna_house_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:shipwreck_treasure_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:underwater_ruin_big_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:archaeology_ocean_ruin_cold_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_arch_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_shepherd_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_butcher_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_snowy_house_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:archaeology_ocean_ruin_warm_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_arch_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_taiga_house_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:simple_dungeon_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_cartographer_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_taiga_house_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_taiga_house_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:archaeology_desert_well_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_arch_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_savanna_house_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_butcher_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_mason_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_snowy_house_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:underwater_ruin_small_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_shepherd_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_shepherd_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_toolsmith_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:simple_dungeon_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:underwater_ruin_small_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_weaponsmith_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:archaeology_trail_ruins_common_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_arch_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:underwater_ruin_small_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_mason_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_toolsmith_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_cartographer_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_mason_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_butcher_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_armorer_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_fisher_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_tannery_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:shipwreck_treasure_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_armorer_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_desert_house_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:buried_treasure_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_fisher_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_cartographer_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:buried_treasure_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_plains_house_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_snowy_house_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:buried_treasure_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:shipwreck_treasure_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:underwater_ruin_big_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_weaponsmith_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_savanna_house_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:simple_dungeon_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_tannery_loot_rare - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_temple_loot_epic - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id perfectplushieapi:village_temple_loot - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: perfectplushieapi:add_plushie
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:ash_from_burning_mobs - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:straw_from_flax - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[20:58:03] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:replace_rope - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: supplementaries:replace_rope
+[20:58:03] [main/INFO]: Loaded 27 flute songs
+[20:58:03] [main/INFO]: Reloaded configs for mousewheelie (server/smallest)
+[20:58:03] [main/INFO]: Deserializing default trades of profession: villagersplus:alchemist
+[20:58:03] [main/INFO]: Deserializing default trades of profession: villagersplus:horticulturist
+[20:58:03] [main/INFO]: Deserializing default trades of profession: villagersplus:occultist
+[20:58:03] [main/INFO]: Deserializing default trades of profession: villagersplus:oceanographer
+[20:58:04] [main/INFO]: Applied 20 data villager trades
+[20:58:04] [main/INFO]: Finished additional setup in 0 ms
+[20:58:06] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[20:58:06] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[20:58:06] [main/INFO]: Applied 10891 biome modifications to 255 of 255 new biomes in 184.6 ms
+[20:58:06] [Server thread/INFO]: Loading server config for easyanvils
+[20:58:06] [Server thread/INFO]: Loading server config for easymagic
+[20:58:06] [Server thread/INFO]: Loading server config for puzzlesapi
+[20:58:06] [Server thread/INFO]: Loading server config for universalbonemeal
+[20:58:06] [Server thread/INFO]: loaded team data: 2 known players, 2 teams total
+[20:58:06] [Server thread/INFO]: [Quilt DFU API] Serverside DataFixer Registry is about to freeze
+[20:58:06] [Server thread/INFO]: [Quilt DFU API] Serverside DataFixer Registry was frozen
+[20:58:06] [Server thread/INFO]: Injecting Carpenter Village Houses
+[20:58:06] [Server thread/INFO]: Starting background profiler...
+[20:58:07] [pool-4-thread-1/INFO]: Reloading server config for easyanvils
+[20:58:07] [pool-4-thread-1/INFO]: Reloading server config for easymagic
+[20:58:07] [pool-4-thread-1/INFO]: Reloading server config for puzzlesapi
+[20:58:07] [pool-4-thread-1/INFO]: Reloading server config for universalbonemeal
+[20:58:07] [Server thread/INFO]: Saving config FrozenLibConfig from frozenlib
+[20:58:07] [Server thread/INFO]: Saving config SimpleCopperPipesConfig from simple_copper_pipes
+[20:58:07] [Server thread/ERROR]: Registry 'terraform:boat' was empty after loading
+[20:58:07] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[20:58:07] [Server thread/INFO]: Loading properties
+[20:58:07] [Server thread/INFO]: Default game type: SURVIVAL
+[20:58:07] [Server thread/INFO]: Generating keypair
+[20:58:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:58:08] [Server thread/INFO]: Using epoll channel type
+[20:58:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:58:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:58:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:58:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:58:08] [Server thread/INFO]: Preparing level "world"
+[20:58:08] [Server thread/INFO]: Enforcing safe world random access
+[20:58:14] [Server thread/INFO]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
+[20:58:14] [Server thread/INFO]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (modern)
+[20:58:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:58:14] [Server thread/INFO]: Server resource reload complete!
+[20:58:14] [Server thread/INFO]: Time elapsed: 88 ms
+[20:58:14] [Server thread/INFO]: Done (5.964s)! For help, type "help"
+[20:58:14] [Server thread/WARN]: Dedicated server took 105.351 seconds to load
+[20:58:14] [Server thread/INFO]: Loading quests from /workspaces/Minecraft-Server/config/ftbquests/quests
+[20:58:14] [Server thread/INFO]: Loaded 1 chapter groups, 22 chapters, 551 quests, 9 reward tables
+[20:58:14] [Server thread/INFO]: Sophisticated Backpacks integration added
+[20:58:14] [Server thread/INFO]: Start loading plugin from Balm
+[20:58:14] [Server thread/INFO]: Start loading plugin from Beautify
+[20:58:14] [Server thread/INFO]: Start loading plugin from Camerapture
+[20:58:14] [Server thread/INFO]: Start loading plugin from Panda's Falling Tree's
+[20:58:14] [Server thread/ERROR]: Error loading plugin at null
+net.fabricmc.loader.api.EntrypointException: Exception while loading entries for entrypoint 'jade' provided by 'fallingtrees'
+	at net.fabricmc.loader.impl.entrypoint.EntrypointContainerImpl.getEntrypoint(EntrypointContainerImpl.java:56) ~[fabric-loader-0.16.14.jar:?]
+	at snownee.jade.util.CommonProxy.lambda$loadComplete$5(CommonProxy.java:373) ~[Jade-1.20-Fabric-11.13.1.jar:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) ~[?:?]
+	at snownee.jade.util.CommonProxy.loadComplete(CommonProxy.java:368) ~[Jade-1.20-Fabric-11.13.1.jar:?]
+	at snownee.jade.util.CommonProxy.lambda$onInitialize$10(CommonProxy.java:469) ~[Jade-1.20-Fabric-11.13.1.jar:?]
+	at net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents.lambda$static$2(ServerLifecycleEvents.java:49) ~[fabric-lifecycle-events-v1-2.2.2+1802ada577-f0da28253951162f.jar:?]
+	at net.minecraft.server.MinecraftServer.handler$cck000$fabric-lifecycle-events-v1$afterSetupServer(MinecraftServer.java:6342) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:650) ~[server-intermediary.jar:?]
+	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: net.fabricmc.loader.api.LanguageAdapterException: java.lang.ClassNotFoundException: me.pandamods.fallingtrees.compat.JadePlugin
+	at net.fabricmc.loader.impl.util.DefaultLanguageAdapter.create(DefaultLanguageAdapter.java:52) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointStorage$NewEntry.getOrCreate(EntrypointStorage.java:124) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointContainerImpl.getEntrypoint(EntrypointContainerImpl.java:53) ~[fabric-loader-0.16.14.jar:?]
+	... 9 more
+Caused by: java.lang.ClassNotFoundException: me.pandamods.fallingtrees.compat.JadePlugin
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:226) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.16.14.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.lang.Class.forName(Class.java:534) ~[?:?]
+	at java.lang.Class.forName(Class.java:513) ~[?:?]
+	at net.fabricmc.loader.impl.util.DefaultLanguageAdapter.create(DefaultLanguageAdapter.java:50) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointStorage$NewEntry.getOrCreate(EntrypointStorage.java:124) ~[fabric-loader-0.16.14.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointContainerImpl.getEntrypoint(EntrypointContainerImpl.java:53) ~[fabric-loader-0.16.14.jar:?]
+	... 9 more
+[20:58:14] [Server thread/INFO]: Start loading plugin from Jade
+[20:58:14] [Server thread/INFO]: Start loading plugin from Jade
+[20:58:14] [Server thread/INFO]: Start loading plugin from Jade
+[20:58:14] [Server thread/INFO]: Start loading plugin from Jade Addons
+[20:58:14] [Server thread/INFO]: Start loading plugin from Kiwi Library
+[20:58:14] [Server thread/INFO]: Start loading plugin from Supplementaries
+[20:58:14] [Server thread/INFO]: [Spawn Animations] Sending global config to world ...
+[20:58:15] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[20:58:15] [Netty Epoll Server IO #1/INFO]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7472
+[20:58:15] [Netty Epoll Server IO #1/INFO]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_2797
+[20:58:15] [Netty Epoll Server IO #1/INFO]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7861
+[20:58:15] [Server thread/INFO]: Reloaded configs for mousewheelie (server/world)
+[20:58:15] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[20:58:15] [Server thread/INFO]: Registered synced player tracker system: ftb_teams
+[20:58:15] [Server thread/INFO]: Registered synced player tracker system: ftb_teams
+[20:58:15] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[20:58:15] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[20:58:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[20:58:20] [Server thread/INFO]: [Handshake] Sending channel query
+[20:58:20] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[20:58:20] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[20:58:21] [Server thread/INFO]: Possible lunar events for dimension "minecraft:overworld" are [enhancedcelestials:harvest_moon, enhancedcelestials:super_harvest_moon, enhancedcelestials:miners_moon, enhancedcelestials:super_miners_moon, enhancedcelestials:super_blue_moon, enhancedcelestials:blood_moon, enhancedcelestials:peaceful_moon, enhancedcelestials:super_blood_moon, enhancedcelestials:blue_moon, enhancedcelestials:super_moon].
+[20:58:21] [Server thread/INFO]: Meruxz[/127.118.152.57:53987] logged in with entity id 4 at (-3940.300000011921, 73.0, -3036.300000011921)
+[20:58:21] [Server thread/INFO]: Sending server config values to client
+[20:58:21] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[20:58:21] [Server thread/INFO]: Syncing config to Meruxz (4211d0ba-5b07-32d5-94a3-fa9371f872e6)
+[20:58:21] [Server thread/INFO]: Creating new config sync packet
+[20:58:23] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[20:58:23] [Server thread/INFO]: Meruxz joined the game
+[20:58:24] [Server thread/INFO]: Sending common config 'fallingtrees:fallingtrees_common' to Meruxz
+[20:58:25] [Netty Epoll Server IO #2/INFO]: Received client config 'fallingtrees:fallingtrees_client' from Meruxz
+[20:58:27] [Server thread/INFO]: [voicechat] Received secret request of Meruxz (18)
+[20:58:27] [Server thread/INFO]: [voicechat] Sent secret to Meruxz
+[20:58:31] [Server thread/INFO]: Saving the game (this may take a moment!)
+[20:58:31] [Server thread/INFO]: Saved the game
+[20:58:34] [Server thread/INFO]: [Handshake] Sending channel query
+[20:58:34] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[20:58:34] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[20:58:36] [Server thread/INFO]: Raijinn[/127.71.31.156:55813] logged in with entity id 301 at (-4160.883991209625, 13.0, -2982.8151851561356)
+[20:58:36] [Server thread/INFO]: Sending server config values to client
+[20:58:36] [Server thread/INFO]: Syncing config to Raijinn (f76ea4a2-37f5-330c-83c4-e99f8f54c6cc)
+[20:58:36] [Server thread/INFO]: Creating new config sync packet
+[20:58:36] [Server thread/INFO]: Raijinn joined the game
+[20:58:36] [Server thread/INFO]: Sending common config 'fallingtrees:fallingtrees_common' to Raijinn
+[20:58:36] [Netty Epoll Server IO #3/INFO]: Receiving client config
