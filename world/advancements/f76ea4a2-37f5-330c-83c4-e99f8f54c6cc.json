@@ -8040,73 +8040,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 00:10:46 +0000"
+      "log_spam_fixer": "2025-06-06 00:15:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 00:10:46 +0000"
+      "log_spam_fixer": "2025-06-06 00:15:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 00:10:46 +0000"
+      "log_spam_fixer": "2025-06-06 00:15:46 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 00:10:46 +0000"
+      "log_spam_fixer": "2025-06-06 00:15:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 00:10:46 +0000"
+      "log_spam_fixer": "2025-06-06 00:15:46 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 00:10:46 +0000"
+      "log_spam_fixer": "2025-06-06 00:15:46 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 00:10:46 +0000"
+      "log_spam_fixer": "2025-06-06 00:15:46 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 00:10:46 +0000"
+      "log_spam_fixer": "2025-06-06 00:15:46 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 00:10:46 +0000"
+      "log_spam_fixer": "2025-06-06 00:15:46 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 00:10:46 +0000"
+      "log_spam_fixer": "2025-06-06 00:15:46 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 00:10:46 +0000"
+      "log_spam_fixer": "2025-06-06 00:15:46 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 00:10:46 +0000"
+      "log_spam_fixer": "2025-06-06 00:15:46 +0000"
     },
     "done": false
   },
@@ -8314,6 +8314,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/birch_shrub": {
+    "criteria": {
+      "has_birch_sapling": "2025-06-06 00:12:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-06-05 23:50:29 +0000"
@@ -8347,6 +8353,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-06-05 23:04:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-06-06 00:15:26 +0000"
     },
     "done": true
   },
@@ -8419,6 +8431,12 @@
   "clutter:recipes/decorations/stripped_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-06-05 23:50:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-06-06 00:13:13 +0000"
     },
     "done": true
   },
@@ -8608,6 +8626,12 @@
     },
     "done": true
   },
+  "clutter:recipes/decorations/spruce_shelf": {
+    "criteria": {
+      "has_spruce_slab": "2025-06-06 00:13:55 +0000"
+    },
+    "done": true
+  },
   "cratedelight:recipes/building_blocks/glowberry_crate": {
     "criteria": {
       "has_glow_berries": "2025-06-05 22:46:18 +0000"
@@ -8749,6 +8773,12 @@
   "regions_unexplored:recipes/decorations/dark_oak_shrub": {
     "criteria": {
       "has_dark_oak_sapling": "2025-06-05 23:47:43 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/spruce_mosaic": {
+    "criteria": {
+      "has_spruce_slab": "2025-06-06 00:13:55 +0000"
     },
     "done": true
   },
@@ -8992,6 +9022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-06 00:12:23 +0000"
+    },
+    "done": true
+  },
   "spelunkery:spelunkery/grindstone": {
     "criteria": {
       "item": "2025-06-05 23:31:19 +0000"
@@ -9127,6 +9163,12 @@
   "handcrafted:recipes/misc/jungle_nightstand": {
     "criteria": {
       "has_jungle_nightstand": "2025-06-05 23:30:01 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/spruce_window_sill": {
+    "criteria": {
+      "has_spruce_slab": "2025-06-06 00:13:55 +0000"
     },
     "done": true
   },
@@ -9322,6 +9364,12 @@
     },
     "done": true
   },
+  "clutter:recipes/decorations/spruce_trellis": {
+    "criteria": {
+      "has_spruce_slab": "2025-06-06 00:13:55 +0000"
+    },
+    "done": true
+  },
   "clutter:recipes/decorations/spruce_table": {
     "criteria": {
       "has_spruce_log": "2025-06-05 23:48:21 +0000"
@@ -9355,6 +9403,12 @@
   "handcrafted:recipes/misc/dark_oak_counter": {
     "criteria": {
       "has_dark_oak_counter": "2025-06-05 23:50:48 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/spruce_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-06-06 00:13:55 +0000"
     },
     "done": true
   },
@@ -9493,6 +9547,12 @@
   "createdeco:recipes/decorations/copper_bars_overlay_from_stonecutting": {
     "criteria": {
       "has_item": "2025-06-05 23:28:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2025-06-06 00:12:23 +0000"
     },
     "done": true
   },
