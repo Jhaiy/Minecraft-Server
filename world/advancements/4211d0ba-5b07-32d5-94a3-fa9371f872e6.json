@@ -10728,11 +10728,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "labels:recipes/label": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 23:08:30 +0000"
+      "has_paper": "2025-06-06 23:09:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
@@ -10740,35 +10740,11 @@
     },
     "done": false
   },
-  "incendium:technical/on_kill": {
+  "candlelight:recipes/letter_open": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 23:08:30 +0000"
+      "has_paper": "2025-06-06 23:09:53 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 23:08:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 23:08:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 23:08:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 23:08:30 +0000"
-    },
-    "done": false
+    "done": true
   },
   "farmersdelight:recipes/decorations/dark_oak_cabinet": {
     "criteria": {
@@ -10776,11 +10752,11 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 23:08:30 +0000"
+      "has_item": "2025-06-06 23:09:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/paper": {
     "criteria": {
@@ -10788,17 +10764,11 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "natures_spirit:recipes/building_blocks/paper_lantern": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 23:08:30 +0000"
+      "has_paper": "2025-06-06 23:09:53 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 23:08:30 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
@@ -10806,11 +10776,17 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "natures_spirit:recipes/building_blocks/paper_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 23:08:30 +0000"
+      "has_paper": "2025-06-06 23:09:53 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "hearth_and_home:recipes/shoji": {
+    "criteria": {
+      "has_item": "2025-06-06 23:09:53 +0000"
+    },
+    "done": true
   },
   "farmersdelight:main/place_campfire": {
     "criteria": {
@@ -10824,17 +10800,53 @@
     },
     "done": true
   },
+  "candlelight:recipes/napkin": {
+    "criteria": {
+      "has_paper": "2025-06-06 23:09:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-06-06 23:09:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-06-06 21:33:45 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "supplementaries:recipes/present": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 23:08:30 +0000"
+      "has_paper": "2025-06-06 23:09:53 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/paper_lantern": {
+    "criteria": {
+      "has_item": "2025-06-06 23:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-06-06 23:09:53 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/love_letter_open": {
+    "criteria": {
+      "has_paper": "2025-06-06 23:09:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-06-06 23:09:53 +0000"
+    },
+    "done": true
   },
   "friendsandfoes:adventure/it_bites": {
     "criteria": {
@@ -10842,11 +10854,41 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
+  "clutter:recipes/misc/red_present": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 23:08:30 +0000"
+      "has_paper": "2025-06-06 23:09:53 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-06-06 23:09:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-06-06 23:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-06-06 23:09:53 +0000"
+    },
+    "done": true
+  },
+  "candlelight:recipes/table_sign": {
+    "criteria": {
+      "has_paper": "2025-06-06 23:09:53 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/paper_lanterns": {
+    "criteria": {
+      "has_item": "2025-06-06 23:09:53 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
