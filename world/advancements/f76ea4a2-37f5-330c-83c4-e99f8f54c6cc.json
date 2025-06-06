@@ -27,6 +27,7 @@
       "deciduous_forest": "2025-06-05 14:03:34 +0000",
       "boreal_forest": "2025-06-06 21:58:54 +0000",
       "towering_cliffs": "2025-06-04 20:42:18 +0000",
+      "cold_boreal_taiga": "2025-06-06 22:28:52 +0000",
       "temperate_grove": "2025-06-04 20:44:28 +0000",
       "old_growth_bayou": "2025-06-04 21:23:37 +0000",
       "grassland": "2025-06-04 20:59:17 +0000",
@@ -52,6 +53,7 @@
       "deciduous_forest": "2025-06-05 14:03:34 +0000",
       "boreal_forest": "2025-06-06 21:58:54 +0000",
       "towering_cliffs": "2025-06-04 20:42:18 +0000",
+      "cold_boreal_taiga": "2025-06-06 22:28:52 +0000",
       "temperate_grove": "2025-06-04 20:44:28 +0000",
       "old_growth_bayou": "2025-06-04 21:23:37 +0000",
       "grassland": "2025-06-04 20:59:17 +0000",
@@ -2336,6 +2338,7 @@
       "minecraft:old_growth_birch_forest": "2025-06-04 21:15:13 +0000",
       "minecraft:plains": "2025-06-04 21:58:11 +0000",
       "natures_spirit:woody_highlands": "2025-06-06 22:14:31 +0000",
+      "natures_spirit:golden_wilds": "2025-06-06 22:30:47 +0000",
       "minecraft:snowy_slopes": "2025-06-05 14:56:00 +0000",
       "natures_spirit:bamboo_wetlands": "2025-06-04 21:18:58 +0000",
       "minecraft:cherry_grove": "2025-06-05 14:54:52 +0000",
@@ -2346,6 +2349,7 @@
       "minecraft:swamp": "2025-06-04 21:15:56 +0000",
       "natures_spirit:sugi_forest": "2025-06-05 15:00:11 +0000",
       "natures_spirit:chaparral": "2025-06-06 18:00:03 +0000",
+      "natures_spirit:aspen_forest": "2025-06-06 22:30:32 +0000",
       "minecraft:forest": "2025-06-04 20:52:47 +0000",
       "minecraft:desert": "2025-06-06 21:47:52 +0000",
       "minecraft:windswept_forest": "2025-06-04 21:15:17 +0000",
@@ -11103,7 +11107,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:24:28 +0000"
+      "log_spam_fixer": "2025-06-06 22:30:28 +0000"
     },
     "done": false
   },
@@ -11157,7 +11161,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:24:28 +0000"
+      "log_spam_fixer": "2025-06-06 22:30:28 +0000"
     },
     "done": false
   },
@@ -11199,7 +11203,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:24:28 +0000"
+      "log_spam_fixer": "2025-06-06 22:30:28 +0000"
     },
     "done": false
   },
@@ -11229,13 +11233,13 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:24:28 +0000"
+      "log_spam_fixer": "2025-06-06 22:30:28 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:24:28 +0000"
+      "log_spam_fixer": "2025-06-06 22:30:28 +0000"
     },
     "done": false
   },
@@ -11277,7 +11281,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:24:28 +0000"
+      "log_spam_fixer": "2025-06-06 22:30:28 +0000"
     },
     "done": false
   },
@@ -11301,13 +11305,13 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:24:28 +0000"
+      "log_spam_fixer": "2025-06-06 22:30:28 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:24:28 +0000"
+      "log_spam_fixer": "2025-06-06 22:30:28 +0000"
     },
     "done": false
   },
@@ -11331,7 +11335,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:24:28 +0000"
+      "log_spam_fixer": "2025-06-06 22:30:28 +0000"
     },
     "done": false
   },
@@ -11457,9 +11461,10 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:24:28 +0000"
+      "requirement": "2025-06-06 22:30:35 +0000",
+      "log_spam_fixer": "2025-06-06 22:30:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "handcrafted:recipes/misc/terracotta_cup": {
     "criteria": {
@@ -11529,7 +11534,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:24:28 +0000"
+      "log_spam_fixer": "2025-06-06 22:30:28 +0000"
     },
     "done": false
   },
@@ -11571,7 +11576,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:24:28 +0000"
+      "log_spam_fixer": "2025-06-06 22:30:28 +0000"
     },
     "done": false
   },
