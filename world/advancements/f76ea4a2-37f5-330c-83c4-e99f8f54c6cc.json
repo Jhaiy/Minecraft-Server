@@ -11121,13 +11121,19 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:12:30 +0000"
+      "log_spam_fixer": "2025-06-07 01:18:30 +0000"
     },
     "done": false
   },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_blue_dye": "2025-06-07 01:07:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_black_sheet": "2025-06-07 01:15:14 +0000"
     },
     "done": true
   },
@@ -11170,6 +11176,18 @@
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-06-06 22:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-06-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-06-07 01:17:21 +0000"
     },
     "done": true
   },
@@ -11217,7 +11235,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:12:30 +0000"
+      "log_spam_fixer": "2025-06-07 01:18:30 +0000"
     },
     "done": false
   },
@@ -11307,7 +11325,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:12:30 +0000"
+      "log_spam_fixer": "2025-06-07 01:18:30 +0000"
     },
     "done": false
   },
@@ -11365,6 +11383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-06-07 01:17:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-06-07 01:07:25 +0000"
@@ -11373,7 +11397,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:12:30 +0000"
+      "log_spam_fixer": "2025-06-07 01:18:30 +0000"
     },
     "done": false
   },
@@ -11385,7 +11409,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:12:30 +0000"
+      "log_spam_fixer": "2025-06-07 01:18:30 +0000"
     },
     "done": false
   },
@@ -11404,6 +11428,12 @@
   "handcrafted:recipes/misc/blue_plate": {
     "criteria": {
       "has_blue_plate": "2025-06-07 01:07:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2025-06-07 01:15:14 +0000"
     },
     "done": true
   },
@@ -11451,7 +11481,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:12:30 +0000"
+      "log_spam_fixer": "2025-06-07 01:18:30 +0000"
     },
     "done": false
   },
@@ -11499,7 +11529,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:12:30 +0000"
+      "log_spam_fixer": "2025-06-07 01:18:30 +0000"
     },
     "done": false
   },
@@ -11511,7 +11541,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:12:30 +0000"
+      "log_spam_fixer": "2025-06-07 01:18:30 +0000"
     },
     "done": false
   },
@@ -11545,9 +11575,21 @@
     },
     "done": true
   },
+  "candlelight:recipes/chefs_boots": {
+    "criteria": {
+      "has_black_wool": "2025-06-07 01:15:14 +0000"
+    },
+    "done": true
+  },
   "beachparty:recipes/palm_table": {
     "criteria": {
       "has_palm_planks": "2025-06-07 00:38:33 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-06-07 01:17:21 +0000"
     },
     "done": true
   },
@@ -11559,7 +11601,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:12:30 +0000"
+      "log_spam_fixer": "2025-06-07 01:18:30 +0000"
     },
     "done": false
   },
@@ -11743,6 +11785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-06-07 01:15:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-06 22:06:35 +0000"
@@ -11757,7 +11805,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:12:30 +0000"
+      "log_spam_fixer": "2025-06-07 01:18:30 +0000"
     },
     "done": false
   },
@@ -11800,6 +11848,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-06 22:17:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-06-07 01:15:14 +0000"
     },
     "done": true
   },
@@ -11887,6 +11941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-06-07 01:17:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-06-06 21:36:04 +0000"
@@ -11901,7 +11961,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:12:30 +0000"
+      "log_spam_fixer": "2025-06-07 01:18:30 +0000"
     },
     "done": false
   },
@@ -11917,6 +11977,12 @@
     },
     "done": true
   },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-06-07 01:17:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-06-06 21:36:04 +0000"
@@ -11926,6 +11992,12 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-06-06 21:29:08 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-06-07 01:15:14 +0000"
     },
     "done": true
   },
@@ -11971,9 +12043,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-06-07 01:15:14 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:12:30 +0000"
+      "log_spam_fixer": "2025-06-07 01:18:30 +0000"
     },
     "done": false
   },
@@ -12028,6 +12106,18 @@
   "candlelight:recipes/painting": {
     "criteria": {
       "has_painting": "2025-06-06 22:15:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-06-07 01:17:21 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2025-06-07 01:15:14 +0000"
     },
     "done": true
   },
