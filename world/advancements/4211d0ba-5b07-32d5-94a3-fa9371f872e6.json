@@ -10733,7 +10733,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 00:18:30 +0000"
+      "log_spam_fixer": "2025-06-07 00:24:30 +0000"
     },
     "done": false
   },
@@ -10770,7 +10770,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 00:18:30 +0000"
+      "log_spam_fixer": "2025-06-07 00:24:30 +0000"
     },
     "done": false
   },
@@ -10806,7 +10806,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 00:18:30 +0000"
+      "log_spam_fixer": "2025-06-07 00:24:30 +0000"
     },
     "done": false
   },
@@ -10830,15 +10830,21 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 00:18:30 +0000"
+      "log_spam_fixer": "2025-06-07 00:24:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 00:18:30 +0000"
+      "log_spam_fixer": "2025-06-07 00:24:30 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-07 00:23:37 +0000"
+    },
+    "done": true
   },
   "twigs:recipes/silt/pink_silt_shingle_wall_from_pink_packed_silt_stonecutting": {
     "criteria": {
@@ -10872,7 +10878,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 00:18:30 +0000"
+      "log_spam_fixer": "2025-06-07 00:24:30 +0000"
     },
     "done": false
   },
@@ -10896,7 +10902,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 00:18:30 +0000"
+      "log_spam_fixer": "2025-06-07 00:24:30 +0000"
     },
     "done": false
   },
@@ -10920,13 +10926,13 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 00:18:30 +0000"
+      "log_spam_fixer": "2025-06-07 00:24:30 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 00:18:30 +0000"
+      "log_spam_fixer": "2025-06-07 00:24:30 +0000"
     },
     "done": false
   },
@@ -10992,7 +10998,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 00:18:30 +0000"
+      "log_spam_fixer": "2025-06-07 00:24:30 +0000"
     },
     "done": false
   },
@@ -11100,7 +11106,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 00:18:30 +0000"
+      "log_spam_fixer": "2025-06-07 00:24:30 +0000"
     },
     "done": false
   },
@@ -11142,7 +11148,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 00:18:30 +0000"
+      "log_spam_fixer": "2025-06-07 00:24:30 +0000"
     },
     "done": false
   },
@@ -11173,6 +11179,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-06-06 23:09:53 +0000"
+    },
+    "done": true
+  },
+  "obsidianequipment:recipes/misc/obsidian_ingot": {
+    "criteria": {
+      "has_ingredient": "2025-06-07 00:21:24 +0000"
     },
     "done": true
   },
