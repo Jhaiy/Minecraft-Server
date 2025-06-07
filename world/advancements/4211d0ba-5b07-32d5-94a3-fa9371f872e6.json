@@ -10731,12 +10731,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 00:29:30 +0000"
-    },
-    "done": false
-  },
   "clutter:recipes/decorations/crimson_wall_bookshelf": {
     "criteria": {
       "has_book": "2025-06-06 23:19:40 +0000"
@@ -10765,12 +10759,6 @@
     "criteria": {
       "glow_berries": "2025-06-06 23:41:50 +0000",
       "sugar_cane": "2025-06-06 22:36:22 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 00:29:30 +0000"
     },
     "done": false
   },
@@ -10804,12 +10792,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 00:29:30 +0000"
-    },
-    "done": false
-  },
   "candlelight:recipes/letter_open": {
     "criteria": {
       "has_paper": "2025-06-06 23:09:53 +0000"
@@ -10827,18 +10809,6 @@
       "has_dye": "2025-06-07 00:03:47 +0000"
     },
     "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 00:29:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 00:29:30 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
@@ -10882,12 +10852,6 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 00:29:30 +0000"
-    },
-    "done": false
-  },
   "farmersdelight:recipes/decorations/dark_oak_cabinet": {
     "criteria": {
       "has_dark_oak_trapdoor": "2025-06-06 22:32:32 +0000"
@@ -10906,12 +10870,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 00:29:30 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-06-06 22:35:01 +0000"
@@ -10929,18 +10887,6 @@
       "has_paper": "2025-06-06 23:09:53 +0000"
     },
     "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 00:29:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 00:29:30 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
@@ -11005,13 +10951,6 @@
   "hearth_and_home:recipes/shoji": {
     "criteria": {
       "has_item": "2025-06-06 23:09:53 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-06-07 00:29:31 +0000",
-      "log_spam_fixer": "2025-06-07 00:29:30 +0000"
     },
     "done": true
   },
@@ -11117,12 +11056,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 00:29:30 +0000"
-    },
-    "done": false
-  },
   "natures_spirit:recipes/building_blocks/blooming_paper_block": {
     "criteria": {
       "has_paper_block": "2025-06-06 23:28:29 +0000"
@@ -11158,12 +11091,6 @@
       "killed_mauler": "2025-06-06 22:57:10 +0000"
     },
     "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 00:29:30 +0000"
-    },
-    "done": false
   },
   "clutter:recipes/misc/red_present": {
     "criteria": {
