@@ -11119,6 +11119,18 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:40:30 +0000"
+    },
+    "done": false
+  },
+  "beachparty:recipes/palm_pressure_plate": {
+    "criteria": {
+      "has_palm_planks": "2025-06-07 00:38:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-06-06 22:30:58 +0000"
@@ -11185,9 +11197,21 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:40:30 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-06-06 21:29:08 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_button": {
+    "criteria": {
+      "has_palm_planks": "2025-06-07 00:38:33 +0000"
     },
     "done": true
   },
@@ -11200,6 +11224,12 @@
   "spelunkery:recipes/obsidian": {
     "criteria": {
       "has_item": "2025-06-06 21:52:09 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/beach_chair": {
+    "criteria": {
+      "has_palm_planks": "2025-06-07 00:38:33 +0000"
     },
     "done": true
   },
@@ -11221,9 +11251,27 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:40:30 +0000"
+    },
+    "done": false
+  },
+  "beachparty:recipes/palm_glass": {
+    "criteria": {
+      "has_palm_planks": "2025-06-07 00:38:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-06-06 21:08:56 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_trapdoor": {
+    "criteria": {
+      "has_palm_planks": "2025-06-07 00:38:33 +0000"
     },
     "done": true
   },
@@ -11244,6 +11292,18 @@
       "has_terracotta": "2025-06-06 22:06:35 +0000"
     },
     "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:40:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:40:30 +0000"
+    },
+    "done": false
   },
   "handcrafted:recipes/misc/terracotta_plate": {
     "criteria": {
@@ -11281,11 +11341,23 @@
     },
     "done": true
   },
+  "beachparty:recipes/palm_fence": {
+    "criteria": {
+      "has_palm_planks": "2025-06-07 00:38:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2025-06-06 22:51:56 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:40:30 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
@@ -11305,6 +11377,24 @@
     },
     "done": true
   },
+  "beachparty:recipes/palm_boat": {
+    "criteria": {
+      "has_palm_planks": "2025-06-07 00:38:33 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:40:30 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:40:30 +0000"
+    },
+    "done": false
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-06-06 22:17:38 +0000"
@@ -11323,11 +11413,23 @@
     },
     "done": true
   },
+  "beachparty:recipes/palm_table": {
+    "criteria": {
+      "has_palm_planks": "2025-06-07 00:38:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2025-06-06 23:52:17 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:40:30 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
@@ -11341,9 +11443,21 @@
     },
     "done": false
   },
+  "beachparty:recipes/palm_cabinet": {
+    "criteria": {
+      "has_palm_planks": "2025-06-07 00:38:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-06-06 21:52:09 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/beachparty/item_shelf_palm": {
+    "criteria": {
+      "has_item": "2025-06-07 00:38:33 +0000"
     },
     "done": true
   },
@@ -11374,6 +11488,12 @@
   "hearth_and_home:recipes/shingles": {
     "criteria": {
       "has_item": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/beachparty/sign_post_palm": {
+    "criteria": {
+      "has_item": "2025-06-07 00:38:33 +0000"
     },
     "done": true
   },
@@ -11443,6 +11563,12 @@
     },
     "done": true
   },
+  "beachparty:recipes/palm_stairs": {
+    "criteria": {
+      "has_palm_planks": "2025-06-07 00:38:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-06 22:06:35 +0000"
@@ -11455,9 +11581,21 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:40:30 +0000"
+    },
+    "done": false
+  },
   "handcrafted:recipes/misc/terracotta_cup": {
     "criteria": {
       "has_terracotta_cup": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_slab": {
+    "criteria": {
+      "has_palm_planks": "2025-06-07 00:38:33 +0000"
     },
     "done": true
   },
@@ -11476,6 +11614,12 @@
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-06 22:06:35 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/hooded_beach_chair": {
+    "criteria": {
+      "has_palm_planks": "2025-06-07 00:38:33 +0000"
     },
     "done": true
   },
@@ -11527,9 +11671,21 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:40:30 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-06-06 22:04:04 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_sign": {
+    "criteria": {
+      "has_palm_planks": "2025-06-07 00:38:33 +0000"
     },
     "done": true
   },
@@ -11575,6 +11731,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:40:30 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2025-06-06 22:55:27 +0000"
@@ -11593,9 +11755,21 @@
     },
     "done": true
   },
+  "beachparty:recipes/palm_fence_gate": {
+    "criteria": {
+      "has_palm_planks": "2025-06-07 00:38:33 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/iron_hull": {
     "criteria": {
       "has_item": "2025-06-06 21:08:56 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_door": {
+    "criteria": {
+      "has_palm_planks": "2025-06-07 00:38:33 +0000"
     },
     "done": true
   },
@@ -11614,6 +11788,12 @@
   "candlelight:recipes/painting": {
     "criteria": {
       "has_painting": "2025-06-06 22:15:01 +0000"
+    },
+    "done": true
+  },
+  "beachparty:recipes/palm_chair": {
+    "criteria": {
+      "has_palm_planks": "2025-06-07 00:38:33 +0000"
     },
     "done": true
   },
