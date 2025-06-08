@@ -11779,75 +11779,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "beachparty:main/get_all_music_discs": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 03:44:29 +0800"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-09 03:44:29 +0800"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-09 03:44:29 +0800"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-09 03:44:29 +0800"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-09 03:44:29 +0800"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-09 03:44:29 +0800"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-09 03:44:29 +0800"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-09 03:44:29 +0800"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-09 03:44:29 +0800"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-09 03:44:29 +0800"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-09 03:44:29 +0800"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-09 03:44:29 +0800"
+      "beachparty:music_disc_pridelands": "2025-06-09 03:24:58 +0800"
     },
     "done": false
   },
@@ -11857,21 +11791,9 @@
     },
     "done": true
   },
-  "beachparty:main/get_all_music_discs": {
-    "criteria": {
-      "beachparty:music_disc_pridelands": "2025-06-09 03:24:58 +0800"
-    },
-    "done": false
-  },
   "candlelight:recipes/side_table": {
     "criteria": {
       "has_floorboard": "2025-06-09 03:34:59 +0800"
-    },
-    "done": true
-  },
-  "candlelight:main/place_table": {
-    "criteria": {
-      "table": "2025-06-09 03:38:30 +0800"
     },
     "done": true
   },
@@ -11902,6 +11824,12 @@
   "candlelight:recipes/sideboard": {
     "criteria": {
       "has_floorboard": "2025-06-09 03:34:59 +0800"
+    },
+    "done": true
+  },
+  "candlelight:main/place_table": {
+    "criteria": {
+      "table": "2025-06-09 03:38:30 +0800"
     },
     "done": true
   },
