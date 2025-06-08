@@ -12463,73 +12463,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 02:05:58 +0800"
+      "log_spam_fixer": "2025-06-09 02:10:58 +0800"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 02:05:58 +0800"
+      "log_spam_fixer": "2025-06-09 02:10:58 +0800"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 02:05:58 +0800"
+      "log_spam_fixer": "2025-06-09 02:10:58 +0800"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 02:05:58 +0800"
+      "log_spam_fixer": "2025-06-09 02:10:58 +0800"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 02:05:58 +0800"
+      "log_spam_fixer": "2025-06-09 02:10:58 +0800"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 02:05:58 +0800"
+      "log_spam_fixer": "2025-06-09 02:10:58 +0800"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 02:05:58 +0800"
+      "log_spam_fixer": "2025-06-09 02:10:58 +0800"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 02:05:58 +0800"
+      "log_spam_fixer": "2025-06-09 02:10:58 +0800"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 02:05:58 +0800"
+      "log_spam_fixer": "2025-06-09 02:10:58 +0800"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 02:05:58 +0800"
+      "log_spam_fixer": "2025-06-09 02:10:58 +0800"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 02:05:58 +0800"
+      "log_spam_fixer": "2025-06-09 02:10:58 +0800"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 02:05:58 +0800"
+      "log_spam_fixer": "2025-06-09 02:10:58 +0800"
     },
     "done": false
   },
@@ -12575,6 +12575,12 @@
     },
     "done": true
   },
+  "obsidianequipment:recipes/misc/obsidian_axe": {
+    "criteria": {
+      "has_ingredient": "2025-06-09 02:11:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2025-06-09 01:56:01 +0800"
@@ -12611,6 +12617,12 @@
     },
     "done": true
   },
+  "obsidianequipment:recipes/misc/obsidian_pickaxe": {
+    "criteria": {
+      "has_ingredient": "2025-06-09 02:10:55 +0800"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/yellow_cushion": {
     "criteria": {
       "has_yellow_cushion": "2025-06-09 01:56:01 +0800"
@@ -12620,6 +12632,12 @@
   "handcrafted:recipes/misc/yellow_sheet": {
     "criteria": {
       "has_yellow_sheet": "2025-06-09 01:56:01 +0800"
+    },
+    "done": true
+  },
+  "obsidianequipment:recipes/misc/obsidian_sword": {
+    "criteria": {
+      "has_ingredient": "2025-06-09 02:10:59 +0800"
     },
     "done": true
   },
@@ -12728,6 +12746,12 @@
   "comforts:hammock_yellow": {
     "criteria": {
       "has_yellow_wool": "2025-06-09 01:56:01 +0800"
+    },
+    "done": true
+  },
+  "obsidianequipment:recipes/misc/obsidian_ingot": {
+    "criteria": {
+      "has_ingredient": "2025-06-09 02:09:42 +0800"
     },
     "done": true
   },
