@@ -11787,3 +11787,384 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [03:10:07] [Server thread/INFO]: [Meruxz: Teleported Meruxz to -3938.500000, 74.500000, -3046.500000]
 [03:11:32] [Server thread/INFO]: Saving the game (this may take a moment!)
 [03:11:32] [Server thread/INFO]: Saved the game
+[03:12:54] [Server thread/INFO]: [Meruxz: Teleported Meruxz to -3990.500000, 75.500000, -3030.500000]
+[03:12:57] [Server thread/INFO]: [Meruxz: Teleported Meruxz to -4158.500000, 92.500000, -3163.500000]
+[03:13:22] [Server thread/INFO]: [Meruxz: Teleported Meruxz to -4150.500000, 83.500000, -3016.500000]
+[03:13:51] [Server thread/INFO]: [Meruxz: Teleported Meruxz to -3938.500000, 74.500000, -3046.500000]
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at java.base/java.util.Objects.checkIndex(Objects.java:385)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//net.minecraft.class_2539.method_10783(class_2539.java:522)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//net.minecraft.class_2543.decode(class_2543.java:32)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[03:14:16] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 25 more
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: java.lang.IndexOutOfBoundsException: Index 110 out of bounds for length 1
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at java.base/java.util.Objects.checkIndex(Objects.java:385)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//net.minecraft.class_2539.method_10783(class_2539.java:522)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//net.minecraft.class_2543.decode(class_2543.java:32)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: java.lang.IndexOutOfBoundsException: Index 80 out of bounds for length 1
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at java.base/java.util.Objects.checkIndex(Objects.java:385)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//net.minecraft.class_2539.method_10783(class_2539.java:522)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//net.minecraft.class_2543.decode(class_2543.java:32)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: java.lang.IndexOutOfBoundsException: Index 341961 out of bounds for length 1
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at java.base/java.util.Objects.checkIndex(Objects.java:385)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//net.minecraft.class_2539.method_10783(class_2539.java:522)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//net.minecraft.class_2543.decode(class_2543.java:32)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:416)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:383)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:366)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:262)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:248)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:241)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:401)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:366)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:262)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:248)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:241)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:81)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.handler.timeout.IdleStateHandler.channelInactive(IdleStateHandler.java:277)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:262)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:248)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:241)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1405)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:262)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:248)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:901)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:813)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[03:14:16] [Netty Epoll Server IO #6/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at java.base/java.util.Objects.checkIndex(Objects.java:385)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//net.minecraft.class_2539.method_10783(class_2539.java:522)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//net.minecraft.class_2543.decode(class_2543.java:32)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[03:15:51] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:385) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 25 more
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: java.lang.IndexOutOfBoundsException: Index 110 out of bounds for length 1
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at java.base/java.util.Objects.checkIndex(Objects.java:385)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//net.minecraft.class_2539.method_10783(class_2539.java:522)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//net.minecraft.class_2543.decode(class_2543.java:32)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: java.lang.IndexOutOfBoundsException: Index 80 out of bounds for length 1
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at java.base/java.util.Objects.checkIndex(Objects.java:385)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//net.minecraft.class_2539.method_10783(class_2539.java:522)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//net.minecraft.class_2543.decode(class_2543.java:32)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: java.lang.IndexOutOfBoundsException: Index 341961 out of bounds for length 1
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at java.base/java.util.Objects.checkIndex(Objects.java:385)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//net.minecraft.class_2539.method_10783(class_2539.java:522)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//net.minecraft.class_2543.decode(class_2543.java:32)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:416)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:383)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:366)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:262)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:248)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:241)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelInputClosed(ByteToMessageDecoder.java:401)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.codec.ByteToMessageDecoder.channelInactive(ByteToMessageDecoder.java:366)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:262)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:248)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:241)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.ChannelInboundHandlerAdapter.channelInactive(ChannelInboundHandlerAdapter.java:81)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.handler.timeout.IdleStateHandler.channelInactive(IdleStateHandler.java:277)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:262)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:248)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.fireChannelInactive(AbstractChannelHandlerContext.java:241)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline$HeadContext.channelInactive(DefaultChannelPipeline.java:1405)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:262)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannelHandlerContext.invokeChannelInactive(AbstractChannelHandlerContext.java:248)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.DefaultChannelPipeline.fireChannelInactive(DefaultChannelPipeline.java:901)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:813)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at knot//io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+[03:15:51] [Netty Epoll Server IO #7/INFO]: [STDERR]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[03:16:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5716ms or 114 ticks behind
+[03:16:40] [Server thread/INFO]: Saving the game (this may take a moment!)
+[03:16:40] [Server thread/INFO]: Saved the game
