@@ -6,9 +6,9 @@ screen -S server-terminal -X stuff "save-all$(printf '\r')"
 
 sleep 5;
 
-git add --all
-git commit -a -m "save"
-git push
+sudo git add --all
+sudo git commit -a -m "save"
+sudo git push
 
 echo "game saved."
 
