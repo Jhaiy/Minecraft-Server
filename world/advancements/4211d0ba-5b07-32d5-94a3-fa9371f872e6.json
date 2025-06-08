@@ -11520,77 +11520,83 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "clutter:recipes/misc/brick_kiln": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 02:39:02 +0800"
+      "has_furnace": "2025-06-09 02:24:30 +0800"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/decorations/smoker": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 02:39:02 +0800"
+      "has_furnace": "2025-06-09 02:24:30 +0800"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "brewery:recipes/wooden_brewingstation": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 02:39:02 +0800"
+      "has_furnace": "2025-06-09 02:24:30 +0800"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 02:39:02 +0800"
+      "has_tripwire_hook": "2025-06-09 02:27:44 +0800"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "candlelight:main/place_stove": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 02:39:02 +0800"
+      "cobblestone_stove": "2025-06-09 02:28:15 +0800"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "regions_unexplored:recipes/decorations/cherry_shrub": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 02:39:02 +0800"
+      "has_cherry_sapling": "2025-06-09 02:33:07 +0800"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 02:39:02 +0800"
+      "has_amethyst_shard": "2025-06-09 02:33:49 +0800"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 02:39:02 +0800"
+      "has_amethyst_shard": "2025-06-09 02:33:49 +0800"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "supplementaries:recipes/crystal_display": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 02:39:02 +0800"
+      "has_amethyst_shard": "2025-06-09 02:33:49 +0800"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 02:39:02 +0800"
+      "has_amethyst_shard": "2025-06-09 02:33:49 +0800"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/tools/spyglass": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 02:39:02 +0800"
+      "has_amethyst_shard": "2025-06-09 02:33:49 +0800"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "spelunkery:recipes/amethyst": {
     "criteria": {
-      "log_spam_fixer": "2025-06-09 02:39:02 +0800"
+      "has_item": "2025-06-09 02:33:49 +0800"
     },
-    "done": false
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cherry_cabinet": {
+    "criteria": {
+      "has_cherry_trapdoor": "2025-06-09 02:34:04 +0800"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
@@ -11604,27 +11610,57 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/cherry_shrub": {
+  "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
-      "has_cherry_sapling": "2025-06-09 02:33:07 +0800"
+      "has_log": "2025-06-09 02:35:39 +0800"
     },
     "done": true
   },
-  "clutter:recipes/misc/brick_kiln": {
+  "clutter:recipes/decorations/cherry_chair": {
     "criteria": {
-      "has_furnace": "2025-06-09 02:24:30 +0800"
+      "has_cherry_log": "2025-06-09 02:35:39 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+  "master_cutter:recipes/wood/cherry": {
     "criteria": {
-      "has_amethyst_shard": "2025-06-09 02:33:49 +0800"
+      "requirement": "2025-06-09 02:35:39 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/tinted_glass": {
+  "clutter:recipes/decorations/cherry_bench": {
     "criteria": {
-      "has_amethyst_shard": "2025-06-09 02:33:49 +0800"
+      "has_cherry_log": "2025-06-09 02:35:39 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/cherry_short_bench": {
+    "criteria": {
+      "has_cherry_log": "2025-06-09 02:35:39 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/cherry_table": {
+    "criteria": {
+      "has_cherry_log": "2025-06-09 02:35:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-06-09 02:36:47 +0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/torchflower_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-06-09 02:36:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-06-09 02:38:07 +0800"
     },
     "done": true
   },
@@ -11652,24 +11688,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_torchflower": {
-    "criteria": {
-      "has_torchflower": "2025-06-09 02:36:47 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2025-06-09 02:24:30 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-06-09 02:27:44 +0800"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_red": {
     "criteria": {
       "has_red_wool": "2025-06-09 02:39:18 +0800"
@@ -11679,18 +11697,6 @@
   "vinery:recipes/vinemaker_apron": {
     "criteria": {
       "has_red_wool": "2025-06-09 02:39:18 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2025-06-09 02:35:39 +0800"
-    },
-    "done": true
-  },
-  "clutter:recipes/decorations/cherry_chair": {
-    "criteria": {
-      "has_cherry_log": "2025-06-09 02:35:39 +0800"
     },
     "done": true
   },
@@ -11706,87 +11712,123 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/cherry_cabinet": {
-    "criteria": {
-      "has_cherry_trapdoor": "2025-06-09 02:34:04 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/crystal_display": {
-    "criteria": {
-      "has_amethyst_shard": "2025-06-09 02:33:49 +0800"
-    },
-    "done": true
-  },
-  "master_cutter:recipes/wood/cherry": {
-    "criteria": {
-      "requirement": "2025-06-09 02:35:39 +0800"
-    },
-    "done": true
-  },
-  "brewery:recipes/wooden_brewingstation": {
-    "criteria": {
-      "has_furnace": "2025-06-09 02:24:30 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2025-06-09 02:33:49 +0800"
-    },
-    "done": true
-  },
-  "twigs:recipes/paper_lanterns/torchflower_paper_lantern": {
-    "criteria": {
-      "has_item": "2025-06-09 02:36:47 +0800"
-    },
-    "done": true
-  },
-  "clutter:recipes/decorations/cherry_bench": {
-    "criteria": {
-      "has_cherry_log": "2025-06-09 02:35:39 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-06-09 02:33:49 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-06-09 02:38:07 +0800"
-    },
-    "done": true
-  },
-  "candlelight:main/place_stove": {
-    "criteria": {
-      "cobblestone_stove": "2025-06-09 02:28:15 +0800"
-    },
-    "done": true
-  },
-  "clutter:recipes/decorations/cherry_short_bench": {
-    "criteria": {
-      "has_cherry_log": "2025-06-09 02:35:39 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2025-06-09 02:39:18 +0800"
     },
     "done": true
   },
-  "spelunkery:recipes/amethyst": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_item": "2025-06-09 02:33:49 +0800"
+      "log_spam_fixer": "2025-06-09 02:45:05 +0800"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-09 02:45:05 +0800"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-09 02:45:05 +0800"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-09 02:45:05 +0800"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-09 02:45:05 +0800"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-09 02:45:05 +0800"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-09 02:45:05 +0800"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-09 02:45:05 +0800"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-09 02:45:05 +0800"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-09 02:45:05 +0800"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-09 02:45:05 +0800"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-09 02:45:05 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2025-06-09 02:43:28 +0800"
     },
     "done": true
   },
-  "clutter:recipes/decorations/cherry_table": {
+  "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
-      "has_cherry_log": "2025-06-09 02:35:39 +0800"
+      "has_orange_wool": "2025-06-09 02:43:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_orange_wool": "2025-06-09 02:43:28 +0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/orange_cushion": {
+    "criteria": {
+      "has_orange_cushion": "2025-06-09 02:43:28 +0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/orange_sheet": {
+    "criteria": {
+      "has_orange_sheet": "2025-06-09 02:43:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2025-06-09 02:43:28 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_orange_wool": "2025-06-09 02:43:28 +0800"
     },
     "done": true
   },
