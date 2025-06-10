@@ -4384,6 +4384,7 @@
   "spelunkery:spelunkery/every_fungus": {
     "criteria": {
       "mushgloom": "2025-06-06 07:08:02 +0800",
+      "conk_fungus": "2025-06-10 12:03:41 +0800",
       "brown_mushroom": "2025-06-05 05:21:09 +0800",
       "warped_fungus": "2025-06-10 10:44:59 +0800",
       "red_mushroom": "2025-06-05 22:09:18 +0800",
@@ -7022,7 +7023,10 @@
       "rose_bush": "2025-06-09 02:38:07 +0800",
       "white_tulip": "2025-06-07 04:17:42 +0800",
       "azure_bluet": "2025-06-07 04:15:49 +0800",
+      "snapdragon": "2025-06-10 12:04:10 +0800",
       "orange_tulip": "2025-06-07 04:18:37 +0800",
+      "allium": "2025-06-10 11:50:09 +0800",
+      "sunflower": "2025-06-10 11:49:36 +0800",
       "cornflower": "2025-06-09 01:38:21 +0800",
       "peony": "2025-06-05 21:57:26 +0800",
       "oxeye_daisy": "2025-06-07 04:15:48 +0800"
@@ -12660,75 +12664,813 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-06-10 11:30:08 +0800"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/glowstone_slab": {
+    "criteria": {
+      "has_glowstone": "2025-06-10 11:30:08 +0800"
+    },
+    "done": true
+  },
+  "lamps:recipes/decorations/glowstone_stairs": {
+    "criteria": {
+      "has_glowstone": "2025-06-10 11:30:08 +0800"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/tomato_bag": {
+    "criteria": {
+      "has_tomato": "2025-06-10 11:46:12 +0800"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/onion_bag": {
+    "criteria": {
+      "has_onion": "2025-06-10 11:46:55 +0800"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/strawberry_bag": {
+    "criteria": {
+      "has_strawberry": "2025-06-10 11:47:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-06-10 11:49:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-06-10 11:49:51 +0800"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/sugi_wood": {
+    "criteria": {
+      "has_log": "2025-06-10 11:50:03 +0800"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/sugi_planks": {
+    "criteria": {
+      "has_logs": "2025-06-10 11:50:03 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-06-10 11:50:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-06-10 11:50:09 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/allium_petal_block": {
+    "criteria": {
+      "has_allium": "2025-06-10 11:50:09 +0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/allium_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-06-10 11:50:09 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-06-10 11:50:09 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-10 11:50:09 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-06-10 11:50:09 +0800"
+    },
+    "done": true
+  },
+  "meadow:main/wool_collector": {
+    "criteria": {
+      "meadow:highland_wool": "2025-06-10 11:51:14 +0800"
+    },
+    "done": false
+  },
+  "meadow:recipes/highland_carpet": {
+    "criteria": {
+      "has_highland_wool": "2025-06-10 11:51:14 +0800"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/conk_fungus": {
+    "criteria": {
+      "item": "2025-06-10 12:03:41 +0800"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-06-10 12:03:59 +0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/brown_cushion": {
+    "criteria": {
+      "has_brown_cushion": "2025-06-10 12:03:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-06-10 12:03:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-06-10 12:03:59 +0800"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-06-10 12:03:59 +0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/brown_sheet": {
+    "criteria": {
+      "has_brown_sheet": "2025-06-10 12:03:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-06-10 12:03:59 +0800"
+    },
+    "done": true
+  },
+  "vinery:recipes/vinemaker_boots": {
+    "criteria": {
+      "has_brown_wool": "2025-06-10 12:03:59 +0800"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/misc/pink_dye_from_snapdragon": {
+    "criteria": {
+      "has_snapdragon": "2025-06-10 12:04:10 +0800"
+    },
+    "done": true
+  },
+  "duckling:pet_duck": {
+    "criteria": {
+      "pet_duck": "2025-06-10 12:05:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_cushion_from_magenta_dye": {
+    "criteria": {
+      "has_magenta_cushion": "2025-06-10 12:08:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_cushion_from_yellow_dye": {
+    "criteria": {
+      "has_yellow_cushion": "2025-06-10 12:08:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_cushion_from_pink_dye": {
+    "criteria": {
+      "has_pink_cushion": "2025-06-10 12:08:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_cushion_from_gray_dye": {
+    "criteria": {
+      "has_gray_cushion": "2025-06-10 12:08:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_cushion_from_white_dye": {
+    "criteria": {
+      "has_white_cushion": "2025-06-10 12:08:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_cushion_from_light_gray_dye": {
+    "criteria": {
+      "has_light_gray_cushion": "2025-06-10 12:08:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_cushion_from_light_blue_dye": {
+    "criteria": {
+      "has_light_blue_cushion": "2025-06-10 12:08:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_cushion_from_purple_dye": {
+    "criteria": {
+      "has_purple_cushion": "2025-06-10 12:08:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_cushion_from_green_dye": {
+    "criteria": {
+      "has_green_cushion": "2025-06-10 12:08:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_cushion_from_blue_dye": {
+    "criteria": {
+      "has_blue_cushion": "2025-06-10 12:08:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_cushion_from_orange_dye": {
+    "criteria": {
+      "has_orange_cushion": "2025-06-10 12:08:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_cushion_from_cyan_dye": {
+    "criteria": {
+      "has_cyan_cushion": "2025-06-10 12:08:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_cushion_from_brown_dye": {
+    "criteria": {
+      "has_brown_cushion": "2025-06-10 12:08:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_cushion_from_red_dye": {
+    "criteria": {
+      "has_red_cushion": "2025-06-10 12:08:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_cushion_from_black_dye": {
+    "criteria": {
+      "has_black_cushion": "2025-06-10 12:08:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_cushion_from_lime_dye": {
+    "criteria": {
+      "has_lime_cushion": "2025-06-10 12:08:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_sheet_from_light_blue_dye": {
+    "criteria": {
+      "has_light_blue_sheet": "2025-06-10 12:10:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_sheet_from_orange_dye": {
+    "criteria": {
+      "has_orange_sheet": "2025-06-10 12:10:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_sheet_from_lime_dye": {
+    "criteria": {
+      "has_lime_sheet": "2025-06-10 12:10:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_sheet_from_purple_dye": {
+    "criteria": {
+      "has_purple_sheet": "2025-06-10 12:10:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_sheet_from_green_dye": {
+    "criteria": {
+      "has_green_sheet": "2025-06-10 12:10:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_sheet_from_cyan_dye": {
+    "criteria": {
+      "has_cyan_sheet": "2025-06-10 12:10:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_sheet_from_red_dye": {
+    "criteria": {
+      "has_red_sheet": "2025-06-10 12:10:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_sheet_from_yellow_dye": {
+    "criteria": {
+      "has_yellow_sheet": "2025-06-10 12:10:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_sheet_from_blue_dye": {
+    "criteria": {
+      "has_blue_sheet": "2025-06-10 12:10:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_sheet_from_magenta_dye": {
+    "criteria": {
+      "has_magenta_sheet": "2025-06-10 12:10:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_sheet_from_pink_dye": {
+    "criteria": {
+      "has_pink_sheet": "2025-06-10 12:10:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_sheet_from_light_gray_dye": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-06-10 12:10:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_sheet_from_white_dye": {
+    "criteria": {
+      "has_white_sheet": "2025-06-10 12:10:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_sheet_from_brown_dye": {
+    "criteria": {
+      "has_brown_sheet": "2025-06-10 12:10:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_sheet_from_gray_dye": {
+    "criteria": {
+      "has_gray_sheet": "2025-06-10 12:10:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_sheet_from_black_dye": {
+    "criteria": {
+      "has_black_sheet": "2025-06-10 12:10:12 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/cherry_wall_cupboard": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_cupboard": {
+    "criteria": {
+      "has_cherry_cupboard": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "candlelight:recipes/cherry_shelf": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "candlelight:recipes/cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/stripped_cherry_table": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_counter": {
+    "criteria": {
+      "has_cherry_counter": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_cherry": {
+    "criteria": {
+      "has_item": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "candlelight:recipes/cherry_cabinet": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_cherry": {
+    "criteria": {
+      "has_item": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_dining_bench": {
+    "criteria": {
+      "has_cherry_dining_bench": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_desk": {
+    "criteria": {
+      "has_cherry_desk": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_drawer": {
+    "criteria": {
+      "has_cherry_drawer": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_table": {
+    "criteria": {
+      "has_cherry_table": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "candlelight:recipes/cherry_table": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "candlelight:recipes/cherry_drawer": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/cherry_table": {
+    "criteria": {
+      "has_bamboo": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_fancy_bed": {
+    "criteria": {
+      "has_cherry_fancy_bed": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_couch": {
+    "criteria": {
+      "has_cherry_couch": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/cherry_cupboard": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_bench": {
+    "criteria": {
+      "has_cherry_bench": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_side_table": {
+    "criteria": {
+      "has_cherry_side_table": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_corner_trim": {
+    "criteria": {
+      "has_cherry_corner_trim": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_nightstand": {
+    "criteria": {
+      "has_cherry_nightstand": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/stripped_cherry_chair": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/stripped_cherry_bench": {
+    "criteria": {
+      "has_cherry_planks": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_chair": {
+    "criteria": {
+      "has_cherry_chair": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_shelf": {
+    "criteria": {
+      "has_cherry_shelf": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cherry_pillar_trim": {
+    "criteria": {
+      "has_cherry_pillar_trim": "2025-06-10 12:10:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2025-06-10 12:22:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-06-10 12:22:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_pink_dye": "2025-06-10 12:22:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-10 12:22:02 +0800"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/pink_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-06-10 12:22:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-10 12:22:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-10 12:22:02 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/cherry_shelf": {
+    "criteria": {
+      "has_cherry_slab": "2025-06-10 12:29:24 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/cherry_mosaic": {
+    "criteria": {
+      "has_cherry_slab": "2025-06-10 12:29:24 +0800"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/cherry_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-06-10 12:29:24 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/cherry_trellis": {
+    "criteria": {
+      "has_cherry_slab": "2025-06-10 12:29:24 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/acacia_bench": {
+    "criteria": {
+      "has_acacia_log": "2025-06-10 12:37:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-06-10 12:37:37 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/acacia_chair": {
+    "criteria": {
+      "has_acacia_log": "2025-06-10 12:37:37 +0800"
+    },
+    "done": true
+  },
+  "master_cutter:recipes/wood/acacia": {
+    "criteria": {
+      "requirement": "2025-06-10 12:37:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-10 12:37:37 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/acacia_short_bench": {
+    "criteria": {
+      "has_acacia_log": "2025-06-10 12:37:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-06-10 12:37:37 +0800"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/acacia_branch_from_acacia_log": {
+    "criteria": {
+      "has_log": "2025-06-10 12:37:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-10 12:37:37 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-06-10 12:37:37 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/decorations/acacia_table": {
+    "criteria": {
+      "has_acacia_log": "2025-06-10 12:37:37 +0800"
+    },
+    "done": true
+  },
+  "gofish:fishing/root": {
+    "criteria": {
+      "fishing_rod": "2025-06-10 12:37:56 +0800"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 11:10:48 +0800"
+      "log_spam_fixer": "2025-06-10 13:12:44 +0800"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 11:10:48 +0800"
+      "log_spam_fixer": "2025-06-10 13:12:44 +0800"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 11:10:48 +0800"
+      "log_spam_fixer": "2025-06-10 13:12:44 +0800"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 11:10:48 +0800"
+      "log_spam_fixer": "2025-06-10 13:12:44 +0800"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 11:10:48 +0800"
+      "log_spam_fixer": "2025-06-10 13:12:44 +0800"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 11:10:48 +0800"
+      "log_spam_fixer": "2025-06-10 13:12:44 +0800"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 11:10:48 +0800"
+      "log_spam_fixer": "2025-06-10 13:12:44 +0800"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 11:10:48 +0800"
+      "log_spam_fixer": "2025-06-10 13:12:44 +0800"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 11:10:48 +0800"
+      "log_spam_fixer": "2025-06-10 13:12:44 +0800"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 11:10:48 +0800"
+      "log_spam_fixer": "2025-06-10 13:12:44 +0800"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 11:10:48 +0800"
+      "log_spam_fixer": "2025-06-10 13:12:44 +0800"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 11:10:48 +0800"
+      "log_spam_fixer": "2025-06-10 13:12:44 +0800"
     },
     "done": false
   },
