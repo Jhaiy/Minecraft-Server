@@ -4279,6 +4279,7 @@
       "cookie": "2025-06-09 00:35:58 +0800",
       "glow_berries": "2025-06-10 08:21:40 +0800",
       "melon_slice": "2025-06-05 06:08:48 +0800",
+      "golden_carrot": "2025-06-10 11:06:27 +0800",
       "cooked_salmon": "2025-06-05 05:32:40 +0800",
       "carrot": "2025-06-10 10:13:40 +0800"
     },
@@ -12491,77 +12492,29 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 10:58:57 +0800"
+      "has_nether_brick": "2025-06-10 10:41:05 +0800"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "nethersdelight:recipes/decorations/blackstone_stove": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 10:58:57 +0800"
+      "has_nether_brick": "2025-06-10 10:41:05 +0800"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:nether/loot_bastion": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 10:58:57 +0800"
+      "loot_bastion_other": "2025-06-10 10:41:57 +0800"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 10:58:57 +0800"
+      "has_warped_fungus": "2025-06-10 10:44:59 +0800"
     },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-10 10:58:57 +0800"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-10 10:58:57 +0800"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-10 10:58:57 +0800"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-10 10:58:57 +0800"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-10 10:58:57 +0800"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-10 10:58:57 +0800"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-10 10:58:57 +0800"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-10 10:58:57 +0800"
-    },
-    "done": false
+    "done": true
   },
   "twigs:recipes/columns/blackstone_column": {
     "criteria": {
@@ -12599,12 +12552,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-06-10 10:41:05 +0800"
-    },
-    "done": true
-  },
   "master_cutter:recipes/stone/blackstone": {
     "criteria": {
       "requirement": "2025-06-10 10:52:29 +0800"
@@ -12620,12 +12567,6 @@
   "regions_unexplored:recipes/building_blocks/blackstone_cluster": {
     "criteria": {
       "has_blackstone": "2025-06-10 10:52:29 +0800"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/decorations/blackstone_stove": {
-    "criteria": {
-      "has_nether_brick": "2025-06-10 10:41:05 +0800"
     },
     "done": true
   },
@@ -12677,18 +12618,6 @@
     },
     "done": true
   },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2025-06-10 10:41:57 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
-    "criteria": {
-      "has_warped_fungus": "2025-06-10 10:44:59 +0800"
-    },
-    "done": true
-  },
   "mcwpaths:recipes/blackstone": {
     "criteria": {
       "has_wood": "2025-06-10 10:52:29 +0800"
@@ -12730,6 +12659,78 @@
       "has_blackstone": "2025-06-10 10:52:29 +0800"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-10 11:10:48 +0800"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-10 11:10:48 +0800"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-10 11:10:48 +0800"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-10 11:10:48 +0800"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-10 11:10:48 +0800"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-10 11:10:48 +0800"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-10 11:10:48 +0800"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-10 11:10:48 +0800"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-10 11:10:48 +0800"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-10 11:10:48 +0800"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-10 11:10:48 +0800"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-10 11:10:48 +0800"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
