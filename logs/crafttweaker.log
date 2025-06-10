@@ -1,150 +1,150 @@
-[11:14:26.859][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Fabric
-[11:14:26.872][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
-[11:14:32.453][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
-[11:14:32.462][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
-[11:14:32.962][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
-[11:14:32.964][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.57'
-[11:14:32.964][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-2.3.0+refabricated'
-[11:14:33.368][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
-[11:14:33.793][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[11:14:33.857][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[11:14:34.009][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
-[11:15:14.239][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
-[11:15:14.290][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[11:15:14.329][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[11:15:14.355][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
-[11:15:20.020][INFO][CraftTweaker]: CraftTweaker reload starting!
-[11:15:20.051][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
-[11:15:20.111][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[11:15:20.915][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [farmersdelight, mods, crafttweaker, expansions]
-[11:15:20.920][INFO][CraftTweaker-ZenCode]: Loading file 'appletrinketfix.zs' with priority 0
-[11:15:20.925][INFO][CraftTweaker-ZenCode]: Loading file 'explorers_compass.zs' with priority 0
-[11:15:20.926][INFO][CraftTweaker-ZenCode]: Loading file 'logo.zs' with priority 0
-[11:15:20.927][INFO][CraftTweaker-ZenCode]: Loading file 'mod_compat.zs' with priority 0
-[11:15:20.934][INFO][CraftTweaker-ZenCode]: Loading file 'mods\AlcoCraft+\keg_test.zs' with priority 0
-[11:15:20.940][INFO][CraftTweaker-ZenCode]: Loading file 'mods\Spelunkery\ironpickonastick.zs' with priority 0
-[11:15:20.941][INFO][CraftTweaker-ZenCode]: Loading file 'mods\[Let's Do] Brewery\hops_based_beers.zs' with priority 0
-[11:15:20.945][INFO][CraftTweaker-ZenCode]: Loading file 'nametag.zs' with priority 0
-[11:15:20.946][INFO][CraftTweaker-ZenCode]: Loading file 'obsidian_tool_tagging.zs' with priority 0
-[11:15:20.983][INFO][CraftTweaker-ZenCode]: Loading file 'remove_prismarite_cluster_trim.zs' with priority 0
-[11:15:20.983][INFO][CraftTweaker-ZenCode]: Loading file 'saddle.zs' with priority 0
-[11:15:20.984][INFO][CraftTweaker-ZenCode]: Loading file 'stone_tool_materials.zs' with priority 0
-[11:15:21.130][INFO][CraftTweaker]: Removing: [minecraft:apple] from tag: <tag:items:trinkets:head/face>
-[11:15:21.140][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:explorerscompass:explorerscompass>'
-[11:15:21.176][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:explorers_compass' that outputs: '<item:explorerscompass:explorerscompass>'
-[11:15:21.177][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:modrinth_logo_mod:modrinth_logo>'
-[11:15:21.189][INFO][CraftTweaker]: Adding: [farm_and_charm:tomato] to tag: <tag:items:c:crops/tomato>
-[11:15:21.190][INFO][CraftTweaker]: Adding: [farmersdelight:tomato] to tag: <tag:items:c:crops>
-[11:15:21.192][INFO][CraftTweaker]: Registering new items tag with name <tag:items:c:tomato>
-[11:15:21.193][INFO][CraftTweaker]: Adding: [farmersdelight:tomato] to tag: <tag:items:c:tomato>
-[11:15:21.194][INFO][CraftTweaker]: Adding: [clutter:hops] to tag: <tag:items:c:crops/hops>
-[11:15:21.195][INFO][CraftTweaker]: Adding: [alcocraftplus:hop] to tag: <tag:items:c:crops/hops>
-[11:15:21.195][INFO][CraftTweaker]: Adding: [farm_and_charm:onion] to tag: <tag:items:c:crops/onion>
-[11:15:21.197][INFO][CraftTweaker]: Adding: [duckling:duck_egg] to tag: <tag:items:c:eggs>
-[11:15:21.198][INFO][CraftTweaker]: Adding: [duckling:duck_egg] to tag: <tag:items:meadow:egg>
-[11:15:21.199][INFO][CraftTweaker]: Adding: [clutter:kiwi_bird_egg] to tag: <tag:items:c:eggs>
-[11:15:21.199][INFO][CraftTweaker]: Adding: [clutter:kiwi_bird_egg] to tag: <tag:items:meadow:egg>
-[11:15:21.200][INFO][CraftTweaker]: Adding: [clutter:emperor_penguin_egg] to tag: <tag:items:c:eggs>
-[11:15:21.201][INFO][CraftTweaker]: Adding: [clutter:emperor_penguin_egg] to tag: <tag:items:meadow:egg>
-[11:15:21.201][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:alcocraftplus:keg>'
-[11:15:21.213][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:homestead.keg' that outputs: '<item:alcocraftplus:keg>'
-[11:15:21.213][INFO][CraftTweaker]: Registering new items tag with name <tag:items:c:sunflowers>
-[11:15:21.213][INFO][CraftTweaker]: Adding: [spawn:sunflower] to tag: <tag:items:c:sunflowers>
-[11:15:21.214][INFO][CraftTweaker]: Adding: [minecraft:sunflower] to tag: <tag:items:c:sunflowers>
-[11:15:21.217][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:sunflower_convert' that outputs: '<item:minecraft:sunflower>'
-[11:15:21.219][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:spelunkery:iron_pick_on_a_stick>'
-[11:15:21.235][INFO][CraftTweaker]: Adding 'brewery:brewing' recipe, with name: 'crafttweaker:homestead.beer_barley' that outputs: '<item:brewery:beer_barley>'
-[11:15:21.237][INFO][CraftTweaker]: Adding 'brewery:brewing' recipe, with name: 'crafttweaker:homestead.beer_haley' that outputs: '<item:brewery:beer_haley>'
-[11:15:21.238][INFO][CraftTweaker]: Adding 'brewery:brewing' recipe, with name: 'crafttweaker:homestead.beer_hops' that outputs: '<item:brewery:beer_hops>'
-[11:15:21.238][INFO][CraftTweaker]: Adding 'brewery:brewing' recipe, with name: 'crafttweaker:homestead.beer_nettle' that outputs: '<item:brewery:beer_nettle>'
-[11:15:21.239][INFO][CraftTweaker]: Adding 'brewery:brewing' recipe, with name: 'crafttweaker:homestead.beer_oat' that outputs: '<item:brewery:beer_oat>'
-[11:15:21.240][INFO][CraftTweaker]: Adding 'brewery:brewing' recipe, with name: 'crafttweaker:homestead.beer_wheat' that outputs: '<item:brewery:beer_wheat>'
-[11:15:21.241][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:nametag' that outputs: '<item:minecraft:name_tag>'
-[11:15:21.242][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_sword] to tag: <tag:items:c:swords>
-[11:15:21.243][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_sword] to tag: <tag:items:minecraft:tools>
-[11:15:21.243][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_sword] to tag: <tag:items:minecraft:swords>
-[11:15:21.244][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_sword] to tag: <tag:items:c:tools>
-[11:15:21.244][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_sword] to tag: <tag:items:incendium:tools_armor>
-[11:15:21.245][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_sword] to tag: <tag:items:minecraft:breaks_decorated_pots>
-[11:15:21.246][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_sword] to tag: <tag:items:ps-keep:all>
-[11:15:21.247][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_sword] to tag: <tag:items:amendments:goes_in_tripwire_hook>
-[11:15:21.249][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:c:axes>
-[11:15:21.249][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:minecraft:tools>
-[11:15:21.250][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:minecraft:axes>
-[11:15:21.250][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:c:tools>
-[11:15:21.251][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:incendium:tools_armor>
-[11:15:21.251][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:minecraft:breaks_decorated_pots>
-[11:15:21.252][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:ps-keep:all>
-[11:15:21.253][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:incendium:tools>
-[11:15:21.254][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:amendments:goes_in_tripwire_hook>
-[11:15:21.254][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:c:shovels>
-[11:15:21.254][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:minecraft:tools>
-[11:15:21.257][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:minecraft:shovels>
-[11:15:21.257][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:c:tools>
-[11:15:21.258][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:incendium:tools_armor>
-[11:15:21.258][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:minecraft:breaks_decorated_pots>
-[11:15:21.259][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:ps-keep:all>
-[11:15:21.259][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:incendium:tools>
-[11:15:21.260][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:amendments:goes_in_tripwire_hook>
-[11:15:21.260][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:c:pickaxes>
-[11:15:21.261][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:minecraft:tools>
-[11:15:21.261][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:minecraft:pickaxes>
-[11:15:21.262][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:c:tools>
-[11:15:21.262][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:incendium:tools_armor>
-[11:15:21.262][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:minecraft:breaks_decorated_pots>
-[11:15:21.264][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:ps-keep:all>
-[11:15:21.264][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:incendium:tools>
-[11:15:21.264][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:amendments:goes_in_tripwire_hook>
-[11:15:21.265][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:minecraft:cluster_max_harvestables>
-[11:15:21.265][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:c:hoes>
-[11:15:21.265][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:minecraft:tools>
-[11:15:21.266][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:minecraft:hoes>
-[11:15:21.266][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:c:tools>
-[11:15:21.266][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:incendium:tools_armor>
-[11:15:21.267][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:minecraft:breaks_decorated_pots>
-[11:15:21.267][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:ps-keep:all>
-[11:15:21.268][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:incendium:tools>
-[11:15:21.268][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:amendments:goes_in_tripwire_hook>
-[11:15:21.269][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:c:armors>
-[11:15:21.269][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:bookshelf:armor>
-[11:15:21.269][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:ps-keep:all>
-[11:15:21.270][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:minecraft:trimmable_armor>
-[11:15:21.270][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:incendium:tools_armor>
-[11:15:21.271][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:bookshelf:helmets>
-[11:15:21.271][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:incendium:armor>
-[11:15:21.272][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:c:helmets>
-[11:15:21.273][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:c:armor>
-[11:15:21.274][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:c:armors>
-[11:15:21.274][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:bookshelf:armor>
-[11:15:21.275][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:ps-keep:all>
-[11:15:21.275][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:minecraft:trimmable_armor>
-[11:15:21.276][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:incendium:tools_armor>
-[11:15:21.277][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:bookshelf:chestplates>
-[11:15:21.277][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:incendium:armor>
-[11:15:21.278][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:c:chestplates>
-[11:15:21.278][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:c:armor>
-[11:15:21.279][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:c:armors>
-[11:15:21.279][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:bookshelf:armor>
-[11:15:21.279][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:ps-keep:all>
-[11:15:21.280][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:minecraft:trimmable_armor>
-[11:15:21.280][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:incendium:tools_armor>
-[11:15:21.281][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:bookshelf:leggings>
-[11:15:21.281][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:incendium:armor>
-[11:15:21.281][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:c:leggings>
-[11:15:21.281][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:c:armor>
-[11:15:21.281][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:c:armors>
-[11:15:21.282][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:bookshelf:armor>
-[11:15:21.282][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:ps-keep:all>
-[11:15:21.282][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:minecraft:trimmable_armor>
-[11:15:21.282][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:incendium:tools_armor>
-[11:15:21.283][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:bookshelf:boots>
-[11:15:21.283][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:incendium:armor>
-[11:15:21.284][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:c:boots>
-[11:15:21.284][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:c:armor>
-[11:15:21.285][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_horse_armor] to tag: <tag:items:ps-keep:all>
-[11:15:21.287][INFO][CraftTweaker]: Removing: [regions_unexplored:prismarite_cluster] from tag: <tag:items:minecraft:trim_materials>
-[11:15:21.288][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:saddle' that outputs: '<item:minecraft:saddle>'
-[11:15:21.288][INFO][CraftTweaker]: Adding: [biomeswevegone:rocky_stone] to tag: <tag:items:minecraft:stone_tool_materials>
-[11:15:21.289][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
-[11:15:21.301][INFO][CraftTweaker]: CraftTweaker reload complete!
-[11:15:21.301][INFO][CraftTweaker]: This reload was made possible by Jellycraft and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[03:00:12.953][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Fabric
+[03:00:12.972][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[03:00:19.608][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[03:00:19.618][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[03:00:20.157][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[03:00:20.159][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.57'
+[03:00:20.159][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-2.3.0+refabricated'
+[03:00:20.595][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[03:00:21.004][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[03:00:21.055][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[03:00:21.196][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[03:00:48.935][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
+[03:00:48.993][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[03:00:49.031][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[03:00:49.053][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
+[03:00:53.976][INFO][CraftTweaker]: CraftTweaker reload starting!
+[03:00:54.004][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[03:00:54.039][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[03:00:54.720][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [farmersdelight, mods, crafttweaker, expansions]
+[03:00:54.724][INFO][CraftTweaker-ZenCode]: Loading file 'appletrinketfix.zs' with priority 0
+[03:00:54.727][INFO][CraftTweaker-ZenCode]: Loading file 'explorers_compass.zs' with priority 0
+[03:00:54.728][INFO][CraftTweaker-ZenCode]: Loading file 'logo.zs' with priority 0
+[03:00:54.728][INFO][CraftTweaker-ZenCode]: Loading file 'mod_compat.zs' with priority 0
+[03:00:54.734][INFO][CraftTweaker-ZenCode]: Loading file 'mods\AlcoCraft+\keg_test.zs' with priority 0
+[03:00:54.737][INFO][CraftTweaker-ZenCode]: Loading file 'mods\Spelunkery\ironpickonastick.zs' with priority 0
+[03:00:54.737][INFO][CraftTweaker-ZenCode]: Loading file 'mods\[Let's Do] Brewery\hops_based_beers.zs' with priority 0
+[03:00:54.739][INFO][CraftTweaker-ZenCode]: Loading file 'nametag.zs' with priority 0
+[03:00:54.741][INFO][CraftTweaker-ZenCode]: Loading file 'obsidian_tool_tagging.zs' with priority 0
+[03:00:54.770][INFO][CraftTweaker-ZenCode]: Loading file 'remove_prismarite_cluster_trim.zs' with priority 0
+[03:00:54.770][INFO][CraftTweaker-ZenCode]: Loading file 'saddle.zs' with priority 0
+[03:00:54.772][INFO][CraftTweaker-ZenCode]: Loading file 'stone_tool_materials.zs' with priority 0
+[03:00:54.889][INFO][CraftTweaker]: Removing: [minecraft:apple] from tag: <tag:items:trinkets:head/face>
+[03:00:54.896][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:explorerscompass:explorerscompass>'
+[03:00:54.942][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:explorers_compass' that outputs: '<item:explorerscompass:explorerscompass>'
+[03:00:54.943][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:modrinth_logo_mod:modrinth_logo>'
+[03:00:54.955][INFO][CraftTweaker]: Adding: [farm_and_charm:tomato] to tag: <tag:items:c:crops/tomato>
+[03:00:54.956][INFO][CraftTweaker]: Adding: [farmersdelight:tomato] to tag: <tag:items:c:crops>
+[03:00:54.958][INFO][CraftTweaker]: Registering new items tag with name <tag:items:c:tomato>
+[03:00:54.958][INFO][CraftTweaker]: Adding: [farmersdelight:tomato] to tag: <tag:items:c:tomato>
+[03:00:54.959][INFO][CraftTweaker]: Adding: [clutter:hops] to tag: <tag:items:c:crops/hops>
+[03:00:54.959][INFO][CraftTweaker]: Adding: [alcocraftplus:hop] to tag: <tag:items:c:crops/hops>
+[03:00:54.960][INFO][CraftTweaker]: Adding: [farm_and_charm:onion] to tag: <tag:items:c:crops/onion>
+[03:00:54.961][INFO][CraftTweaker]: Adding: [duckling:duck_egg] to tag: <tag:items:c:eggs>
+[03:00:54.961][INFO][CraftTweaker]: Adding: [duckling:duck_egg] to tag: <tag:items:meadow:egg>
+[03:00:54.962][INFO][CraftTweaker]: Adding: [clutter:kiwi_bird_egg] to tag: <tag:items:c:eggs>
+[03:00:54.963][INFO][CraftTweaker]: Adding: [clutter:kiwi_bird_egg] to tag: <tag:items:meadow:egg>
+[03:00:54.963][INFO][CraftTweaker]: Adding: [clutter:emperor_penguin_egg] to tag: <tag:items:c:eggs>
+[03:00:54.963][INFO][CraftTweaker]: Adding: [clutter:emperor_penguin_egg] to tag: <tag:items:meadow:egg>
+[03:00:54.965][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:alcocraftplus:keg>'
+[03:00:54.974][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:homestead.keg' that outputs: '<item:alcocraftplus:keg>'
+[03:00:54.974][INFO][CraftTweaker]: Registering new items tag with name <tag:items:c:sunflowers>
+[03:00:54.974][INFO][CraftTweaker]: Adding: [spawn:sunflower] to tag: <tag:items:c:sunflowers>
+[03:00:54.976][INFO][CraftTweaker]: Adding: [minecraft:sunflower] to tag: <tag:items:c:sunflowers>
+[03:00:54.978][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:sunflower_convert' that outputs: '<item:minecraft:sunflower>'
+[03:00:54.980][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:spelunkery:iron_pick_on_a_stick>'
+[03:00:54.992][INFO][CraftTweaker]: Adding 'brewery:brewing' recipe, with name: 'crafttweaker:homestead.beer_barley' that outputs: '<item:brewery:beer_barley>'
+[03:00:54.994][INFO][CraftTweaker]: Adding 'brewery:brewing' recipe, with name: 'crafttweaker:homestead.beer_haley' that outputs: '<item:brewery:beer_haley>'
+[03:00:54.995][INFO][CraftTweaker]: Adding 'brewery:brewing' recipe, with name: 'crafttweaker:homestead.beer_hops' that outputs: '<item:brewery:beer_hops>'
+[03:00:54.995][INFO][CraftTweaker]: Adding 'brewery:brewing' recipe, with name: 'crafttweaker:homestead.beer_nettle' that outputs: '<item:brewery:beer_nettle>'
+[03:00:54.996][INFO][CraftTweaker]: Adding 'brewery:brewing' recipe, with name: 'crafttweaker:homestead.beer_oat' that outputs: '<item:brewery:beer_oat>'
+[03:00:54.996][INFO][CraftTweaker]: Adding 'brewery:brewing' recipe, with name: 'crafttweaker:homestead.beer_wheat' that outputs: '<item:brewery:beer_wheat>'
+[03:00:54.997][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:nametag' that outputs: '<item:minecraft:name_tag>'
+[03:00:54.998][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_sword] to tag: <tag:items:c:swords>
+[03:00:54.998][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_sword] to tag: <tag:items:minecraft:tools>
+[03:00:55.000][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_sword] to tag: <tag:items:minecraft:swords>
+[03:00:55.000][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_sword] to tag: <tag:items:c:tools>
+[03:00:55.001][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_sword] to tag: <tag:items:incendium:tools_armor>
+[03:00:55.002][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_sword] to tag: <tag:items:minecraft:breaks_decorated_pots>
+[03:00:55.003][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_sword] to tag: <tag:items:ps-keep:all>
+[03:00:55.004][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_sword] to tag: <tag:items:amendments:goes_in_tripwire_hook>
+[03:00:55.004][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:c:axes>
+[03:00:55.006][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:minecraft:tools>
+[03:00:55.007][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:minecraft:axes>
+[03:00:55.007][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:c:tools>
+[03:00:55.008][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:incendium:tools_armor>
+[03:00:55.008][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:minecraft:breaks_decorated_pots>
+[03:00:55.009][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:ps-keep:all>
+[03:00:55.010][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:incendium:tools>
+[03:00:55.010][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_axe] to tag: <tag:items:amendments:goes_in_tripwire_hook>
+[03:00:55.011][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:c:shovels>
+[03:00:55.011][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:minecraft:tools>
+[03:00:55.012][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:minecraft:shovels>
+[03:00:55.012][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:c:tools>
+[03:00:55.013][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:incendium:tools_armor>
+[03:00:55.013][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:minecraft:breaks_decorated_pots>
+[03:00:55.013][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:ps-keep:all>
+[03:00:55.013][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:incendium:tools>
+[03:00:55.014][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_shovel] to tag: <tag:items:amendments:goes_in_tripwire_hook>
+[03:00:55.014][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:c:pickaxes>
+[03:00:55.014][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:minecraft:tools>
+[03:00:55.014][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:minecraft:pickaxes>
+[03:00:55.014][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:c:tools>
+[03:00:55.014][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:incendium:tools_armor>
+[03:00:55.016][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:minecraft:breaks_decorated_pots>
+[03:00:55.016][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:ps-keep:all>
+[03:00:55.017][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:incendium:tools>
+[03:00:55.081][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:amendments:goes_in_tripwire_hook>
+[03:00:55.082][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_pickaxe] to tag: <tag:items:minecraft:cluster_max_harvestables>
+[03:00:55.082][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:c:hoes>
+[03:00:55.083][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:minecraft:tools>
+[03:00:55.083][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:minecraft:hoes>
+[03:00:55.083][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:c:tools>
+[03:00:55.083][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:incendium:tools_armor>
+[03:00:55.083][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:minecraft:breaks_decorated_pots>
+[03:00:55.084][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:ps-keep:all>
+[03:00:55.084][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:incendium:tools>
+[03:00:55.084][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_hoe] to tag: <tag:items:amendments:goes_in_tripwire_hook>
+[03:00:55.084][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:c:armors>
+[03:00:55.086][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:bookshelf:armor>
+[03:00:55.087][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:ps-keep:all>
+[03:00:55.088][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:minecraft:trimmable_armor>
+[03:00:55.088][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:incendium:tools_armor>
+[03:00:55.088][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:bookshelf:helmets>
+[03:00:55.089][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:incendium:armor>
+[03:00:55.089][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:c:helmets>
+[03:00:55.089][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_helmet] to tag: <tag:items:c:armor>
+[03:00:55.090][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:c:armors>
+[03:00:55.090][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:bookshelf:armor>
+[03:00:55.090][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:ps-keep:all>
+[03:00:55.091][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:minecraft:trimmable_armor>
+[03:00:55.091][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:incendium:tools_armor>
+[03:00:55.091][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:bookshelf:chestplates>
+[03:00:55.092][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:incendium:armor>
+[03:00:55.092][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:c:chestplates>
+[03:00:55.092][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_chestplate] to tag: <tag:items:c:armor>
+[03:00:55.093][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:c:armors>
+[03:00:55.093][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:bookshelf:armor>
+[03:00:55.093][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:ps-keep:all>
+[03:00:55.094][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:minecraft:trimmable_armor>
+[03:00:55.094][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:incendium:tools_armor>
+[03:00:55.094][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:bookshelf:leggings>
+[03:00:55.094][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:incendium:armor>
+[03:00:55.094][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:c:leggings>
+[03:00:55.096][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_leggings] to tag: <tag:items:c:armor>
+[03:00:55.096][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:c:armors>
+[03:00:55.096][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:bookshelf:armor>
+[03:00:55.097][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:ps-keep:all>
+[03:00:55.097][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:minecraft:trimmable_armor>
+[03:00:55.097][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:incendium:tools_armor>
+[03:00:55.098][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:bookshelf:boots>
+[03:00:55.098][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:incendium:armor>
+[03:00:55.098][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:c:boots>
+[03:00:55.098][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_boots] to tag: <tag:items:c:armor>
+[03:00:55.098][INFO][CraftTweaker]: Adding: [obsidianequipment:obsidian_horse_armor] to tag: <tag:items:ps-keep:all>
+[03:00:55.099][INFO][CraftTweaker]: Removing: [regions_unexplored:prismarite_cluster] from tag: <tag:items:minecraft:trim_materials>
+[03:00:55.100][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:saddle' that outputs: '<item:minecraft:saddle>'
+[03:00:55.101][INFO][CraftTweaker]: Adding: [biomeswevegone:rocky_stone] to tag: <tag:items:minecraft:stone_tool_materials>
+[03:00:55.101][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[03:00:55.111][INFO][CraftTweaker]: CraftTweaker reload complete!
+[03:00:55.111][INFO][CraftTweaker]: This reload was made possible by Spencer Gilbert and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod

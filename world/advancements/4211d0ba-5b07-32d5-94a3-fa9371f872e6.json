@@ -13404,75 +13404,219 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 13:12:44 +0800"
+      "log_spam_fixer": "2025-06-11 04:04:09 +0800"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 13:12:44 +0800"
+      "log_spam_fixer": "2025-06-11 04:04:09 +0800"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 13:12:44 +0800"
+      "log_spam_fixer": "2025-06-11 04:04:09 +0800"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 13:12:44 +0800"
+      "log_spam_fixer": "2025-06-11 04:04:09 +0800"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 13:12:44 +0800"
+      "log_spam_fixer": "2025-06-11 04:04:09 +0800"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 13:12:44 +0800"
+      "log_spam_fixer": "2025-06-11 04:04:09 +0800"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 13:12:44 +0800"
+      "log_spam_fixer": "2025-06-11 04:04:09 +0800"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 13:12:44 +0800"
+      "log_spam_fixer": "2025-06-11 04:04:09 +0800"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 13:12:44 +0800"
+      "log_spam_fixer": "2025-06-11 04:04:09 +0800"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 13:12:44 +0800"
+      "log_spam_fixer": "2025-06-11 04:04:09 +0800"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 13:12:44 +0800"
+      "log_spam_fixer": "2025-06-11 04:04:09 +0800"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 13:12:44 +0800"
+      "log_spam_fixer": "2025-06-11 04:04:09 +0800"
     },
     "done": false
+  },
+  "clutter:recipes/misc/magenta_butterfly_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-11 03:47:20 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/soul_butterfly_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-11 03:47:20 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/amethyst_gemstone_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-11 03:47:20 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/light_blue_butterfly_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-11 03:47:20 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/purple_butterfly_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-11 03:47:20 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/green_butterfly_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-11 03:47:20 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/crimson_butterfly_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-11 03:47:20 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/pink_butterfly_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-11 03:47:20 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/cyan_butterfly_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-11 03:47:20 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/gray_butterfly_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-11 03:47:20 +0800"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-06-11 03:47:34 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/brown_butterfly_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-11 03:47:20 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/light_gray_butterfly_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-11 03:47:20 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/red_butterfly_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-11 03:47:20 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/diamond_gemstone_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-11 03:47:20 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/yellow_butterfly_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-11 03:47:20 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/blue_butterfly_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-11 03:47:20 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/lime_butterfly_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-11 03:47:20 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/orange_butterfly_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-11 03:47:20 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/warped_butterfly_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-11 03:47:20 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/emerald_gemstone_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-11 03:47:20 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/black_butterfly_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-11 03:47:20 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/white_butterfly_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-11 03:47:20 +0800"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/quartz_gemstone_elytra": {
+    "criteria": {
+      "has_elytra": "2025-06-11 03:47:20 +0800"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
