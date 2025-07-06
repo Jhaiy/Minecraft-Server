@@ -1,12 +1,12 @@
-[03:00:42] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
-[03:00:42] [INIT] Loaded plugins:
-[03:00:42] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
-[03:00:42] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
-[03:00:42] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[03:00:42] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[03:00:42] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
-[03:00:42] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[03:00:42] [INFO] Loaded script server_scripts:example.js in 0.001 s
-[03:00:42] [INFO] Loaded 1/1 KubeJS server scripts in 0.026 s with 0 errors and 0 warnings
-[03:00:42] [INFO] Scripts loaded
-[03:01:04] [INFO] Server resource reload complete!
+[20:47:28] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
+[20:47:28] [INIT] Loaded plugins:
+[20:47:28] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[20:47:28] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
+[20:47:28] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[20:47:28] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[20:47:28] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[20:47:28] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[20:47:28] [INFO] Loaded script server_scripts:example.js in 0.0 s
+[20:47:28] [INFO] Loaded 1/1 KubeJS server scripts in 0.017 s with 0 errors and 0 warnings
+[20:47:28] [INFO] Scripts loaded
+[20:47:46] [INFO] Server resource reload complete!
