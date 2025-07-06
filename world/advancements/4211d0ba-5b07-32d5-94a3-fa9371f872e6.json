@@ -13548,79 +13548,127 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-06 21:05:48 +0000"
+      "log_spam_fixer": "2025-07-06 21:30:48 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-06 21:05:48 +0000"
+      "log_spam_fixer": "2025-07-06 21:30:48 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-06 21:05:48 +0000"
+      "log_spam_fixer": "2025-07-06 21:30:48 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-06 21:05:48 +0000"
+      "log_spam_fixer": "2025-07-06 21:30:48 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-06 21:05:48 +0000"
+      "log_spam_fixer": "2025-07-06 21:30:48 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-06 21:05:48 +0000"
+      "log_spam_fixer": "2025-07-06 21:30:48 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-06 21:05:48 +0000"
+      "log_spam_fixer": "2025-07-06 21:30:48 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-06 21:05:48 +0000"
+      "log_spam_fixer": "2025-07-06 21:30:48 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-06 21:05:48 +0000"
+      "log_spam_fixer": "2025-07-06 21:30:48 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-06 21:05:48 +0000"
+      "log_spam_fixer": "2025-07-06 21:30:48 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-06 21:05:48 +0000"
+      "log_spam_fixer": "2025-07-06 21:30:48 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-06 21:05:48 +0000"
+      "log_spam_fixer": "2025-07-06 21:30:48 +0000"
     },
     "done": false
+  },
+  "spawn:recipes/snail/potted_sweet_berries_from_sweet_berries": {
+    "criteria": {
+      "has_item": "2025-07-06 21:22:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-07-06 21:22:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-07-06 21:15:09 +0000"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/berry_crate": {
+    "criteria": {
+      "has_sweet_berries": "2025-07-06 21:22:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2025-07-06 21:22:37 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/sowing_the_future": {
+    "criteria": {
+      "use_grape_seed": "2025-07-06 21:19:55 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/white_grape_bag": {
+    "criteria": {
+      "has_white_grape": "2025-07-06 21:19:56 +0000"
+    },
+    "done": true
   },
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-07-06 21:02:39 +0000"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/sugar_bag": {
+    "criteria": {
+      "has_sugar": "2025-07-06 21:15:09 +0000"
     },
     "done": true
   },
