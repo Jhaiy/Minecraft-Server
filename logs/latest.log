@@ -1,149 +1,111 @@
-[08:47:11] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
-[08:47:11] [main/INFO]: Loading 43 mods:
-	- fabric-api 0.121.0+1.21.5
-	   |-- fabric-api-base 0.4.62+73a52b4b49
-	   |-- fabric-api-lookup-api-v1 1.6.95+86c3a9f149
-	   |-- fabric-biome-api-v1 16.0.7+2dd063df49
-	   |-- fabric-block-api-v1 1.0.37+86c3a9f149
-	   |-- fabric-block-view-api-v2 1.0.26+aa6d566c49
-	   |-- fabric-blockrenderlayer-v1 2.0.16+86c3a9f149
-	   |-- fabric-client-tags-api-v1 1.1.37+86c3a9f149
-	   |-- fabric-command-api-v1 1.2.70+f71b366f49
-	   |-- fabric-command-api-v2 2.2.49+73a52b4b49
-	   |-- fabric-commands-v0 0.2.87+df3654b349
-	   |-- fabric-content-registries-v0 10.0.12+3e6c1f7d49
-	   |-- fabric-convention-tags-v1 2.1.29+7f945d5b49
-	   |-- fabric-convention-tags-v2 2.14.3+fca633a049
-	   |-- fabric-crash-report-info-v1 0.3.12+86c3a9f149
-	   |-- fabric-data-attachment-api-v1 1.7.0+9c0dd47249
-	   |-- fabric-data-generation-api-v1 22.3.4+fd2b524049
-	   |-- fabric-dimensions-v1 4.0.17+3e6c1f7d49
-	   |-- fabric-entity-events-v1 2.0.25+27c1078f49
-	   |-- fabric-events-interaction-v0 4.0.13+73a52b4b49
-	   |-- fabric-game-rule-api-v1 1.0.70+c327076a49
-	   |-- fabric-item-api-v1 11.3.2+2ccdb6ef49
-	   |-- fabric-item-group-api-v1 4.2.8+3459fc6149
-	   |-- fabric-key-binding-api-v1 1.0.63+ecf51cdc49
-	   |-- fabric-keybindings-v0 0.2.61+df3654b349
-	   |-- fabric-lifecycle-events-v1 2.5.13+5cbce67349
-	   |-- fabric-loot-api-v2 3.0.47+3f89f5a549
-	   |-- fabric-loot-api-v3 1.0.35+86c3a9f149
-	   |-- fabric-message-api-v1 6.0.33+86c3a9f149
-	   |-- fabric-model-loading-api-v1 5.2.0+c982b95149
-	   |-- fabric-networking-api-v1 4.4.0+f3ffa98949
-	   |-- fabric-object-builder-api-v1 21.0.0+7b20cbb049
-	   |-- fabric-particles-v1 4.1.1+112e550e49
-	   |-- fabric-recipe-api-v1 8.1.6+052a85d049
-	   |-- fabric-registry-sync-v0 6.1.20+b556383249
-	   |-- fabric-renderer-api-v1 6.0.2+c982b95149
-	   |-- fabric-renderer-indigo 3.0.3+3e6c1f7d49
-	   |-- fabric-rendering-data-attachment-v1 0.3.64+73761d2e49
-	   |-- fabric-rendering-fluids-v1 3.1.27+86c3a9f149
-	   |-- fabric-rendering-v1 11.1.11+081cc04349
-	   |-- fabric-resource-conditions-api-v1 5.0.21+73a52b4b49
-	   |-- fabric-resource-loader-v0 3.1.6+02ca679649
-	   |-- fabric-screen-api-v1 2.0.46+86c3a9f149
-	   |-- fabric-screen-handler-api-v1 1.3.127+c327076a49
-	   |-- fabric-sound-api-v1 1.0.38+86c3a9f149
-	   |-- fabric-tag-api-v1 1.0.16+ecf51cdc49
-	   |-- fabric-transfer-api-v1 5.4.23+7b20cbb049
-	   \-- fabric-transitive-access-wideners-v1 6.3.17+f17a180c49
-	- fabricloader 0.16.14
-	   \-- mixinextras 0.4.1
-	- java 21
-	- lithium 0.16.2+mc1.21.5
-	- minecraft 1.21.5
-[08:47:11] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Minecraft-Server/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[08:47:11] [main/INFO]: Compatibility level set to JAVA_21
-[08:47:11] [main/INFO]: Loaded configuration file for Lithium: 155 options available, 0 override(s) found.
-[08:47:12] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[08:47:23] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[08:47:25] [main/INFO]: Loaded 1373 recipes
-[08:47:25] [main/INFO]: Loaded 1484 advancements
-[08:47:26] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 2.576 ms
-[08:47:26] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[08:47:26] [Server thread/INFO]: Loading properties
-[08:47:26] [Server thread/INFO]: Default game type: SURVIVAL
-[08:47:26] [Server thread/INFO]: Generating keypair
-[08:47:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:47:26] [Server thread/INFO]: Using epoll channel type
-[08:47:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08:47:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[08:47:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[08:47:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[08:47:26] [Server thread/INFO]: Preparing level "world"
-[08:47:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[08:47:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:47:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:47:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:47:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:47:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:47:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:47:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:47:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:47:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:47:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[08:47:33] [Server thread/INFO]: Time elapsed: 5099 ms
-[08:47:33] [Server thread/INFO]: Done (6.553s)! For help, type "help"
-[08:47:58] [Server thread/INFO]: Saving the game (this may take a moment!)
-[08:47:58] [Server thread/INFO]: Saved the game
-[08:53:09] [Server thread/INFO]: Saving the game (this may take a moment!)
-[08:53:09] [Server thread/INFO]: Saved the game
-[08:55:34] [Server thread/INFO]: Raijinn[/127.33.200.19:56953] logged in with entity id 21 at (-10037.35259497308, 63.0, 3450.005861767122)
-[08:55:34] [Server thread/INFO]: Raijinn joined the game
-[08:56:58] [Server thread/INFO]: Meruxz[/127.118.152.57:38233] logged in with entity id 424 at (-8791.095226788331, 87.0, 5794.364417538536)
-[08:56:58] [Server thread/INFO]: Meruxz joined the game
-[08:57:37] [Server thread/INFO]: [Raijinn: Teleported Meruxz to Raijinn]
-[08:58:16] [Server thread/INFO]: Saving the game (this may take a moment!)
-[08:58:16] [Server thread/INFO]: Saved the game
-[09:03:35] [Server thread/INFO]: Saving the game (this may take a moment!)
-[09:03:35] [Server thread/INFO]: Saved the game
-[09:07:31] [Server thread/INFO]: [Raijinn: Teleported Meruxz to Raijinn]
-[09:08:42] [Server thread/INFO]: Saving the game (this may take a moment!)
-[09:08:42] [Server thread/INFO]: Saved the game
-[09:11:51] [Server thread/INFO]: [Not Secure] <Raijinn> love
-[09:11:56] [Server thread/INFO]: [Not Secure] <Raijinn> ang sakit ng tiyan ko shet
-[09:12:01] [Server thread/INFO]: [Not Secure] <Raijinn> HAHAHAHAHAHAHAHAAHAHAHAHA
-[09:12:04] [Server thread/INFO]: [Not Secure] <Raijinn> tp nalang ako sa base
-[09:12:12] [Server thread/INFO]: [Raijinn: Teleported Raijinn to -899.500000, 100.000000, 600.500000]
-[09:12:19] [Server thread/INFO]: [Raijinn: Teleported Meruxz to Raijinn]
-[09:12:34] [Server thread/INFO]: [Not Secure] <Raijinn> kunin mooo
-[09:12:36] [Server thread/INFO]: [Not Secure] <Raijinn> ito
-[09:12:38] [Server thread/INFO]: [Not Secure] <Raijinn> safe keep
-[09:12:46] [Server thread/INFO]: [Not Secure] <Raijinn> maya mo na ilagay
-[09:12:49] [Server thread/INFO]: [Not Secure] <Raijinn> need nyan ng water
-[09:12:51] [Server thread/INFO]: [Not Secure] <Raijinn> pag wala
-[09:12:52] [Server thread/INFO]: [Not Secure] <Raijinn> mamamatay
-[09:12:56] [Server thread/INFO]: [Not Secure] <Raijinn> magiging ganto
-[09:13:09] [Server thread/INFO]: [Not Secure] <Raijinn> cr lang me
-[09:13:11] [Server thread/INFO]: [Not Secure] <Raijinn> HAHAHAHAHAHA
-[09:13:51] [Server thread/INFO]: Saving the game (this may take a moment!)
-[09:13:51] [Server thread/INFO]: Saved the game
-[09:14:22] [Server thread/INFO]: Meruxz lost connection: Disconnected
-[09:14:22] [Server thread/INFO]: Meruxz left the game
-[09:19:13] [Server thread/INFO]: Saving the game (this may take a moment!)
-[09:19:13] [Server thread/INFO]: Saved the game
-[09:24:25] [Server thread/INFO]: Saving the game (this may take a moment!)
-[09:24:25] [Server thread/INFO]: Saved the game
-[09:29:37] [Server thread/INFO]: Saving the game (this may take a moment!)
-[09:29:37] [Server thread/INFO]: Saved the game
-[09:33:57] [Server thread/INFO]: [Raijinn: Gave 4 [Red Banner] to Raijinn]
-[09:34:50] [Server thread/INFO]: Saving the game (this may take a moment!)
-[09:34:50] [Server thread/INFO]: Saved the game
-[09:40:03] [Server thread/INFO]: Saving the game (this may take a moment!)
-[09:40:03] [Server thread/INFO]: Saved the game
-[09:45:16] [Server thread/INFO]: Saving the game (this may take a moment!)
-[09:45:16] [Server thread/INFO]: Saved the game
-[09:46:42] [Server thread/INFO]: Raijinn lost connection: Disconnected
-[09:46:42] [Server thread/INFO]: Raijinn left the game
-[09:47:06] [Server thread/INFO]: Stopping the server
-[09:47:06] [Server thread/INFO]: Stopping server
-[09:47:06] [Server thread/INFO]: Saving players
-[09:47:06] [Server thread/INFO]: Saving worlds
-[09:47:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[09:47:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[09:47:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[09:47:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09:47:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:47:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:47:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:22:44] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.2+10-LTS; Microsoft Microsoft-13053558) on Linux 6.8.0-1044-azure (amd64)
+[13:22:44] [ServerMain/INFO]: [bootstrap] Loading Paper 26.1.2-7-main@6f4b004 (2026-04-15T18:38:23Z) for Minecraft 26.1.2
+[13:22:44] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[13:22:45] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[13:22:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[13:22:51] [ServerMain/WARN]: [WorldFolderMigration] ===================== ! ALERT ! =====================
+[13:22:51] [ServerMain/WARN]: [WorldFolderMigration] World storage migration is required during startup.
+[13:22:51] [ServerMain/WARN]: [WorldFolderMigration] If you do not have a backup: interrupt the server now. Use Ctrl+C, your panel kill function, etc.
+[13:22:51] [ServerMain/WARN]: [WorldFolderMigration] =====================================================
+[13:22:51] [ServerMain/WARN]: [WorldFolderMigration] Continuing in 30 seconds...
+[13:23:21] [ServerMain/INFO]: [WorldFolderMigration] Continuing with startup world migration.
+[13:23:21] [ServerMain/INFO]: Starting upgrade for world "world"
+[13:23:21] [ServerMain/INFO]: Upgrading progress: 2%
+[13:23:21] [ServerMain/INFO]: File system capabilities: FileSystemCapabilities[atomicMove=true, hardLinks=true]
+[13:23:21] [ServerMain/INFO]: Applying file structure changes for world "world"
+[13:23:21] [ServerMain/INFO]: Moving new hardlinked world to top level
+[13:23:21] [ServerMain/INFO]: Start cleanup
+[13:23:21] [ServerMain/INFO]: Moving out old world folder
+[13:23:21] [ServerMain/INFO]: Moving in new world folder
+[13:23:21] [ServerMain/INFO]: Done applying file structure changes for world "world". Cleaning up outdated data...
+[13:23:21] [ServerMain/INFO]: Upgrade done for world "world"
+[13:23:22] [Worker-Main-1/INFO]: [VanillaWorldMigration] Starting Vanilla import for world 'world' (minecraft:overworld)
+[13:23:22] [Worker-Main-1/INFO]: [WorldMigrationSupport] Migrating Paper world config from ./world/paper-world.yml to ./world/dimensions/minecraft/overworld/paper-world.yml
+[13:23:22] [Worker-Main-1/INFO]: [VanillaWorldMigration] Completed Vanilla import for world 'world' (minecraft:overworld)
+[13:23:23] [ServerMain/INFO]: Loaded 1515 recipes
+[13:23:23] [ServerMain/INFO]: Loaded 1617 advancements
+[13:23:23] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[13:23:23] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 338.8ms
+[13:23:24] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[13:23:24] [Server thread/INFO]: Loading properties
+[13:23:24] [Server thread/INFO]: This server is running Paper version 26.1.2-7-main@6f4b004 (2026-04-15T18:38:23Z) (Implementing API version 26.1.2.build.7-alpha)
+[13:23:24] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[13:23:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:23:24] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:23:24] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[13:23:24] [Server thread/INFO]: Default game type: SURVIVAL
+[13:23:24] [Server thread/INFO]: Generating keypair
+[13:23:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:23:24] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[13:23:24] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[13:23:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:23:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:23:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:23:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:23:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:23:24] [Server thread/INFO]: Preparing level "world"
+[13:23:25] [Server thread/INFO]: [LegacyCraftBukkitWorldMigration] Starting legacy CraftBukkit import for world 'world_nether' (minecraft:the_nether)
+[13:23:25] [Server thread/INFO]: [WorldMigrationSupport] Migrating world directory from ./world_nether/DIM-1/region to ./world/dimensions/minecraft/the_nether/region
+[13:23:25] [Server thread/INFO]: [WorldMigrationSupport] Migrating Paper world config from ./world_nether/paper-world.yml to ./world/dimensions/minecraft/the_nether/paper-world.yml
+[13:23:25] [Server thread/INFO]: Starting upgrade for world "world_nether"
+[13:23:25] [Server thread/INFO]: Upgrading progress: 2%
+[13:23:25] [Server thread/INFO]: File system capabilities: FileSystemCapabilities[atomicMove=true, hardLinks=true]
+[13:23:25] [Server thread/INFO]: Applying file structure changes for world "world_nether"
+[13:23:25] [Server thread/INFO]: Moving new hardlinked world to top level
+[13:23:25] [Server thread/INFO]: Start cleanup
+[13:23:25] [Server thread/INFO]: Moving out old world folder
+[13:23:25] [Server thread/INFO]: Moving in new world folder
+[13:23:25] [Server thread/INFO]: Done applying file structure changes for world "world_nether". Cleaning up outdated data...
+[13:23:25] [Server thread/INFO]: Upgrade done for world "world_nether"
+[13:23:25] [Server thread/INFO]: [LegacyCraftBukkitWorldMigration] Completed legacy CraftBukkit import for world 'world_nether' (minecraft:the_nether)
+[13:23:25] [Server thread/INFO]: [LegacyCraftBukkitWorldMigration] Starting legacy CraftBukkit import for world 'world_the_end' (minecraft:the_end)
+[13:23:25] [Server thread/INFO]: [WorldMigrationSupport] Migrating world directory from ./world_the_end/DIM1/region to ./world/dimensions/minecraft/the_end/region
+[13:23:25] [Server thread/INFO]: [WorldMigrationSupport] Migrating Paper world config from ./world_the_end/paper-world.yml to ./world/dimensions/minecraft/the_end/paper-world.yml
+[13:23:25] [Server thread/INFO]: Starting upgrade for world "world_the_end"
+[13:23:25] [Server thread/INFO]: Upgrading progress: 2%
+[13:23:25] [Server thread/INFO]: File system capabilities: FileSystemCapabilities[atomicMove=true, hardLinks=true]
+[13:23:25] [Server thread/INFO]: Applying file structure changes for world "world_the_end"
+[13:23:25] [Server thread/INFO]: Moving new hardlinked world to top level
+[13:23:25] [Server thread/INFO]: Start cleanup
+[13:23:25] [Server thread/INFO]: Moving out old world folder
+[13:23:25] [Server thread/INFO]: Moving in new world folder
+[13:23:25] [Server thread/INFO]: Done applying file structure changes for world "world_the_end". Cleaning up outdated data...
+[13:23:25] [Server thread/INFO]: Upgrade done for world "world_the_end"
+[13:23:25] [Server thread/INFO]: [LegacyCraftBukkitWorldMigration] Completed legacy CraftBukkit import for world 'world_the_end' (minecraft:the_end)
+[13:23:25] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[13:23:25] [Server thread/INFO]: Preparing spawn area: 100%
+[13:23:25] [Server thread/INFO]: Prepared spawn area in 2 ms
+[13:23:25] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[13:23:25] [Server thread/INFO]: Prepared spawn area in 0 ms
+[13:23:25] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[13:23:25] [Server thread/INFO]: Preparing spawn area: 100%
+[13:23:25] [Server thread/INFO]: Prepared spawn area in 2 ms
+[13:23:25] [Server thread/INFO]: Done preparing level "world" (0.825s)
+[13:23:25] [Server thread/INFO]: [spark] Starting background profiler...
+[13:23:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:23:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:23:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:23:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:23:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:23:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:23:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:23:26] [Server thread/INFO]: Running delayed init tasks
+[13:23:26] [Server thread/INFO]: Done (43.021s)! For help, type "help"
+[13:26:21] [User Authenticator #0/INFO]: UUID of player olycarpy is 4b6c9f54-2d48-3ecb-a6e4-966dbeced627
+[13:26:28] [Server thread/INFO]: olycarpy joined the game
+[13:26:28] [Server thread/INFO]: olycarpy[/127.210.228.249:44775] logged in with entity id 14 at ([minecraft:overworld]-5.5, 80.0, -0.5)
+[13:27:17] [Server thread/INFO]: olycarpy has made the advancement [Monster Hunter]
+[13:28:02] [User Authenticator #1/INFO]: UUID of player Raijinn is f76ea4a2-37f5-330c-83c4-e99f8f54c6cc
+[13:28:03] [Server thread/INFO]: Raijinn joined the game
+[13:28:03] [Server thread/INFO]: Raijinn[/127.130.22.79:58071] logged in with entity id 884 at ([minecraft:overworld]-3.5, 77.0, 10.5)
+[13:28:52] [Server thread/INFO]: Raijinn has made the advancement [Monster Hunter]
+[13:32:36] [Server thread/INFO]: olycarpy has made the advancement [Diamonds!]
+[13:33:04] [Server thread/INFO]: olycarpy has made the advancement [Stone Age]
+[13:33:18] [Server thread/INFO]: Raijinn has made the advancement [Stone Age]
+[13:33:32] [Server thread/INFO]: olycarpy has made the advancement [Getting an Upgrade]
+[13:34:19] [Server thread/INFO]: Raijinn has made the advancement [Getting an Upgrade]
+[13:47:51] [Server thread/INFO]: Unknown or incomplete command. See below for error
+save<--[HERE]
+[13:48:18] [Server thread/INFO]: Saving is already turned on
+[13:48:22] [Server thread/INFO]: Saving the game (this may take a moment!)
+[13:48:22] [Server thread/INFO]: Saved the game
